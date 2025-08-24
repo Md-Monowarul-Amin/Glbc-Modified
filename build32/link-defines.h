@@ -1,0 +1,12 @@
+#define LONG_DOUBLE_SIZE 12
+#define LRV_EAX_OFFSET 0
+#define LRV_EDX_OFFSET 4
+#define LRV_SIZE 48
+#define LRV_ST0_OFFSET 8
+#define LRV_ST1_OFFSET 20
+#define LR_EAX_OFFSET 8
+#define LR_EBP_OFFSET 12
+#define LR_ECX_OFFSET 4
+#define LR_EDX_OFFSET 0
+#define LR_ESP_OFFSET 16
+#define LR_SIZE 20

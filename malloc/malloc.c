@@ -256,6 +256,12 @@
 #include <random-bits.h>
 #include <sys/random.h>
 #include <not-cancel.h>
+#include "trie.h"
+
+
+struct malloc_state;
+typedef struct malloc_state *mstate;
+
 
 /*
   Debugging:
@@ -288,6 +294,12 @@
 #ifndef MALLOC_DEBUG
 #define MALLOC_DEBUG 0
 #endif
+
+// #ifndef USE_TCACHE
+// # define USE_TCACHE 1
+// #endif
+#undef USE_TCACHE
+#define USE_TCACHE 1
 
 #if USE_TCACHE
 /* We want 64 entries.  This is an arbitrary limit, which tunables can reduce.  */
@@ -323,13 +335,16 @@
    Use randomness from ASLR (mmap_base) to protect single-linked lists
    of Fast-Bins and TCache.  That is, mask the "next" pointers of the
    lists' chunks, and also perform allocation alignment checks on them.
-   This mechanism reduces the risk of pointer hijacking, as was done with
+   This mechanism reduces the risk of pointer hijacking, as was done witha
    Safe-Unlinking in the double-linked lists of Small-Bins.
    It assumes a minimum page size of 4096 bytes (12 bits).  Systems with
    larger pages provide less entropy, although the pointer mangling
    still works.  */
 #define PROTECT_PTR(pos, ptr) \
-  ((__typeof (ptr)) ((((size_t) pos) >> 12) ^ ((size_t) ptr)))
+    ({ \
+    fprintf(stdout, "You are inside PROTECT_PTR\n"); \
+    (__typeof__(ptr)) ((((size_t)(pos)) >> 12) ^ ((size_t)(ptr))); \
+  })
 #define REVEAL_PTR(ptr)  PROTECT_PTR (&ptr, ptr)
 
 /*
@@ -2396,6 +2411,109 @@ do_check_malloc_state (mstate av)
 #endif
 
 
+
+/* -------------------- Trie ------------------------- */
+#define MAX_TRIE_NODES 1024
+
+// Trie node structure for byte-based trie
+struct trieNode {
+    struct trieNode *children[256];  // One child per possible byte value
+    int is_end;                      // Marks end of an address
+};
+
+// Static pool variables
+static struct trieNode *trie_node_pool = NULL;
+static size_t trie_node_index = 0;
+mstate trie_av;
+// Mutex for one-time initialization
+static pthread_mutex_t trie_init_lock = PTHREAD_MUTEX_INITIALIZER;
+int trie_initialized = 0;
+
+int is_trie_initialized(void) {
+    return trie_initialized;
+}
+
+// Initialize the trie node pool (called only once)
+void init_trie_pool(mstate av) {
+    pthread_mutex_lock(&trie_init_lock);
+
+    if (!trie_initialized) {
+        trie_node_pool = (struct trieNode *) sysmalloc(
+            MAX_TRIE_NODES * sizeof(struct trieNode), av);
+
+        if (!trie_node_pool) {
+            pthread_mutex_unlock(&trie_init_lock);
+            return;
+        }
+
+        memset(trie_node_pool, 0, MAX_TRIE_NODES * sizeof(struct trieNode));
+        trie_node_index = 0;
+        trie_initialized = 1;
+    }
+
+    pthread_mutex_unlock(&trie_init_lock);
+}
+
+// // Get a trie node from the pool
+struct trieNode *get_trie_node(mstate av) {
+     if (__glibc_unlikely(!trie_initialized)) {
+         init_trie_pool(av);
+     }
+
+     if (trie_node_index >= MAX_TRIE_NODES) {
+         // Fallback: either return NULL or allocate dynamically
+         return NULL;
+     }
+
+     return &trie_node_pool[trie_node_index++];
+ }
+
+// Example: inserting an address into the trie
+void trie_insert_address(mstate av, uintptr_t addr) {
+    struct trieNode *node = trie_node_pool;
+    if (!node) {
+        node = get_trie_node(av);
+        if (!node) return; // Out of pool memory
+    }
+
+    unsigned char *bytes = (unsigned char *)&addr;
+    for (size_t i = 0; i < sizeof(addr); i++) {
+        if (!node->children[bytes[i]]) {
+            node->children[bytes[i]] = get_trie_node(av);
+            if (!node->children[bytes[i]]) return; // Pool exhausted
+        }
+        node = node->children[bytes[i]];
+    }
+    node->is_end = 1;
+}
+
+// Lookup: check if an address exists in the trie
+int trie_lookup_address(uintptr_t addr) {
+    if (!trie_initialized || !trie_node_pool) {
+        return 0; // Trie not initialized
+    }
+
+    struct trieNode *node = trie_node_pool;
+    unsigned char *bytes = (unsigned char *)&addr;
+
+    for (size_t i = 0; i < sizeof(addr); i++) {
+        if (!node->children[bytes[i]]) {
+            return 0; // Path breaks: address not found
+        }
+        node = node->children[bytes[i]];
+    }
+
+    return node->is_end; // 1 if exact address found, 0 otherwise
+}
+
+
+/*.........................................................................................*/
+
+
+
+
+
+
 /* ----------------- Support for debugging hooks -------------------- */
 #if IS_IN (libc)
 #include "hooks.c"
@@ -2574,6 +2692,8 @@ sysmalloc (INTERNAL_SIZE_T nb, mstate av)
      allocated mmapped regions, try to directly map this request
      rather than expanding top.
    */
+
+
 
   if (av == NULL
       || ((unsigned long) (nb) >= (unsigned long) (mp_.mmap_threshold)
@@ -3182,7 +3302,7 @@ static __always_inline void
 tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
 {
   tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
-
+  trie_insert_address(trie_av, e->next);
   /* Mark this chunk as "in the tcache" so the test in __libc_free will
      detect a double free.  */
   e->key = tcache_key;
@@ -3197,6 +3317,7 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
       e->next = PROTECT_PTR (&e->next, REVEAL_PTR (*ep));
       *ep = PROTECT_PTR (ep, e);
     }
+  trie_insert_address(trie_av, e->next);
   --(tcache->num_slots[tc_idx]);
 }
 
@@ -3212,6 +3333,10 @@ tcache_get_n (size_t tc_idx, tcache_entry **ep, bool mangled)
   else
     e = REVEAL_PTR (*ep);
 
+  if (trie_lookup_address(e->next) != 1){
+    malloc_printerr ("malloc(): Invalid trie_lookup_address");
+  }
+
   if (__glibc_unlikely (misaligned_mem (e)))
     malloc_printerr ("malloc(): unaligned tcache chunk detected");
 
@@ -3222,6 +3347,7 @@ tcache_get_n (size_t tc_idx, tcache_entry **ep, bool mangled)
 
   ++(tcache->num_slots[tc_idx]);
   e->key = 0;
+
   return (void *) e;
 }
 
@@ -3466,9 +3592,17 @@ __libc_malloc2 (size_t bytes)
   return victim;
 }
 
+
+
 void *
 __libc_malloc (size_t bytes)
 {
+  // size_t nb;
+  if (__glibc_unlikely(!trie_initialized)) {
+      arena_get(trie_av, NULL);
+      init_trie_pool(trie_av);
+      trie_initialized = 1;
+  }
 #if USE_TCACHE
   size_t nb = checked_request2size (bytes);
   if (nb == 0)

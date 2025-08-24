@@ -1,0 +1,2154 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (rtld_errno)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__closedir)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__fdopendir)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__readdir64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__rewinddir)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__profile_frequency)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__profil)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__access)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__lseek)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__openat64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___stat64)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___close_nocancel_nostatus)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__fd_to_filename)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__mmap)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__mprotect)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__munmap)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__is_decorate_maps_enabled)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__GI__exit)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__getpid)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__uname)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__environ)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__longjmp)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os) (__libc_sigaction)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (_itoa_word)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os) (__GI__itoa_upper_digits)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (getenv)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (memchr)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (memcmp)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (memmove)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (memset)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (stpcpy)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strchr)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strcmp)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strcspn)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (__strdup)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strerrorname_np)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strlen)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strncmp)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (strnlen)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os) (__strchrnul)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+                              /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (__get_errname)
+
+Merging program properties
+
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (0x0)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os) (0x1)
+Updated property 0xc0010001 (0x2fb) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0x2fb) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os (0xd) and /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os) (0x0)
+
+Discarded input sections
+
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.gnu.property
+                0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+LOAD /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/12/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.property
+                0x0000000000000000       0x40
+ .note.gnu.property
+                0x0000000000000000       0x40 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.relr.dyn
+ *(.relr.dyn)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x26973
+ *(.text .stub)
+ .text          0x0000000000000000    0x211b4 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000070                _dl_call_fini
+                0x00000000000001c0                _dl_signal_exception
+                0x00000000000001c0                __GI__dl_signal_exception
+                0x0000000000000220                __GI__dl_signal_error
+                0x0000000000000220                _dl_signal_error
+                0x0000000000000290                _dl_signal_cexception
+                0x0000000000000320                _dl_signal_cerror
+                0x00000000000003a0                _dl_receive_error
+                0x0000000000000440                _dl_catch_exception
+                0x0000000000000440                __GI__dl_catch_exception
+                0x00000000000005c0                _dl_catch_error
+                0x0000000000000710                _dl_close_worker
+                0x0000000000001500                _dl_close
+                0x0000000000001570                _dl_debug_post_relocate
+                0x00000000000015f0                _dl_debug_update
+                0x0000000000001640                _dl_debug_change_state
+                0x0000000000001680                _dl_debug_initialize
+                0x0000000000001760                _dl_debug_state
+                0x0000000000001760                __GI__dl_debug_state
+                0x00000000000017b0                _dl_map_object_deps
+                0x0000000000002810                _dl_error_free
+                0x0000000000002840                _dl_exception_create
+                0x0000000000002840                __GI__dl_exception_create
+                0x0000000000002910                __GI__dl_exception_create_format
+                0x0000000000002910                _dl_exception_create_format
+                0x0000000000002d30                _dl_exception_free
+                0x0000000000002d30                __GI__dl_exception_free
+                0x0000000000002d60                _dl_make_stack_executable
+                0x0000000000002db0                _dl_handle_execstack_tunable
+                0x00000000000030d0                __GI__dl_find_object
+                0x00000000000030d0                _dl_find_object
+                0x0000000000003430                _dlfo_sort_mappings
+                0x00000000000034f0                _dl_find_object_init
+                0x00000000000036a0                _dl_find_object_update
+                0x0000000000003ab0                _dl_find_object_dlclose
+                0x0000000000003b80                _dl_find_object_freeres
+                0x0000000000003bf0                _dl_fini
+                0x0000000000003fa0                _dl_init
+                0x0000000000005050                _dl_dst_count
+                0x0000000000005100                _dl_dst_substitute
+                0x0000000000005860                _dl_init_paths
+                0x0000000000005bd0                _dl_process_pt_gnu_property
+                0x00000000000077c0                _dl_lookup_map
+                0x00000000000078c0                _dl_map_new_object
+                0x00000000000083e0                _dl_map_object
+                0x0000000000008450                _dl_rtld_di_serinfo
+                0x00000000000093c0                _dl_lookup_symbol_x
+                0x0000000000009f80                _dl_lookup_direct
+                0x000000000000a120                __minimal_malloc
+                0x000000000000a250                __minimal_calloc
+                0x000000000000a290                __minimal_free
+                0x000000000000a2d0                __minimal_realloc
+                0x000000000000a350                _dl_sysdep_read_whole_file
+                0x000000000000a3e0                _dl_name_match_p
+                0x000000000000a450                _dl_higher_prime_number
+                0x000000000000a4a0                _dl_strtoul
+                0x000000000000a650                _dl_add_to_namespace_list
+                0x000000000000a6f0                _dl_new_object
+                0x000000000000af20                __GI__dl_find_dso_for_object
+                0x000000000000af20                _dl_find_dso_for_object
+                0x000000000000afd0                _dl_open
+                0x000000000000b3e0                _dl_show_scope
+                0x000000000000bee0                _dl_get_origin
+                0x000000000000c030                _dl_canonicalize
+                0x000000000000c670                _dl_debug_printf
+                0x000000000000c720                _dl_debug_printf_c
+                0x000000000000c7d0                _dl_dprintf
+                0x000000000000c870                _dl_printf
+                0x000000000000c920                _dl_error_printf
+                0x000000000000c9d0                _dl_fatal_printf
+                0x000000000000c9d0                __GI__dl_fatal_printf
+                0x000000000000ca80                _dl_readonly_area
+                0x000000000000cbe0                _dl_try_allocate_static_tls
+                0x000000000000cd00                _dl_allocate_static_tls
+                0x000000000000cd40                _dl_protect_relro
+                0x000000000000cdc0                _dl_reloc_bad_type
+                0x000000000000cea0                _dl_relocate_object_no_relro
+                0x000000000000f5a0                _dl_relocate_object
+                0x000000000000f5d0                _dl_fixup
+                0x000000000000f870                _dl_profile_fixup
+                0x000000000000fba0                _dl_scope_free
+                0x000000000000fc70                _dl_setup_hash
+                0x000000000000fe00                _dl_sort_maps_init
+                0x000000000000fe30                _dl_sort_maps
+                0x0000000000010340                __thread_gscope_wait
+                0x0000000000010830                _dl_tls_static_surplus_init
+                0x00000000000108d0                _dl_assign_tls_modid
+                0x00000000000109b0                _dl_count_modids
+                0x0000000000010a20                _dl_determine_tlsoffset
+                0x0000000000010c00                _dl_get_tls_static_info
+                0x0000000000010c20                _dl_allocate_tls_storage
+                0x0000000000010d00                __GI__dl_allocate_tls_init
+                0x0000000000010d00                _dl_allocate_tls_init
+                0x0000000000010f30                __GI__dl_allocate_tls
+                0x0000000000010f30                _dl_allocate_tls
+                0x0000000000010f70                _dl_deallocate_tls
+                0x0000000000010f70                __GI__dl_deallocate_tls
+                0x0000000000011000                _dl_update_slotinfo
+                0x0000000000011200                __GI___tls_get_addr
+                0x0000000000011200                ___tls_get_addr
+                0x0000000000011260                _dl_tls_get_addr_soft
+                0x00000000000112e0                _dl_tls_initial_modid_limit_setup
+                0x0000000000011330                _dl_add_to_slotinfo
+                0x0000000000011480                _dl_init_static_tls
+                0x00000000000115b0                __tls_get_addr_slow
+                0x0000000000011600                __tls_pre_init_tp
+                0x0000000000011660                __tls_init_tp
+                0x00000000000117c0                _dl_runtime_profile_sse
+                0x0000000000011950                _dl_runtime_resolve_fxsave
+                0x00000000000119d0                _dl_runtime_resolve_xsave
+                0x0000000000011aa0                _dl_runtime_resolve_xsavec
+                0x0000000000011d00                __tunable_is_initialized
+                0x0000000000011d00                __GI___tunable_is_initialized
+                0x0000000000011d20                __GI___tunable_set_val
+                0x0000000000011d40                __GI___tunables_init
+                0x00000000000121d0                __GI___tunables_print
+                0x00000000000122f0                __tunable_get_default
+                0x00000000000122f0                __GI___tunable_get_default
+                0x0000000000012340                __tunable_get_val
+                0x0000000000012340                __GI___tunable_get_val
+                0x00000000000123c0                _dl_check_map_versions
+                0x0000000000012c30                _dl_check_all_versions
+                0x0000000000012ca0                _dl_write
+                0x0000000000012cb0                _dl_cache_libcmp
+                0x00000000000133b0                _dl_load_cache_lookup
+                0x0000000000013730                _dl_unload_cache
+                0x00000000000139b0                _dl_cet_open_check
+                0x0000000000013a50                _dl_cet_setup_features
+                0x0000000000013ad0                _dl_cet_check
+                0x0000000000016720                __x86_cpu_features
+                0x0000000000016750                _dl_x86_init_cpu_features
+                0x0000000000016770                _dl_x86_get_cpu_features
+                0x0000000000016780                _dl_tlsdesc_return
+                0x0000000000016790                _dl_tlsdesc_undefweak
+                0x00000000000167b0                _dl_tlsdesc_dynamic_fxsave
+                0x0000000000016870                _dl_tlsdesc_dynamic_xsave
+                0x0000000000016980                _dl_tlsdesc_dynamic_xsavec
+                0x0000000000016a80                __tls_get_addr
+                0x0000000000016ad0                _dl_make_tlsdesc_dynamic
+                0x0000000000016d90                _dl_unmap
+                0x0000000000016e10                _dl_audit_activity_map
+                0x0000000000016ea0                _dl_audit_activity_nsid
+                0x0000000000016ee0                _dl_audit_objsearch
+                0x0000000000016f90                _dl_audit_objopen
+                0x0000000000017050                _dl_audit_objclose
+                0x00000000000170f0                _dl_audit_preinit
+                0x0000000000017170                _dl_audit_symbind_alt
+                0x0000000000017170                __GI__dl_audit_symbind_alt
+                0x0000000000017320                _dl_audit_symbind
+                0x00000000000175b0                _dl_audit_pltenter
+                0x00000000000177c0                _dl_audit_pltexit
+                0x00000000000179a0                _dl_diagnostics_print_string
+                0x0000000000017a20                _dl_diagnostics_print_labeled_string
+                0x0000000000017a70                _dl_diagnostics_print_labeled_value
+                0x0000000000017a90                _dl_print_diagnostics
+                0x0000000000018810                _dl_diagnostics_cpu
+                0x0000000000018fe0                _dl_diagnostics_kernel
+                0x00000000000190b0                _dl_next_ld_env_entry
+                0x0000000000019100                unsetenv
+                0x0000000000019230                _dl_important_hwcaps
+                0x00000000000195a0                _dl_hwcaps_subdirs_active
+                0x0000000000019680                _dl_hwcaps_split
+                0x0000000000019720                _dl_hwcaps_contains
+                0x00000000000197e0                _dl_hwcaps_split_masked
+                0x0000000000019890                __rtld_libc_freeres
+                0x00000000000199f0                __rtld_malloc_init_stubs
+                0x0000000000019a30                __sigjmp_save
+                0x0000000000019a40                __strerror_r
+                0x0000000000019b00                __GI___libc_fatal
+                0x0000000000019b00                __libc_fatal
+                0x0000000000019b20                __GI___chk_fail
+                0x0000000000019b20                __chk_fail
+                0x0000000000019b40                __rtld_malloc_is_complete
+                0x0000000000019c50                __rtld_malloc_init_real
+                0x0000000000019d40                _itoa
+                0x0000000000019d80                __strsep
+                0x0000000000019d80                strsep
+                0x0000000000019d80                __strsep_g
+                0x0000000000019df0                __rtld_mutex_init
+                0x0000000000019ec0                _dl_start_profile
+                0x000000000001a670                __GI__dl_mcount
+                0x000000000001a670                _dl_mcount
+                0x000000000001aa30                _dl_tunable_set_hwcaps
+                0x000000000001b4d0                _dl_tunable_set_x86_ibt
+                0x000000000001b560                _dl_tunable_set_x86_shstk
+                0x000000000001b5f0                _dl_sysdep_start
+                0x000000000001b6b0                _dl_sysdep_start_cleanup
+                0x000000000001b6c0                _dl_show_auxv
+                0x000000000001b890                _dl_usage
+                0x000000000001b8e0                _dl_version
+                0x000000000001b900                _dl_help
+                0x000000000001bbc0                _start
+                0x000000000001bbc8                _dl_start_user
+                0x000000000001cd40                handle_preload_list
+                0x0000000000020980                __brk
+                0x0000000000020980                brk
+                0x00000000000209b0                __getcwd
+                0x00000000000209b0                getcwd
+                0x0000000000020f90                openat64
+                0x0000000000020fd0                __alloc_dir
+                0x00000000000210a0                __opendir
+                0x00000000000210a0                opendir
+                0x0000000000021130                sbrk
+                0x0000000000021130                __sbrk
+ *fill*         0x00000000000211b4        0xc 
+ .text          0x00000000000211c0       0xd6 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000021260                __libc_check_standard_fds
+ .text          0x0000000000021296        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x0000000000021296        0xa 
+ .text          0x00000000000212a0       0x2a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x00000000000212a0                __closedir
+                0x00000000000212a0                closedir
+ *fill*         0x00000000000212ca        0x6 
+ .text          0x00000000000212d0       0x9e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x00000000000212d0                fdopendir
+                0x00000000000212d0                __fdopendir
+ *fill*         0x000000000002136e        0x2 
+ .text          0x0000000000021370       0xde /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x0000000000021370                readdir
+                0x0000000000021370                __readdir64
+                0x0000000000021370                __readdir
+                0x0000000000021370                readdir64
+ *fill*         0x000000000002144e        0x2 
+ .text          0x0000000000021450       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000021450                rewinddir
+                0x0000000000021450                __rewinddir
+ *fill*         0x000000000002147c        0x4 
+ .text          0x0000000000021480       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x0000000000021480                getdents64
+                0x0000000000021480                __getdents64
+ .text          0x00000000000214b0       0x7b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x00000000000214b0                _dl_addr_inside_object
+ *fill*         0x000000000002152b        0x5 
+ .text          0x0000000000021530        0xb /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000021530                __profile_frequency
+ *fill*         0x000000000002153b        0x5 
+ .text          0x0000000000021540       0xf7 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000021590                __profil
+                0x0000000000021590                profil
+ *fill*         0x0000000000021637        0x9 
+ .text          0x0000000000021640       0x26 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+                0x0000000000021640                access
+                0x0000000000021640                __access
+ *fill*         0x0000000000021666        0xa 
+ .text          0x0000000000021670       0x26 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x0000000000021670                __GI___fstat64
+                0x0000000000021670                fstat64
+                0x0000000000021670                fstat
+                0x0000000000021670                __fstat64
+                0x0000000000021670                __fstat
+ *fill*         0x0000000000021696        0xa 
+ .text          0x00000000000216a0       0x2e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x00000000000216a0                fstatat
+                0x00000000000216a0                __fstatat
+                0x00000000000216a0                fstatat64
+                0x00000000000216a0                __fstatat64
+                0x00000000000216a0                __GI___fstatat
+                0x00000000000216a0                __GI___fstatat64
+ *fill*         0x00000000000216ce        0x2 
+ .text          0x00000000000216d0       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x00000000000216d0                __lseek64
+                0x00000000000216d0                lseek
+                0x00000000000216d0                __libc_lseek64
+                0x00000000000216d0                __lseek
+                0x00000000000216d0                __libc_lseek
+                0x00000000000216d0                lseek64
+ *fill*         0x00000000000216f8        0x8 
+ .text          0x0000000000021700       0x19 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x0000000000021700                __lstat64
+                0x0000000000021700                lstat
+                0x0000000000021700                lstat64
+                0x0000000000021700                __GI___lstat64
+                0x0000000000021700                __lstat
+ *fill*         0x0000000000021719        0x7 
+ .text          0x0000000000021720       0x66 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x0000000000021720                __openat64
+                0x0000000000021720                __libc_openat64
+                0x0000000000021720                __openat
+                0x0000000000021720                openat
+ *fill*         0x0000000000021786        0xa 
+ .text          0x0000000000021790       0x16 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x0000000000021790                stat64
+                0x0000000000021790                __stat
+                0x0000000000021790                __stat64
+                0x0000000000021790                stat
+                0x0000000000021790                __GI___stat64
+ *fill*         0x00000000000217a6        0xa 
+ .text          0x00000000000217b0       0x26 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x00000000000217b0                __GI___close_nocancel
+ *fill*         0x00000000000217d6        0xa 
+ .text          0x00000000000217e0        0xc /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+                0x00000000000217e0                __GI___close_nocancel_nostatus
+ *fill*         0x00000000000217ec        0x4 
+ .text          0x00000000000217f0       0xde /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x00000000000217f0                __fcntl64_nocancel
+                0x00000000000217f0                __GI___fcntl64_nocancel
+                0x0000000000021870                __fcntl64_nocancel_adjusted
+ *fill*         0x00000000000218ce        0x2 
+ .text          0x00000000000218d0       0x76 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x00000000000218d0                __GI___open_nocancel
+                0x00000000000218d0                __open_nocancel
+                0x00000000000218d0                __GI___open64_nocancel
+                0x00000000000218d0                __open64_nocancel
+ *fill*         0x0000000000021946        0xa 
+ .text          0x0000000000021950       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x0000000000021950                __GI___pread64_nocancel
+                0x0000000000021950                __pread64_nocancel
+ .text          0x0000000000021980       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x0000000000021980                __read_nocancel
+                0x0000000000021980                __GI___read_nocancel
+ *fill*         0x00000000000219a8        0x8 
+ .text          0x00000000000219b0       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x00000000000219b0                __GI___write_nocancel
+                0x00000000000219b0                __write_nocancel
+ *fill*         0x00000000000219d8        0x8 
+ .text          0x00000000000219e0       0xaf /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x00000000000219e0                __libc_scratch_buffer_set_array_size
+ *fill*         0x0000000000021a8f        0x1 
+ .text          0x0000000000021a90       0x47 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+                0x0000000000021a90                __fd_to_filename
+ *fill*         0x0000000000021ad7        0x9 
+ .text          0x0000000000021ae0       0xa1 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000021ae0                __mmap
+                0x0000000000021ae0                mmap
+                0x0000000000021ae0                __mmap64
+                0x0000000000021ae0                mmap64
+ *fill*         0x0000000000021b81        0xf 
+ .text          0x0000000000021b90       0x24 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000021b90                __mprotect
+                0x0000000000021b90                __GI___mprotect
+                0x0000000000021b90                __GI_mprotect
+                0x0000000000021b90                mprotect
+ *fill*         0x0000000000021bb4        0xc 
+ .text          0x0000000000021bc0       0x24 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000021bc0                munmap
+                0x0000000000021bc0                __GI___munmap
+                0x0000000000021bc0                __GI_munmap
+                0x0000000000021bc0                __munmap
+ *fill*         0x0000000000021be4        0xc 
+ .text          0x0000000000021bf0       0xbf /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+                0x0000000000021bf0                __is_decorate_maps_enabled
+                0x0000000000021c60                __set_vma_name
+ *fill*         0x0000000000021caf        0x1 
+ .text          0x0000000000021cb0       0xf8 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000021cb0                __lll_lock_wait_private
+                0x0000000000021d10                __lll_lock_wait
+                0x0000000000021d70                __lll_lock_wake_private
+                0x0000000000021d90                __lll_lock_wake
+ *fill*         0x0000000000021da8        0x8 
+ .text          0x0000000000021db0       0x27 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000021db0                _Exit
+                0x0000000000021db0                __GI__exit
+                0x0000000000021db0                _exit
+ *fill*         0x0000000000021dd7        0x9 
+ .text          0x0000000000021de0        0xc /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000021de0                __getpid
+                0x0000000000021de0                getpid
+                0x0000000000021de0                __GI_getpid
+                0x0000000000021de0                __GI___getpid
+ *fill*         0x0000000000021dec        0x4 
+ .text          0x0000000000021df0       0x24 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000021df0                uname
+                0x0000000000021df0                __GI_uname
+                0x0000000000021df0                __uname
+                0x0000000000021df0                __GI___uname
+ .text          0x0000000000021e14        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x0000000000021e14        0xc 
+ .text          0x0000000000021e20       0x5e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000021e20                __sigsetjmp
+                0x0000000000021e20                __GI___sigsetjmp
+ *fill*         0x0000000000021e7e        0x2 
+ .text          0x0000000000021e80       0xae /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000021e80                __longjmp
+ *fill*         0x0000000000021f2e        0x2 
+ .text          0x0000000000021f30      0x1b7 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x0000000000021f50                __libc_sigaction
+ *fill*         0x00000000000220e7        0x9 
+ .text          0x00000000000220f0      0x140 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+                0x00000000000220f0                _itoa_word
+                0x00000000000221e0                _fitoa_word
+ .text          0x0000000000022230        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .text          0x0000000000022230       0xa5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+                0x0000000000022230                getenv
+ *fill*         0x00000000000222d5        0xb 
+ .text          0x00000000000222e0      0x323 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+                0x00000000000222e0                memchr
+                0x00000000000222e0                __memchr
+ *fill*         0x0000000000022603       0x1d 
+ .text          0x0000000000022620      0x2d0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000022620                bcmp
+                0x0000000000022620                memcmp
+ .text          0x00000000000228f0      0x1f1 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+                0x00000000000228f0                mempcpy
+                0x00000000000228f0                __mempcpy
+                0x0000000000022900                memmove
+                0x0000000000022900                memcpy
+ *fill*         0x0000000000022ae1        0xf 
+ .text          0x0000000000022af0       0xd9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000022af0                memset
+ *fill*         0x0000000000022bc9        0x7 
+ .text          0x0000000000022bd0      0x6c0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x0000000000022bd0                stpcpy
+                0x0000000000022bd0                __stpcpy
+ .text          0x0000000000023290      0x22a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+                0x0000000000023290                index
+                0x0000000000023290                strchr
+ *fill*         0x00000000000234ba        0x6 
+ .text          0x00000000000234c0     0x1449 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x00000000000234c0                strcmp
+ *fill*         0x0000000000024909        0x7 
+ .text          0x0000000000024910      0x167 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+                0x0000000000024910                strcspn
+ *fill*         0x0000000000024a77        0x9 
+ .text          0x0000000000024a80       0x49 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x0000000000024a80                __strdup
+                0x0000000000024a80                strdup
+ *fill*         0x0000000000024ac9        0x7 
+ .text          0x0000000000024ad0        0x9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                0x0000000000024ad0                strerrorname_np
+ *fill*         0x0000000000024ad9        0x7 
+ .text          0x0000000000024ae0      0x19c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+                0x0000000000024ae0                strlen
+ *fill*         0x0000000000024c7c        0x4 
+ .text          0x0000000000024c80     0x1859 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+                0x0000000000024c80                strncmp
+ *fill*         0x00000000000264d9        0x7 
+ .text          0x00000000000264e0      0x218 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x00000000000264e0                __strnlen
+                0x00000000000264e0                strnlen
+ *fill*         0x00000000000266f8        0x8 
+ .text          0x0000000000026700      0x20a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                0x0000000000026700                __strchrnul
+                0x0000000000026700                strchrnul
+ *fill*         0x000000000002690a        0x6 
+ .text          0x0000000000026910       0x26 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000026910                setitimer
+                0x0000000000026910                __setitimer
+ *fill*         0x0000000000026936        0xa 
+ .text          0x0000000000026940       0x33 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+                0x0000000000026940                __get_errname
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0xf11
+ .text.unlikely
+                0x0000000000000000      0xef2 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000916                __GI___assert_fail
+                0x0000000000000916                __assert_fail
+                0x0000000000000983                __GI___assert_perror_fail
+                0x0000000000000983                __assert_perror_fail
+ .text.unlikely
+                0x0000000000000ef2       0x1f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+
+.text.evex512   0x0000000000000000      0x3fd
+ .text.evex512  0x0000000000000000      0x3fd /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx512
+
+.text.avx       0x0000000000000000      0x3ef
+ .text.avx      0x0000000000000000      0x3ef /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx
+
+.text.compat    0x0000000000000000        0x5
+ .text.compat   0x0000000000000000        0x5 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x19b5
+ *(.rodata)
+ .rodata        0x0000000000000000     0x1332 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .rodata        0x0000000000001332       0x80 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ *fill*         0x00000000000013b2        0x6 
+ .rodata        0x00000000000013b8       0x40 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .rodata        0x00000000000013f8       0x40 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ *fill*         0x0000000000001438        0x8 
+ .rodata        0x0000000000001440      0x575 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.rodata.str1.1  0x0000000000000000     0x1919
+ .rodata.str1.1
+                0x0000000000000000     0x18e4 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x00000000000018e4       0x14 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x00000000000018f8       0x21 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x591
+ .rodata.str1.16
+                0x0000000000000000      0x575 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x00000000000003b0                _dl_hwcaps_subdirs
+                0x0000000000000410                __GI__itoa_lower_digits
+                0x0000000000000410                _itoa_lower_digits
+ *fill*         0x0000000000000575        0xb 
+ .rodata.str1.16
+                0x0000000000000580       0x11 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+
+.rodata.str1.8  0x0000000000000000     0x31bf
+ .rodata.str1.8
+                0x0000000000000000     0x3181 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ *fill*         0x0000000000003181        0x7 
+ .rodata.str1.8
+                0x0000000000003188       0x37 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+
+.rodata.str1.32
+                0x0000000000000000       0x85
+ .rodata.str1.32
+                0x0000000000000000       0x5b /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ *fill*         0x000000000000005b        0x5 
+ .rodata.str1.32
+                0x0000000000000060       0x25 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+                0x0000000000000060                __GI__itoa_upper_digits
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata.cst16   0x0000000000000000       0x50
+ .rodata.cst16  0x0000000000000000       0x50 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+
+.rodata.cst2    0x0000000000000000        0x4
+ .rodata.cst2   0x0000000000000000        0x4 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+
+.rodata.cst8    0x0000000000000000        0x8
+ .rodata.cst8   0x0000000000000000        0x8 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x4b74
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x3e58 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                                       0x3ed8 (size before relaxing)
+ .eh_frame      0x0000000000003e58       0x68 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000003ec0       0x38 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000003ef8       0x48 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000003f40       0x60 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x0000000000003fa0       0x38 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x0000000000003fd8       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x0000000000004008       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x0000000000004038       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000004068       0x48 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x00000000000040b0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x00000000000040e0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .eh_frame      0x0000000000004110       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .eh_frame      0x0000000000004140       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000004170       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .eh_frame      0x00000000000041a0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x00000000000041d0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .eh_frame      0x0000000000004200       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x0000000000004230       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .eh_frame      0x0000000000004260       0x40 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x00000000000042a0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x00000000000042d0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x0000000000004300       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000004330       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x0000000000004360       0x58 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x00000000000043b8       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .eh_frame      0x0000000000004408       0x48 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000004450       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000004480       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x00000000000044b0       0x70 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .eh_frame      0x0000000000004520       0x70 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .eh_frame      0x0000000000004590       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x00000000000045c0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000045f0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000004620       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000004650       0x48 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000004698       0xc8 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000004760       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .eh_frame      0x00000000000047b0       0x78 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .eh_frame      0x0000000000004828       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x0000000000004858       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x0000000000004888       0x40 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .eh_frame      0x00000000000048c8       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x00000000000048f8       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000004928       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000004958       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x0000000000004988       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .eh_frame      0x00000000000049d8       0x50 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000004a28       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .eh_frame      0x0000000000004a58       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .eh_frame      0x0000000000004a88       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .eh_frame      0x0000000000004ab8       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000004ae8       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .eh_frame      0x0000000000004b18       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000004b48       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+                                         0x30 (size before relaxing)
+
+.sframe
+ *(.sframe)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.sframe
+ *(.sframe)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000      0x84c
+ *(.data)
+ .data          0x0000000000000000      0x848 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000848        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000848        0x4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x000000000000084c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.data.rel.ro    0x0000000000000000     0x1bc0
+ .data.rel.ro   0x0000000000000000     0x1bc0 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000050                __rtld_search_dirs
+                0x0000000000000080                __rtld_env_path_list
+                0x0000000000000090                _dl_tls_initial_modid_limit
+                0x0000000000001778                __GI___rseq_size
+                0x0000000000001778                _rseq_size
+                0x0000000000001778                __rseq_size
+                0x0000000000001780                __rseq_offset
+                0x0000000000001780                __GI___rseq_offset
+                0x0000000000001780                _rseq_offset
+                0x0000000000001788                __rtld_realloc
+                0x0000000000001790                __rtld_malloc
+                0x0000000000001798                __rtld_free
+                0x00000000000017a0                __rtld_calloc
+                0x00000000000017a8                ___rtld_mutex_unlock
+                0x00000000000017b0                ___rtld_mutex_lock
+                0x00000000000017b8                _dl_random
+                0x00000000000017c0                __libc_stack_end
+                0x00000000000017c0                __GI___libc_stack_end
+                0x00000000000017c8                __GI___libc_enable_secure
+                0x00000000000017c8                __libc_enable_secure
+                0x00000000000017f0                __pointer_chk_guard_local
+                0x00000000000017f8                __GI__dl_argv
+                0x00000000000017f8                _dl_argv
+                0x0000000000001800                _dl_argc
+                0x0000000000001820                _rtld_global_ro
+                0x0000000000001820                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000       0x28
+ .data.rel.ro.local
+                0x0000000000000000       0x28 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000000                __x86_cpu_features_p
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0xa88
+ *(.bss)
+ .bss           0x0000000000000000      0xa40 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+                0x0000000000000020                _r_debug_array
+                0x00000000000002f8                __GI__r_debug
+                0x00000000000002f8                _r_debug_extended
+                0x00000000000002f8                _r_debug
+                0x0000000000000370                _dl_tls_threads_in_update
+                0x0000000000000378                _rseq_align
+                0x0000000000000380                __nptl_initial_report_events
+                0x0000000000000380                __GI___nptl_initial_report_events
+                0x00000000000003b8                _dl_x86_features_tlsdesc_state_size
+                0x00000000000003c0                _dl_hwcaps_priorities_length
+                0x00000000000003c8                _dl_hwcaps_priorities
+                0x0000000000000420                __rtld_tls_init_tp_called
+                0x0000000000000440                _dl_rtld_auditstate
+                0x0000000000000540                _dl_rtld_map
+                0x0000000000000a38                __curbrk
+ .bss           0x0000000000000a40        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000a40        0x4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+                0x0000000000000a40                rtld_errno
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .bss           0x0000000000000a44        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ *fill*         0x0000000000000a44        0x4 
+ .bss           0x0000000000000a48       0x20 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000a68        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .bss           0x0000000000000a68        0x4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000000a68                __pthread_force_elision
+ .bss           0x0000000000000a6c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000a6c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x0000000000000a6c        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ *fill*         0x0000000000000a6c        0x4 
+ .bss           0x0000000000000a70       0x18 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000a70                __environ_counter
+                0x0000000000000a78                __environ_array_list
+                0x0000000000000a80                _environ
+                0x0000000000000a80                __environ
+                0x0000000000000a80                environ
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x0000000000000a88        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000     0x1104
+ *(.comment)
+ .comment       0x0000000000000000      0xa24 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .comment       0x0000000000000a24       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000a50       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x0000000000000a7c       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x0000000000000aa8       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000ad4       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x0000000000000b00       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x0000000000000b2c       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x0000000000000b58       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x0000000000000b84       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x0000000000000bb0       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000bdc       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x0000000000000c08       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x0000000000000c34       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000c60       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000c8c       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x0000000000000cb8       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x0000000000000ce4       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x0000000000000d10       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000d3c       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .comment       0x0000000000000d68       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000d94       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x0000000000000dc0       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000dec       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x0000000000000e18       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000e44       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000e70       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .comment       0x0000000000000e9c       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000ec8       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .comment       0x0000000000000ef4       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x0000000000000f20       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000f4c       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000f78       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000fa4       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .comment       0x0000000000000fd0       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .comment       0x0000000000000ffc       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .comment       0x0000000000001028       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .comment       0x0000000000001054       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000001080       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .comment       0x00000000000010ac       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .comment       0x00000000000010d8       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1830
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0xda0 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000da0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x0000000000000dd0       0x20 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_aranges
+                0x00000000000010c0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x00000000000010f0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_aranges
+                0x0000000000001120       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000001150       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000001180       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x00000000000011b0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x00000000000011e0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000001210       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000001240       0x40 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_aranges
+                0x0000000000001280       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x00000000000012b0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x00000000000012e0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000001310       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_aranges
+                0x0000000000001340       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001370       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x00000000000013a0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x00000000000013d0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000001400       0x20 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000001420       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000001450       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000001480       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_aranges
+                0x00000000000014b0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_aranges
+                0x00000000000014e0       0x20 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .debug_aranges
+                0x0000000000001500       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_aranges
+                0x0000000000001530       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_aranges
+                0x0000000000001560       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_aranges
+                0x0000000000001590       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_aranges
+                0x00000000000015c0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_aranges
+                0x00000000000015f0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_aranges
+                0x0000000000001620       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_aranges
+                0x0000000000001650       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_aranges
+                0x0000000000001680       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_aranges
+                0x00000000000016b0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x00000000000016e0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_aranges
+                0x0000000000001710       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_aranges
+                0x0000000000001740       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_aranges
+                0x0000000000001770       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_aranges
+                0x00000000000017a0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_aranges
+                0x00000000000017d0       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_aranges
+                0x0000000000001800       0x30 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xb05e3
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x9e494 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_info    0x000000000009e494      0x817 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x000000000009ecab      0x3e6 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x000000000009f091      0x596 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x000000000009f627      0x74f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x000000000009fd76      0x71a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x00000000000a0490      0x508 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x00000000000a0998      0x4d6 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x00000000000a0e6e      0xe33 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x00000000000a1ca1     0x21df /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x00000000000a3e80      0xb5e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x00000000000a49de      0x497 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x00000000000a4e75      0x626 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_info    0x00000000000a549b      0x762 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_info    0x00000000000a5bfd      0x4ce /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x00000000000a60cb      0x29a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_info    0x00000000000a6365      0x5a2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x00000000000a6907      0x298 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_info    0x00000000000a6b9f      0x46d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x00000000000a700c      0x444 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_info    0x00000000000a7450      0x8dd /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x00000000000a7d2d      0x594 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x00000000000a82c1      0x51c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x00000000000a87dd      0x4e0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x00000000000a8cbd      0x4e4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x00000000000a91a1      0x3ba /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x00000000000a955b      0x214 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_info    0x00000000000a976f     0x26bd /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000abe2c       0x6a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x00000000000abe96       0x6a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000abf00      0x8e8 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_info    0x00000000000ac7e8      0x945 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_info    0x00000000000ad12d      0x45e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000ad58b       0x6a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x00000000000ad5f5       0x6a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000ad65f      0x4af /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x00000000000adb0e       0x48 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000adb56       0x3b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000adb91      0x94b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_info    0x00000000000ae4dc      0x1d0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_info    0x00000000000ae6ac       0x7d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .debug_info    0x00000000000ae729      0x546 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_info    0x00000000000aec6f       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_info    0x00000000000aecbc       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_info    0x00000000000aed09       0x6d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_info    0x00000000000aed76       0x3b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_info    0x00000000000aedb1       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_info    0x00000000000aedfe       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_info    0x00000000000aee4b       0x3b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_info    0x00000000000aee86      0x1f3 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_info    0x00000000000af079      0x1ec /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000af265       0xd7 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_info    0x00000000000af33c       0x3b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_info    0x00000000000af377       0x3b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_info    0x00000000000af3b2       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_info    0x00000000000af3ff       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_info    0x00000000000af44c      0x56e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_info    0x00000000000af9ba      0xc29 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_abbrev   0x0000000000000000    0x168ff
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000    0x12445 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000012445      0x20c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x0000000000012651       0xee /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x000000000001273f      0x20e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x000000000001294d      0x1e5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x0000000000012b32      0x27c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x0000000000012dae      0x181 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x0000000000012f2f      0x15e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x000000000001308d      0x218 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x00000000000132a5      0x31b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x00000000000135c0      0x2df /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x000000000001389f      0x14c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x00000000000139eb      0x150 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_abbrev  0x0000000000013b3b      0x1eb /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_abbrev  0x0000000000013d26      0x15d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x0000000000013e83       0xfa /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_abbrev  0x0000000000013f7d      0x19a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x0000000000014117       0xfa /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_abbrev  0x0000000000014211      0x149 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x000000000001435a      0x139 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_abbrev  0x0000000000014493      0x264 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x00000000000146f7      0x18d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x0000000000014884      0x171 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x00000000000149f5      0x166 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000014b5b      0x164 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x0000000000014cbf      0x24c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x0000000000014f0b      0x148 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_abbrev  0x0000000000015053      0x407 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x000000000001545a       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x0000000000015482       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x00000000000154aa      0x242 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_abbrev  0x00000000000156ec      0x275 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_abbrev  0x0000000000015961      0x141 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x0000000000015aa2       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x0000000000015aca       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x0000000000015af2      0x123 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x0000000000015c15       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x0000000000015c3d       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x0000000000015c65      0x208 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_abbrev  0x0000000000015e6d       0xfc /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_abbrev  0x0000000000015f69       0x5f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .debug_abbrev  0x0000000000015fc8      0x18f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_abbrev  0x0000000000016157       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_abbrev  0x000000000001617f       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_abbrev  0x00000000000161a7       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_abbrev  0x00000000000161cf       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_abbrev  0x00000000000161f7       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_abbrev  0x000000000001621f       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_abbrev  0x0000000000016247       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_abbrev  0x000000000001626f      0x113 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_abbrev  0x0000000000016382      0x15c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x00000000000164de       0x9c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_abbrev  0x000000000001657a       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_abbrev  0x00000000000165a2       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_abbrev  0x00000000000165ca       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_abbrev  0x00000000000165f2       0x28 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_abbrev  0x000000000001661a      0x16b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_abbrev  0x0000000000016785      0x17a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_line     0x0000000000000000    0x23ceb
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1ffd0 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_line    0x000000000001ffd0      0x136 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x0000000000020106       0x68 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000002016e       0xfb /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x0000000000020269      0x140 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x00000000000203a9      0x1da /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x0000000000020583       0xd9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x000000000002065c       0xd1 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x000000000002072d      0x115 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x0000000000020842      0x130 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x0000000000020972      0x212 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x0000000000020b84       0xb5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x0000000000020c39       0xcf /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line    0x0000000000020d08       0xec /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line    0x0000000000020df4       0xc2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x0000000000020eb6       0x81 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line    0x0000000000020f37      0x104 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x000000000002103b       0x81 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line    0x00000000000210bc       0xb3 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x000000000002116f       0x87 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_line    0x00000000000211f6      0x172 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x0000000000021368       0xf1 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x0000000000021459       0xd2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x000000000002152b       0xc9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x00000000000215f4       0xc9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x00000000000216bd      0x18c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x0000000000021849       0xcf /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_line    0x0000000000021918      0x1bd /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x0000000000021ad5       0x51 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x0000000000021b26       0x51 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x0000000000021b77      0x1a7 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_line    0x0000000000021d1e      0x1c9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line    0x0000000000021ee7       0xb5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x0000000000021f9c       0x4f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x0000000000021feb       0x51 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x000000000002203c       0x7a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x00000000000220b6       0x62 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x0000000000022118       0x7c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x0000000000022194      0x1d2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line    0x0000000000022366      0x174 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_line    0x00000000000224da       0x3f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .debug_line    0x0000000000022519      0x16b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_line    0x0000000000022684      0x119 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line    0x000000000002279d      0x139 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line    0x00000000000228d6       0xdc /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line    0x00000000000229b2       0x98 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line    0x0000000000022a4a      0x1c9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line    0x0000000000022c13       0xd2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line    0x0000000000022ce5      0x491 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line    0x0000000000023176      0x1d1 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line    0x0000000000023347       0xae /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x00000000000233f5       0x5d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line    0x0000000000023452       0x98 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line    0x00000000000234ea      0x527 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line    0x0000000000023a11       0x9c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line    0x0000000000023aad       0xcc /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line    0x0000000000023b79       0xcf /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line    0x0000000000023c48       0xa3 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x6bc9a
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x5e19f /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_str     0x000000000005e19f      0x546 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x000000000005e6e5      0x365 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x000000000005ea4a      0x40d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x000000000005ee57      0x539 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x000000000005f390      0x4af /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x000000000005f83f      0x3d3 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x000000000005fc12      0x3b8 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x000000000005ffca      0xab6 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x0000000000060a80     0x16aa /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x000000000006212a      0x6e4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x000000000006280e      0x397 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x0000000000062ba5      0x4af /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_str     0x0000000000063054      0x4da /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_str     0x000000000006352e      0x3b5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x00000000000638e3      0x2bc /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_str     0x0000000000063b9f      0x42d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x0000000000063fcc      0x2ba /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_str     0x0000000000064286      0x3a4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x000000000006462a      0x3a4 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_str     0x00000000000649ce      0x491 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x0000000000064e5f      0x436 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x0000000000065295      0x3f5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x000000000006568a      0x3d0 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x0000000000065a5a      0x3d2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x0000000000065e2c      0x2a5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x00000000000660d1      0x21e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_str     0x00000000000662ef     0x1b1d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x0000000000067e0c       0x89 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x0000000000067e95       0x81 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x0000000000067f16      0xd05 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_str     0x0000000000068c1b      0x44c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_str     0x0000000000069067      0x395 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x00000000000693fc       0x82 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x000000000006947e       0x7e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x00000000000694fc      0x3ea /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x00000000000698e6       0x6e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x0000000000069954       0x5e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x00000000000699b2      0x5cd /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_str     0x0000000000069f7f      0x1c7 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_str     0x000000000006a146      0x14d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .debug_str     0x000000000006a293      0x3de /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_str     0x000000000006a671       0x7d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_str     0x000000000006a6ee       0x79 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_str     0x000000000006a767       0x90 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_str     0x000000000006a7f7       0x82 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_str     0x000000000006a879       0x87 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_str     0x000000000006a900       0x7a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_str     0x000000000006a97a       0x74 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_str     0x000000000006a9ee      0x1d3 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_str     0x000000000006abc1      0x1e9 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x000000000006adaa      0x194 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_str     0x000000000006af3e       0x74 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_str     0x000000000006afb2       0x75 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_str     0x000000000006b027       0x7f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_str     0x000000000006b0a6       0x83 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_str     0x000000000006b129      0x445 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_str     0x000000000006b56e      0x72c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000    0x1095b
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000     0xc793 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_line_str
+                0x000000000000c793      0x1ad /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line_str
+                0x000000000000c940       0xef /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line_str
+                0x000000000000ca2f      0x1d2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line_str
+                0x000000000000cc01      0x23d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line_str
+                0x000000000000ce3e      0x1db /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line_str
+                0x000000000000d019      0x1c6 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line_str
+                0x000000000000d1df      0x181 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line_str
+                0x000000000000d360      0x1fa /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line_str
+                0x000000000000d55a      0x318 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line_str
+                0x000000000000d872      0x2c6 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line_str
+                0x000000000000db38      0x126 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line_str
+                0x000000000000dc5e      0x180 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line_str
+                0x000000000000ddde      0x186 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line_str
+                0x000000000000df64      0x13b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line_str
+                0x000000000000e09f      0x123 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line_str
+                0x000000000000e1c2      0x177 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line_str
+                0x000000000000e339      0x120 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line_str
+                0x000000000000e459      0x13e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line_str
+                0x000000000000e597      0x146 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_line_str
+                0x000000000000e6dd      0x189 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line_str
+                0x000000000000e866      0x17e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line_str
+                0x000000000000e9e4      0x188 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line_str
+                0x000000000000eb6c      0x17f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line_str
+                0x000000000000eceb      0x182 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line_str
+                0x000000000000ee6d      0x118 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line_str
+                0x000000000000ef85      0x108 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_line_str
+                0x000000000000f08d      0x329 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line_str
+                0x000000000000f3b6       0x4b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line_str
+                0x000000000000f401       0x4b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line_str
+                0x000000000000f44c      0x20f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_line_str
+                0x000000000000f65b      0x136 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line_str
+                0x000000000000f791      0x129 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line_str
+                0x000000000000f8ba       0x4c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line_str
+                0x000000000000f906       0x4c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line_str
+                0x000000000000f952      0x13d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line_str
+                0x000000000000fa8f       0x45 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line_str
+                0x000000000000fad4       0x48 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line_str
+                0x000000000000fb1c      0x259 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line_str
+                0x000000000000fd75       0xa5 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_line_str
+                0x000000000000fe1a       0xa8 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-itoa-udigits.os)
+ .debug_line_str
+                0x000000000000fec2      0x15b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_line_str
+                0x000000000001001d       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line_str
+                0x000000000001007e       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line_str
+                0x00000000000100df       0x63 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line_str
+                0x0000000000010142       0x6f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line_str
+                0x00000000000101b1       0x6b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line_str
+                0x000000000001021c       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line_str
+                0x000000000001027d       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line_str
+                0x00000000000102de      0x117 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line_str
+                0x00000000000103f5       0xce /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line_str
+                0x00000000000104c3       0x9d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line_str
+                0x0000000000010560       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line_str
+                0x00000000000105c1       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line_str
+                0x0000000000010622       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line_str
+                0x0000000000010683       0x61 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line_str
+                0x00000000000106e4      0x16a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line_str
+                0x000000000001084e      0x10d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loclists
+                0x0000000000000000    0x29736
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000    0x27fb4 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_loclists
+                0x0000000000027fb4       0xa2 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loclists
+                0x0000000000028056       0x46 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loclists
+                0x000000000002809c       0x4d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loclists
+                0x00000000000280e9      0x159 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loclists
+                0x0000000000028242       0x25 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loclists
+                0x0000000000028267       0xeb /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loclists
+                0x0000000000028352      0x16b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loclists
+                0x00000000000284bd      0x110 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loclists
+                0x00000000000285cd       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loclists
+                0x00000000000285f9       0x2c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_loclists
+                0x0000000000028625       0x92 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_loclists
+                0x00000000000286b7       0x34 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loclists
+                0x00000000000286eb       0x3e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_loclists
+                0x0000000000028729       0x85 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loclists
+                0x00000000000287ae       0x3e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_loclists
+                0x00000000000287ec       0x24 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loclists
+                0x0000000000028810       0x14 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel_nostatus.os)
+ .debug_loclists
+                0x0000000000028824      0x248 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loclists
+                0x0000000000028a6c       0xd1 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loclists
+                0x0000000000028b3d       0x52 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loclists
+                0x0000000000028b8f       0x34 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loclists
+                0x0000000000028bc3       0x34 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loclists
+                0x0000000000028bf7      0x115 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loclists
+                0x0000000000028d0c       0xab /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_loclists
+                0x0000000000028db7      0x1a8 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loclists
+                0x0000000000028f5f      0x137 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_loclists
+                0x0000000000029096      0x18c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_loclists
+                0x0000000000029222       0x2b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loclists
+                0x000000000002924d       0xd7 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_loclists
+                0x0000000000029324      0x160 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_fitoa_word.os)
+ .debug_loclists
+                0x0000000000029484       0x96 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_loclists
+                0x000000000002951a      0x14c /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_loclists
+                0x0000000000029666       0x6a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loclists
+                0x00000000000296d0       0x1e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_loclists
+                0x00000000000296ee       0x34 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_loclists
+                0x0000000000029722       0x14 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000     0x5d14
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000     0x5a68 /home/saraj/Desktop/glibc_modified/build/elf/dl-allobjs.os
+ .debug_rnglists
+                0x0000000000005a68       0x34 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_rnglists
+                0x0000000000005a9c       0x1d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_rnglists
+                0x0000000000005ab9       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_rnglists
+                0x0000000000005acc       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_rnglists
+                0x0000000000005adf       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_rnglists
+                0x0000000000005af2       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_rnglists
+                0x0000000000005b05       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_rnglists
+                0x0000000000005b18       0x3a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_rnglists
+                0x0000000000005b52       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_rnglists
+                0x0000000000005b65       0x1d /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_rnglists
+                0x0000000000005b82       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_rnglists
+                0x0000000000005b95       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_rnglists
+                0x0000000000005ba8       0x1f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_rnglists
+                0x0000000000005bc7       0x36 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-fd_to_filename.os)
+ .debug_rnglists
+                0x0000000000005bfd       0x20 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_rnglists
+                0x0000000000005c1d       0x1e /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_rnglists
+                0x0000000000005c3b       0x2f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_rnglists
+                0x0000000000005c6a       0x1a /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_rnglists
+                0x0000000000005c84       0x3f /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_rnglists
+                0x0000000000005cc3       0x2b /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-getenv.os)
+ .debug_rnglists
+                0x0000000000005cee       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_rnglists
+                0x0000000000005d01       0x13 /home/saraj/Desktop/glibc_modified/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/saraj/Desktop/glibc_modified/build/elf/librtld.os elf64-x86-64)

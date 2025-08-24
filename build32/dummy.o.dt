@@ -1,0 +1,18 @@
+/home/saraj/Desktop/glibc_modified/build32/dummy.o: \
+ /home/saraj/Desktop/glibc_modified/build32/dummy.c \
+ ../include/stdc-predef.h \
+ /home/saraj/Desktop/glibc_modified/build32/libc-modules.h \
+ ../include/libc-symbols.h ../include/libc-misc.h \
+ /home/saraj/Desktop/glibc_modified/build32/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/i386/symbol-hacks.h \
+ ../sysdeps/wordsize-32/divdi3-symbol-hacks.h \
+ ../sysdeps/generic/symbol-hacks.h
+../include/stdc-predef.h:
+/home/saraj/Desktop/glibc_modified/build32/libc-modules.h:
+../include/libc-symbols.h:
+../include/libc-misc.h:
+/home/saraj/Desktop/glibc_modified/build32/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/i386/symbol-hacks.h:
+../sysdeps/wordsize-32/divdi3-symbol-hacks.h:
+../sysdeps/generic/symbol-hacks.h:

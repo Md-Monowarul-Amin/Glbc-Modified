@@ -1,0 +1,16 @@
+#define SIG_BLOCK 0
+#define SIG_SETMASK 2
+#define oEBP 44
+#define oEBX 52
+#define oEDI 36
+#define oEIP 76
+#define oESI 40
+#define oESP 48
+#define oFPREGS 96
+#define oFPREGSMEM 236
+#define oFS 24
+#define oGS 20
+#define oLINK 4
+#define oSIGMASK 108
+#define oSS_SIZE 16
+#define oSS_SP 8

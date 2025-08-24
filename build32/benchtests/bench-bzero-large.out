@@ -1,0 +1,100 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "bzero": {
+   "bench-variant": "large",
+   "ifuncs": ["memset_zero", "bzero"],
+   "results": [
+    {
+     "length": 65536,
+     "alignment": 0,
+     "timings": [4829.05, 4792.14]
+    },
+    {
+     "length": 65536,
+     "alignment": 3,
+     "timings": [5090.91, 5190.6]
+    },
+    {
+     "length": 131072,
+     "alignment": 0,
+     "timings": [9371.9, 9414.78]
+    },
+    {
+     "length": 131072,
+     "alignment": 3,
+     "timings": [10675, 10564.8]
+    },
+    {
+     "length": 262144,
+     "alignment": 0,
+     "timings": [19084.5, 19554.9]
+    },
+    {
+     "length": 262144,
+     "alignment": 3,
+     "timings": [21310.3, 21047.7]
+    },
+    {
+     "length": 524288,
+     "alignment": 0,
+     "timings": [40076.7, 38815.9]
+    },
+    {
+     "length": 524288,
+     "alignment": 3,
+     "timings": [44977.6, 45264.5]
+    },
+    {
+     "length": 1048576,
+     "alignment": 0,
+     "timings": [81497.9, 79199.5]
+    },
+    {
+     "length": 1048576,
+     "alignment": 3,
+     "timings": [86267.3, 85511.6]
+    },
+    {
+     "length": 2097152,
+     "alignment": 0,
+     "timings": [162414, 161620]
+    },
+    {
+     "length": 2097152,
+     "alignment": 3,
+     "timings": [175683, 193388]
+    },
+    {
+     "length": 4194304,
+     "alignment": 0,
+     "timings": [405002, 328176]
+    },
+    {
+     "length": 4194304,
+     "alignment": 3,
+     "timings": [356015, 357369]
+    },
+    {
+     "length": 8388608,
+     "alignment": 0,
+     "timings": [1.45325e+06, 1.37992e+06]
+    },
+    {
+     "length": 8388608,
+     "alignment": 3,
+     "timings": [1.48034e+06, 1.54754e+06]
+    },
+    {
+     "length": 16777216,
+     "alignment": 0,
+     "timings": [3.24928e+06, 3.08441e+06]
+    },
+    {
+     "length": 16777216,
+     "alignment": 3,
+     "timings": [3.31732e+06, 3.20329e+06]
+    }]
+  }
+ }
+}

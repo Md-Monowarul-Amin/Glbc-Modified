@@ -1,0 +1,7 @@
+@ifclear PKGVERS
+@set PKGVERS
+@set PKGVERSION (GNU libc) 
+@set PKGVERSION_DEFAULT
+@set REPORT_BUGS_TO @uref{https://www.gnu.org/software/libc/bugs.html}
+@set man_pages_version 6.9.1
+@end ifclear

@@ -1,0 +1,19 @@
+{
+ "timing_type": "hp_timing",
+ "single-thread": {
+  "functions": ["arc4random", "arc4random_buf(16)", "arc4random_buf(32)", "arc4random_buf(48)", "arc4random_buf(64)", "arc4random_buf(80)", "arc4random_buf(96)", "arc4random_buf(112)", "arc4random_buf(128)"],
+  "results": [
+   {
+    "throughput": [8.15483e+06, 3.08865e+07, 6.42473e+07, 6.89232e+07, 9.20262e+07, 8.70965e+07, 1.04092e+08, 1.20572e+08, 1.33934e+08],
+    "latency": [1659.5, 1677.93, 1237.36, 1730.02, 1791.24, 2301.87, 2596.63, 3571.14, 3160.94]
+   }]
+ }
+}You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR
+You are inside PROTECT_PTR

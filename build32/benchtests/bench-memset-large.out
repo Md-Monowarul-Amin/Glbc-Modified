@@ -1,0 +1,118 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "memset": {
+   "bench-variant": "large",
+   "ifuncs": ["generic_memset", "__memset_sse2_rep", "__memset_sse2", "__memset_ia32"],
+   "results": [
+    {
+     "length": 65536,
+     "alignment": 0,
+     "char": 65,
+     "timings": [17851, 4200.57, 5477.02, 3736.68]
+    },
+    {
+     "length": 65536,
+     "alignment": 3,
+     "char": 65,
+     "timings": [18955.3, 4635.21, 5292.42, 5014.46]
+    },
+    {
+     "length": 131072,
+     "alignment": 0,
+     "char": 65,
+     "timings": [37589.2, 9638.6, 13201.1, 10883]
+    },
+    {
+     "length": 131072,
+     "alignment": 3,
+     "char": 65,
+     "timings": [38381.3, 10123, 10721.1, 9623.21]
+    },
+    {
+     "length": 262144,
+     "alignment": 0,
+     "char": 65,
+     "timings": [121255, 19947.5, 23869.3, 19510.6]
+    },
+    {
+     "length": 262144,
+     "alignment": 3,
+     "char": 65,
+     "timings": [98301.8, 21520.8, 24775.9, 32037.1]
+    },
+    {
+     "length": 524288,
+     "alignment": 0,
+     "char": 65,
+     "timings": [190915, 37358.9, 51889.2, 55058.7]
+    },
+    {
+     "length": 524288,
+     "alignment": 3,
+     "char": 65,
+     "timings": [158915, 41419.3, 50249.1, 60752.5]
+    },
+    {
+     "length": 1048576,
+     "alignment": 0,
+     "char": 65,
+     "timings": [318561, 76875.5, 102562, 89326]
+    },
+    {
+     "length": 1048576,
+     "alignment": 3,
+     "char": 65,
+     "timings": [319726, 82150.6, 104519, 89034.2]
+    },
+    {
+     "length": 2097152,
+     "alignment": 0,
+     "char": 65,
+     "timings": [641774, 168484, 241009, 173899]
+    },
+    {
+     "length": 2097152,
+     "alignment": 3,
+     "char": 65,
+     "timings": [647029, 165925, 200668, 168887]
+    },
+    {
+     "length": 4194304,
+     "alignment": 0,
+     "char": 65,
+     "timings": [1.3457e+06, 308085, 404369, 307809]
+    },
+    {
+     "length": 4194304,
+     "alignment": 3,
+     "char": 65,
+     "timings": [1.321e+06, 353267, 410508, 339088]
+    },
+    {
+     "length": 8388608,
+     "alignment": 0,
+     "char": 65,
+     "timings": [2.73902e+06, 1.22842e+06, 1.36381e+06, 1.24136e+06]
+    },
+    {
+     "length": 8388608,
+     "alignment": 3,
+     "char": 65,
+     "timings": [2.68618e+06, 1.4305e+06, 1.45797e+06, 1.40177e+06]
+    },
+    {
+     "length": 16777216,
+     "alignment": 0,
+     "char": 65,
+     "timings": [5.73615e+06, 2.87295e+06, 2.98585e+06, 2.98757e+06]
+    },
+    {
+     "length": 16777216,
+     "alignment": 3,
+     "char": 65,
+     "timings": [6.92338e+06, 3.37266e+06, 2.9855e+06, 3.05972e+06]
+    }]
+  }
+ }
+}

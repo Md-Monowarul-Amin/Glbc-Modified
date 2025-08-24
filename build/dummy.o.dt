@@ -1,0 +1,14 @@
+/home/saraj/Desktop/glibc_modified/build/dummy.o: \
+ /home/saraj/Desktop/glibc_modified/build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/saraj/Desktop/glibc_modified/build/libc-modules.h \
+ ../include/libc-symbols.h ../include/libc-misc.h \
+ /home/saraj/Desktop/glibc_modified/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+../include/stdc-predef.h:
+/home/saraj/Desktop/glibc_modified/build/libc-modules.h:
+../include/libc-symbols.h:
+../include/libc-misc.h:
+/home/saraj/Desktop/glibc_modified/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:

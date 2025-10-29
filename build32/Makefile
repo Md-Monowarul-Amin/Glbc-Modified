@@ -1,7 +1,7 @@
 srcdir = ..
 
 TEST_CC = gcc-12 -m32
-TEST_CXX = 
+TEST_CXX = g++-12 -m32
 test-cc-option-wimplicit-fallthrough = -Wimplicit-fallthrough
 test-config-cflags-mprefer-vector-width = 
 test-config-cflags-signaling-nans = -fsignaling-nans
@@ -9,7 +9,7 @@ test-config-cflags-wno-ignored-attributes =
 test-enable-cet = 
 test-have-mamx-tile = 
 test-have-static-pie = yes
-test-supported-fortify = 2
+test-supported-fortify = 3
 
 # Uncomment the line below if you want to do parallel build.
 # PARALLELMFLAGS = -j 4

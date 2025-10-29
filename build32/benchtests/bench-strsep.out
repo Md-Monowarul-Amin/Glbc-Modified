@@ -1,0 +1,3843 @@
+                       	strsep
+Length    8/2, alignment  0/ 0, found:	78.1172
+Length    8/2, alignment  0/ 0, fail:	76.6165
+Length    8/2, alignment  0/ 3, found:	81.7463
+Length    8/2, alignment  0/ 3, fail:	78.2874
+Length    8/2, alignment  0/ 9, found:	78.0659
+Length    8/2, alignment  0/ 9, fail:	76.4473
+Length    8/2, alignment  0/15, found:	80.2991
+Length    8/2, alignment  0/15, fail:	77.7124
+Length    8/2, alignment  3/ 0, found:	78.0618
+Length    8/2, alignment  3/ 0, fail:	76.4368
+Length    8/2, alignment  3/ 3, found:	83.2793
+Length    8/2, alignment  3/ 3, fail:	81.4922
+Length    8/2, alignment  3/ 9, found:	78.0659
+Length    8/2, alignment  3/ 9, fail:	76.5295
+Length    8/2, alignment  3/15, found:	82.1099
+Length    8/2, alignment  3/15, fail:	76.5266
+Length    8/2, alignment  9/ 0, found:	78.0613
+Length    8/2, alignment  9/ 0, fail:	78.0627
+Length    8/2, alignment  9/ 3, found:	80.0784
+Length    8/2, alignment  9/ 3, fail:	76.5325
+Length    8/2, alignment  9/ 9, found:	78.0667
+Length    8/2, alignment  9/ 9, fail:	78.2449
+Length    8/2, alignment  9/15, found:	79.9485
+Length    8/2, alignment  9/15, fail:	76.5298
+Length    8/2, alignment 15/ 0, found:	78.0669
+Length    8/2, alignment 15/ 0, fail:	79.8088
+Length    8/2, alignment 15/ 3, found:	81.7869
+Length    8/2, alignment 15/ 3, fail:	76.5605
+Length    8/2, alignment 15/ 9, found:	78.2778
+Length    8/2, alignment 15/ 9, fail:	78.3647
+Length    8/2, alignment 15/15, found:	79.9124
+Length    8/2, alignment 15/15, fail:	76.5581
+Length   10/2, alignment  0/ 0, found:	449.738
+Length   10/2, alignment  0/ 0, fail:	78.8733
+Length   10/2, alignment  0/ 3, found:	78.0759
+Length   10/2, alignment  0/ 3, fail:	76.061
+Length   10/2, alignment  0/ 9, found:	82.5498
+Length   10/2, alignment  0/ 9, fail:	76.0686
+Length   10/2, alignment  0/15, found:	78.0645
+Length   10/2, alignment  0/15, fail:	76.0662
+Length   10/2, alignment  3/ 0, found:	80.1536
+Length   10/2, alignment  3/ 0, fail:	76.0598
+Length   10/2, alignment  3/ 3, found:	78.0615
+Length   10/2, alignment  3/ 3, fail:	84.4807
+Length   10/2, alignment  3/ 9, found:	80.8721
+Length   10/2, alignment  3/ 9, fail:	76.0686
+Length   10/2, alignment  3/15, found:	78.0615
+Length   10/2, alignment  3/15, fail:	79.6838
+Length   10/2, alignment  9/ 0, found:	79.6848
+Length   10/2, alignment  9/ 0, fail:	76.0627
+Length   10/2, alignment  9/ 3, found:	78.0613
+Length   10/2, alignment  9/ 3, fail:	78.123
+Length   10/2, alignment  9/ 9, found:	79.6355
+Length   10/2, alignment  9/ 9, fail:	76.0618
+Length   10/2, alignment  9/15, found:	78.0615
+Length   10/2, alignment  9/15, fail:	78.0007
+Length   10/2, alignment 15/ 0, found:	81.9004
+Length   10/2, alignment 15/ 0, fail:	76.0613
+Length   10/2, alignment 15/ 3, found:	78.0625
+Length   10/2, alignment 15/ 3, fail:	79.4646
+Length   10/2, alignment 15/ 9, found:	78.0913
+Length   10/2, alignment 15/ 9, fail:	76.0608
+Length   10/2, alignment 15/15, found:	80.0308
+Length   10/2, alignment 15/15, fail:	78.439
+Length   12/2, alignment  0/ 0, found:	78.1252
+Length   12/2, alignment  0/ 0, fail:	76.6658
+Length   12/2, alignment  0/ 3, found:	80.0901
+Length   12/2, alignment  0/ 3, fail:	78.2808
+Length   12/2, alignment  0/ 9, found:	78.1111
+Length   12/2, alignment  0/ 9, fail:	76.7124
+Length   12/2, alignment  0/15, found:	80.011
+Length   12/2, alignment  0/15, fail:	78.1465
+Length   12/2, alignment  3/ 0, found:	78.1123
+Length   12/2, alignment  3/ 0, fail:	76.6975
+Length   12/2, alignment  3/ 3, found:	80.1238
+Length   12/2, alignment  3/ 3, fail:	77.9448
+Length   12/2, alignment  3/ 9, found:	78.1099
+Length   12/2, alignment  3/ 9, fail:	76.5393
+Length   12/2, alignment  3/15, found:	82.1902
+Length   12/2, alignment  3/15, fail:	76.5801
+Length   12/2, alignment  9/ 0, found:	78.1118
+Length   12/2, alignment  9/ 0, fail:	78.4343
+Length   12/2, alignment  9/ 3, found:	79.9912
+Length   12/2, alignment  9/ 3, fail:	76.5393
+Length   12/2, alignment  9/ 9, found:	78.1133
+Length   12/2, alignment  9/ 9, fail:	78.4309
+Length   12/2, alignment  9/15, found:	79.7014
+Length   12/2, alignment  9/15, fail:	76.8845
+Length   12/2, alignment 15/ 0, found:	79.7683
+Length   12/2, alignment 15/ 0, fail:	78.7546
+Length   12/2, alignment 15/ 3, found:	82.3215
+Length   12/2, alignment 15/ 3, fail:	81.4485
+Length   12/2, alignment 15/ 9, found:	83.5139
+Length   12/2, alignment 15/ 9, fail:	82.7952
+Length   12/2, alignment 15/15, found:	81.8049
+Length   12/2, alignment 15/15, fail:	77.1526
+Length   14/2, alignment  0/ 0, found:	81.8528
+Length   14/2, alignment  0/ 0, fail:	81.1648
+Length   14/2, alignment  0/ 3, found:	78.4309
+Length   14/2, alignment  0/ 3, fail:	78.5776
+Length   14/2, alignment  0/ 9, found:	80.5957
+Length   14/2, alignment  0/ 9, fail:	80.7417
+Length   14/2, alignment  0/15, found:	78.3254
+Length   14/2, alignment  0/15, fail:	79.1636
+Length   14/2, alignment  3/ 0, found:	80.4534
+Length   14/2, alignment  3/ 0, fail:	81.0583
+Length   14/2, alignment  3/ 3, found:	78.3435
+Length   14/2, alignment  3/ 3, fail:	79.0693
+Length   14/2, alignment  3/ 9, found:	81.5618
+Length   14/2, alignment  3/ 9, fail:	79.5063
+Length   14/2, alignment  3/15, found:	79.7935
+Length   14/2, alignment  3/15, fail:	82.502
+Length   14/2, alignment  9/ 0, found:	80.4753
+Length   14/2, alignment  9/ 0, fail:	79.312
+Length   14/2, alignment  9/ 3, found:	78.4368
+Length   14/2, alignment  9/ 3, fail:	82.3464
+Length   14/2, alignment  9/ 9, found:	82.7485
+Length   14/2, alignment  9/ 9, fail:	79.6621
+Length   14/2, alignment  9/15, found:	78.5671
+Length   14/2, alignment  9/15, fail:	81.5518
+Length   14/2, alignment 15/ 0, found:	85.3228
+Length   14/2, alignment 15/ 0, fail:	79.2844
+Length   14/2, alignment 15/ 3, found:	89.989
+Length   14/2, alignment 15/ 3, fail:	82.0686
+Length   14/2, alignment 15/ 9, found:	86.5596
+Length   14/2, alignment 15/ 9, fail:	80.1802
+Length   14/2, alignment 15/15, found:	89.7031
+Length   14/2, alignment 15/15, fail:	79.3154
+Length   12/3, alignment  0/ 0, found:	80.2715
+Length   12/3, alignment  0/ 0, fail:	80.7761
+Length   12/3, alignment  0/ 3, found:	81.929
+Length   12/3, alignment  0/ 3, fail:	78.3669
+Length   12/3, alignment  0/ 9, found:	80.4004
+Length   12/3, alignment  0/ 9, fail:	716.75
+Length   12/3, alignment  0/15, found:	80.7273
+Length   12/3, alignment  0/15, fail:	79.1155
+Length   12/3, alignment  3/ 0, found:	84.2534
+Length   12/3, alignment  3/ 0, fail:	82.2295
+Length   12/3, alignment  3/ 3, found:	80.7991
+Length   12/3, alignment  3/ 3, fail:	79.1445
+Length   12/3, alignment  3/ 9, found:	82.8767
+Length   12/3, alignment  3/ 9, fail:	80.4968
+Length   12/3, alignment  3/15, found:	80.9539
+Length   12/3, alignment  3/15, fail:	79.3223
+Length   12/3, alignment  9/ 0, found:	84.4094
+Length   12/3, alignment  9/ 0, fail:	79.4705
+Length   12/3, alignment  9/ 3, found:	81.3535
+Length   12/3, alignment  9/ 3, fail:	82.5027
+Length   12/3, alignment  9/ 9, found:	82.7065
+Length   12/3, alignment  9/ 9, fail:	78.7632
+Length   12/3, alignment  9/15, found:	80.4124
+Length   12/3, alignment  9/15, fail:	80.8752
+Length   12/3, alignment 15/ 0, found:	84.1536
+Length   12/3, alignment 15/ 0, fail:	78.5156
+Length   12/3, alignment 15/ 3, found:	82.6836
+Length   12/3, alignment 15/ 3, fail:	83.1941
+Length   12/3, alignment 15/ 9, found:	87.8499
+Length   12/3, alignment 15/ 9, fail:	78.7034
+Length   12/3, alignment 15/15, found:	85.4226
+Length   12/3, alignment 15/15, fail:	81.2932
+Length   15/3, alignment  0/ 0, found:	80.52
+Length   15/3, alignment  0/ 0, fail:	82.376
+Length   15/3, alignment  0/ 3, found:	82.4487
+Length   15/3, alignment  0/ 3, fail:	84.9453
+Length   15/3, alignment  0/ 9, found:	80.4636
+Length   15/3, alignment  0/ 9, fail:	84.5818
+Length   15/3, alignment  0/15, found:	81.72
+Length   15/3, alignment  0/15, fail:	82.3018
+Length   15/3, alignment  3/ 0, found:	80.3711
+Length   15/3, alignment  3/ 0, fail:	84.8418
+Length   15/3, alignment  3/ 3, found:	81.9146
+Length   15/3, alignment  3/ 3, fail:	82.8523
+Length   15/3, alignment  3/ 9, found:	83.5874
+Length   15/3, alignment  3/ 9, fail:	89.4358
+Length   15/3, alignment  3/15, found:	83.1704
+Length   15/3, alignment  3/15, fail:	85.1626
+Length   15/3, alignment  9/ 0, found:	87.3882
+Length   15/3, alignment  9/ 0, fail:	88.0239
+Length   15/3, alignment  9/ 3, found:	82.3154
+Length   15/3, alignment  9/ 3, fail:	82.5955
+Length   15/3, alignment  9/ 9, found:	86.3293
+Length   15/3, alignment  9/ 9, fail:	83.1184
+Length   15/3, alignment  9/15, found:	80.5386
+Length   15/3, alignment  9/15, fail:	85.6431
+Length   15/3, alignment 15/ 0, found:	85.4443
+Length   15/3, alignment 15/ 0, fail:	83.5623
+Length   15/3, alignment 15/ 3, found:	83.8369
+Length   15/3, alignment 15/ 3, fail:	86.0081
+Length   15/3, alignment 15/ 9, found:	82.9985
+Length   15/3, alignment 15/ 9, fail:	83.1633
+Length   15/3, alignment 15/15, found:	87.0796
+Length   15/3, alignment 15/15, fail:	85.3086
+Length   18/3, alignment  0/ 0, found:	81.3628
+Length   18/3, alignment  0/ 0, fail:	85.9836
+Length   18/3, alignment  0/ 3, found:	86.1584
+Length   18/3, alignment  0/ 3, fail:	85.9392
+Length   18/3, alignment  0/ 9, found:	80.5725
+Length   18/3, alignment  0/ 9, fail:	88.238
+Length   18/3, alignment  0/15, found:	82.9458
+Length   18/3, alignment  0/15, fail:	86.0103
+Length   18/3, alignment  3/ 0, found:	81.0024
+Length   18/3, alignment  3/ 0, fail:	90.0869
+Length   18/3, alignment  3/ 3, found:	80.5464
+Length   18/3, alignment  3/ 3, fail:	84.9819
+Length   18/3, alignment  3/ 9, found:	82.4651
+Length   18/3, alignment  3/ 9, fail:	87.1433
+Length   18/3, alignment  3/15, found:	88.2485
+Length   18/3, alignment  3/15, fail:	85.3638
+Length   18/3, alignment  9/ 0, found:	87.1211
+Length   18/3, alignment  9/ 0, fail:	85.8616
+Length   18/3, alignment  9/ 3, found:	81.1143
+Length   18/3, alignment  9/ 3, fail:	92.9268
+Length   18/3, alignment  9/ 9, found:	92.7793
+Length   18/3, alignment  9/ 9, fail:	93.8911
+Length   18/3, alignment  9/15, found:	92.1194
+Length   18/3, alignment  9/15, fail:	94.2598
+Length   18/3, alignment 15/ 0, found:	83.9343
+Length   18/3, alignment 15/ 0, fail:	96.0259
+Length   18/3, alignment 15/ 3, found:	86.2598
+Length   18/3, alignment 15/ 3, fail:	90.5032
+Length   18/3, alignment 15/ 9, found:	80.9775
+Length   18/3, alignment 15/ 9, fail:	92.2659
+Length   18/3, alignment 15/15, found:	80.1755
+Length   18/3, alignment 15/15, fail:	85.1477
+Length   21/3, alignment  0/ 0, found:	83.2393
+Length   21/3, alignment  0/ 0, fail:	89.5212
+Length   21/3, alignment  0/ 3, found:	81.0735
+Length   21/3, alignment  0/ 3, fail:	87.072
+Length   21/3, alignment  0/ 9, found:	83.1143
+Length   21/3, alignment  0/ 9, fail:	88.6323
+Length   21/3, alignment  0/15, found:	81.0703
+Length   21/3, alignment  0/15, fail:	89.0173
+Length   21/3, alignment  3/ 0, found:	82.3306
+Length   21/3, alignment  3/ 0, fail:	86.9321
+Length   21/3, alignment  3/ 3, found:	81.0632
+Length   21/3, alignment  3/ 3, fail:	88.9119
+Length   21/3, alignment  3/ 9, found:	81.9597
+Length   21/3, alignment  3/ 9, fail:	86.9255
+Length   21/3, alignment  3/15, found:	82.5549
+Length   21/3, alignment  3/15, fail:	88.7971
+Length   21/3, alignment  9/ 0, found:	81.092
+Length   21/3, alignment  9/ 0, fail:	86.9678
+Length   21/3, alignment  9/ 3, found:	82.9741
+Length   21/3, alignment  9/ 3, fail:	88.623
+Length   21/3, alignment  9/ 9, found:	81.0684
+Length   21/3, alignment  9/ 9, fail:	88.9526
+Length   21/3, alignment  9/15, found:	82.3811
+Length   21/3, alignment  9/15, fail:	86.9214
+Length   21/3, alignment 15/ 0, found:	80.7456
+Length   21/3, alignment 15/ 0, fail:	89.6201
+Length   21/3, alignment 15/ 3, found:	81.8289
+Length   21/3, alignment 15/ 3, fail:	86.9258
+Length   21/3, alignment 15/ 9, found:	81.061
+Length   21/3, alignment 15/ 9, fail:	88.5654
+Length   21/3, alignment 15/15, found:	84.7463
+Length   21/3, alignment 15/15, fail:	87.302
+Length   16/4, alignment  0/ 0, found:	83.6333
+Length   16/4, alignment  0/ 0, fail:	85.2744
+Length   16/4, alignment  0/ 3, found:	80.7876
+Length   16/4, alignment  0/ 3, fail:	83.0632
+Length   16/4, alignment  0/ 9, found:	84.8662
+Length   16/4, alignment  0/ 9, fail:	83.053
+Length   16/4, alignment  0/15, found:	80.7783
+Length   16/4, alignment  0/15, fail:	85.2021
+Length   16/4, alignment  3/ 0, found:	83.3914
+Length   16/4, alignment  3/ 0, fail:	83.0542
+Length   16/4, alignment  3/ 3, found:	80.7993
+Length   16/4, alignment  3/ 3, fail:	86.4048
+Length   16/4, alignment  3/ 9, found:	80.7795
+Length   16/4, alignment  3/ 9, fail:	83.0603
+Length   16/4, alignment  3/15, found:	82.6675
+Length   16/4, alignment  3/15, fail:	84.5232
+Length   16/4, alignment  9/ 0, found:	80.7969
+Length   16/4, alignment  9/ 0, fail:	83.0588
+Length   16/4, alignment  9/ 3, found:	82.5828
+Length   16/4, alignment  9/ 3, fail:	84.6023
+Length   16/4, alignment  9/ 9, found:	80.7913
+Length   16/4, alignment  9/ 9, fail:	83.0588
+Length   16/4, alignment  9/15, found:	84.0457
+Length   16/4, alignment  9/15, fail:	83.0496
+Length   16/4, alignment 15/ 0, found:	82.4734
+Length   16/4, alignment 15/ 0, fail:	84.863
+Length   16/4, alignment 15/ 3, found:	85.1138
+Length   16/4, alignment 15/ 3, fail:	83.054
+Length   16/4, alignment 15/ 9, found:	82.3914
+Length   16/4, alignment 15/ 9, fail:	86.2209
+Length   16/4, alignment 15/15, found:	82.2915
+Length   16/4, alignment 15/15, fail:	83.0571
+Length   20/4, alignment  0/ 0, found:	83.7334
+Length   20/4, alignment  0/ 0, fail:	87.9133
+Length   20/4, alignment  0/ 3, found:	80.4434
+Length   20/4, alignment  0/ 3, fail:	86.1873
+Length   20/4, alignment  0/ 9, found:	82.4875
+Length   20/4, alignment  0/ 9, fail:	87.5247
+Length   20/4, alignment  0/15, found:	80.4534
+Length   20/4, alignment  0/15, fail:	88.0105
+Length   20/4, alignment  3/ 0, found:	81.9536
+Length   20/4, alignment  3/ 0, fail:	86.3171
+Length   20/4, alignment  3/ 3, found:	83.8411
+Length   20/4, alignment  3/ 3, fail:	88.6436
+Length   20/4, alignment  3/ 9, found:	82.8347
+Length   20/4, alignment  3/ 9, fail:	86.1958
+Length   20/4, alignment  3/15, found:	82.446
+Length   20/4, alignment  3/15, fail:	87.718
+Length   20/4, alignment  9/ 0, found:	80.4377
+Length   20/4, alignment  9/ 0, fail:	86.3191
+Length   20/4, alignment  9/ 3, found:	82.2744
+Length   20/4, alignment  9/ 3, fail:	87.6404
+Length   20/4, alignment  9/ 9, found:	80.46
+Length   20/4, alignment  9/ 9, fail:	86.1938
+Length   20/4, alignment  9/15, found:	83.679
+Length   20/4, alignment  9/15, fail:	86.1958
+Length   20/4, alignment 15/ 0, found:	80.4663
+Length   20/4, alignment 15/ 0, fail:	87.9424
+Length   20/4, alignment 15/ 3, found:	81.7834
+Length   20/4, alignment 15/ 3, fail:	86.3208
+Length   20/4, alignment 15/ 9, found:	80.4429
+Length   20/4, alignment 15/ 9, fail:	89.2224
+Length   20/4, alignment 15/15, found:	80.4377
+Length   20/4, alignment 15/15, fail:	86.3201
+Length   24/4, alignment  0/ 0, found:	82.6133
+Length   24/4, alignment  0/ 0, fail:	92.9329
+Length   24/4, alignment  0/ 3, found:	80.5898
+Length   24/4, alignment  0/ 3, fail:	91.0042
+Length   24/4, alignment  0/ 9, found:	83.6035
+Length   24/4, alignment  0/ 9, fail:	91.009
+Length   24/4, alignment  0/15, found:	81.7144
+Length   24/4, alignment  0/15, fail:	92.8123
+Length   24/4, alignment  3/ 0, found:	81.9404
+Length   24/4, alignment  3/ 0, fail:	91.052
+Length   24/4, alignment  3/ 3, found:	80.5684
+Length   24/4, alignment  3/ 3, fail:	94.0083
+Length   24/4, alignment  3/ 9, found:	80.563
+Length   24/4, alignment  3/ 9, fail:	91.0046
+Length   24/4, alignment  3/15, found:	82.3523
+Length   24/4, alignment  3/15, fail:	100.21
+Length   24/4, alignment  9/ 0, found:	89.593
+Length   24/4, alignment  9/ 0, fail:	93.5654
+Length   24/4, alignment  9/ 3, found:	91.9011
+Length   24/4, alignment  9/ 3, fail:	90.9956
+Length   24/4, alignment  9/ 9, found:	89.5864
+Length   24/4, alignment  9/ 9, fail:	94.1025
+Length   24/4, alignment  9/15, found:	89.5981
+Length   24/4, alignment  9/15, fail:	90.9988
+Length   24/4, alignment 15/ 0, found:	83.0627
+Length   24/4, alignment 15/ 0, fail:	93.1445
+Length   24/4, alignment 15/ 3, found:	80.5674
+Length   24/4, alignment 15/ 3, fail:	92.9387
+Length   24/4, alignment 15/ 9, found:	81.9775
+Length   24/4, alignment 15/ 9, fail:	91.0535
+Length   24/4, alignment 15/15, found:	80.5647
+Length   24/4, alignment 15/15, fail:	94.1553
+Length   28/4, alignment  0/ 0, found:	82.6018
+Length   28/4, alignment  0/ 0, fail:	93.3406
+Length   28/4, alignment  0/ 3, found:	86.2527
+Length   28/4, alignment  0/ 3, fail:	96.6121
+Length   28/4, alignment  0/ 9, found:	82.6052
+Length   28/4, alignment  0/ 9, fail:	95.8933
+Length   28/4, alignment  0/15, found:	83.9763
+Length   28/4, alignment  0/15, fail:	93.7356
+Length   28/4, alignment  3/ 0, found:	82.7134
+Length   28/4, alignment  3/ 0, fail:	95.2927
+Length   28/4, alignment  3/ 3, found:	82.7175
+Length   28/4, alignment  3/ 3, fail:	93.7368
+Length   28/4, alignment  3/ 9, found:	84.519
+Length   28/4, alignment  3/ 9, fail:	95.2227
+Length   28/4, alignment  3/15, found:	82.572
+Length   28/4, alignment  3/15, fail:	93.0728
+Length   28/4, alignment  9/ 0, found:	92.0398
+Length   28/4, alignment  9/ 0, fail:	93.9788
+Length   28/4, alignment  9/ 3, found:	89.0654
+Length   28/4, alignment  9/ 3, fail:	97.115
+Length   28/4, alignment  9/ 9, found:	89.0688
+Length   28/4, alignment  9/ 9, fail:	93.323
+Length   28/4, alignment  9/15, found:	90.969
+Length   28/4, alignment  9/15, fail:	95.032
+Length   28/4, alignment 15/ 0, found:	82.5596
+Length   28/4, alignment 15/ 0, fail:	95.5508
+Length   28/4, alignment 15/ 3, found:	84.1543
+Length   28/4, alignment 15/ 3, fail:	93.9795
+Length   28/4, alignment 15/ 9, found:	82.708
+Length   28/4, alignment 15/ 9, fail:	96.8616
+Length   28/4, alignment 15/15, found:	82.5671
+Length   28/4, alignment 15/15, fail:	93.7446
+Length   20/5, alignment  0/ 0, found:	83.3982
+Length   20/5, alignment  0/ 0, fail:	87.9702
+Length   20/5, alignment  0/ 3, found:	81.0715
+Length   20/5, alignment  0/ 3, fail:	87.0786
+Length   20/5, alignment  0/ 9, found:	84.1023
+Length   20/5, alignment  0/ 9, fail:	86.4714
+Length   20/5, alignment  0/15, found:	81.875
+Length   20/5, alignment  0/15, fail:	88.5413
+Length   20/5, alignment  3/ 0, found:	83.2178
+Length   20/5, alignment  3/ 0, fail:	86.5029
+Length   20/5, alignment  3/ 3, found:	81.0645
+Length   20/5, alignment  3/ 3, fail:	89.8274
+Length   20/5, alignment  3/ 9, found:	81.8713
+Length   20/5, alignment  3/ 9, fail:	86.4819
+Length   20/5, alignment  3/15, found:	82.8167
+Length   20/5, alignment  3/15, fail:	88.6335
+Length   20/5, alignment  9/ 0, found:	81.1394
+Length   20/5, alignment  9/ 0, fail:	86.4641
+Length   20/5, alignment  9/ 3, found:	83.9695
+Length   20/5, alignment  9/ 3, fail:	86.5002
+Length   20/5, alignment  9/ 9, found:	81.0691
+Length   20/5, alignment  9/ 9, fail:	88.3503
+Length   20/5, alignment  9/15, found:	82.8765
+Length   20/5, alignment  9/15, fail:	86.4741
+Length   20/5, alignment 15/ 0, found:	81.0837
+Length   20/5, alignment 15/ 0, fail:	89.3367
+Length   20/5, alignment 15/ 3, found:	83.0166
+Length   20/5, alignment 15/ 3, fail:	86.4756
+Length   20/5, alignment 15/ 9, found:	82.8894
+Length   20/5, alignment 15/ 9, fail:	88.7527
+Length   20/5, alignment 15/15, found:	81.0605
+Length   20/5, alignment 15/15, fail:	86.4934
+Length   25/5, alignment  0/ 0, found:	83.3281
+Length   25/5, alignment  0/ 0, fail:	93.3
+Length   25/5, alignment  0/ 3, found:	81.7869
+Length   25/5, alignment  0/ 3, fail:	93.6313
+Length   25/5, alignment  0/ 9, found:	83.1218
+Length   25/5, alignment  0/ 9, fail:	91.8911
+Length   25/5, alignment  0/15, found:	81.5767
+Length   25/5, alignment  0/15, fail:	94.9153
+Length   25/5, alignment  3/ 0, found:	81.5637
+Length   25/5, alignment  3/ 0, fail:	91.8674
+Length   25/5, alignment  3/ 3, found:	83.9092
+Length   25/5, alignment  3/ 3, fail:	93.8098
+Length   25/5, alignment  3/ 9, found:	81.7908
+Length   25/5, alignment  3/ 9, fail:	93.6873
+Length   25/5, alignment  3/15, found:	83.1709
+Length   25/5, alignment  3/15, fail:	91.925
+Length   25/5, alignment  9/ 0, found:	84.0859
+Length   25/5, alignment  9/ 0, fail:	93.8726
+Length   25/5, alignment  9/ 3, found:	85.6768
+Length   25/5, alignment  9/ 3, fail:	91.9397
+Length   25/5, alignment  9/ 9, found:	86.5811
+Length   25/5, alignment  9/ 9, fail:	93.2222
+Length   25/5, alignment  9/15, found:	84.4468
+Length   25/5, alignment  9/15, fail:	91.8638
+Length   25/5, alignment 15/ 0, found:	84.7632
+Length   25/5, alignment 15/ 0, fail:	91.95
+Length   25/5, alignment 15/ 3, found:	81.5698
+Length   25/5, alignment 15/ 3, fail:	93.9446
+Length   25/5, alignment 15/ 9, found:	83.5242
+Length   25/5, alignment 15/ 9, fail:	91.9189
+Length   25/5, alignment 15/15, found:	83.584
+Length   25/5, alignment 15/15, fail:	93.2988
+Length   30/5, alignment  0/ 0, found:	84.1255
+Length   30/5, alignment  0/ 0, fail:	96.9829
+Length   30/5, alignment  0/ 3, found:	86.3296
+Length   30/5, alignment  0/ 3, fail:	96.5884
+Length   30/5, alignment  0/ 9, found:	85.9302
+Length   30/5, alignment  0/ 9, fail:	98.6819
+Length   30/5, alignment  0/15, found:	85.8047
+Length   30/5, alignment  0/15, fail:	98.5266
+Length   30/5, alignment  3/ 0, found:	85.8696
+Length   30/5, alignment  3/ 0, fail:	98.8899
+Length   30/5, alignment  3/ 3, found:	85.9326
+Length   30/5, alignment  3/ 3, fail:	96.9443
+Length   30/5, alignment  3/ 9, found:	87.6914
+Length   30/5, alignment  3/ 9, fail:	96.8235
+Length   30/5, alignment  3/15, found:	85.9282
+Length   30/5, alignment  3/15, fail:	101.169
+Length   30/5, alignment  9/ 0, found:	85.9343
+Length   30/5, alignment  9/ 0, fail:	96.9189
+Length   30/5, alignment  9/ 3, found:	87.7158
+Length   30/5, alignment  9/ 3, fail:	98.6765
+Length   30/5, alignment  9/ 9, found:	84.1145
+Length   30/5, alignment  9/ 9, fail:	99.9304
+Length   30/5, alignment  9/15, found:	86.3042
+Length   30/5, alignment  9/15, fail:	98.5264
+Length   30/5, alignment 15/ 0, found:	84.106
+Length   30/5, alignment 15/ 0, fail:	101.352
+Length   30/5, alignment 15/ 3, found:	84.1196
+Length   30/5, alignment 15/ 3, fail:	98.5264
+Length   30/5, alignment 15/ 9, found:	87.186
+Length   30/5, alignment 15/ 9, fail:	98.2246
+Length   30/5, alignment 15/15, found:	84.1028
+Length   30/5, alignment 15/15, fail:	98.8303
+Length   35/5, alignment  0/ 0, found:	87.7788
+Length   35/5, alignment  0/ 0, fail:	106.025
+Length   35/5, alignment  0/ 3, found:	87.8308
+Length   35/5, alignment  0/ 3, fail:	106.984
+Length   35/5, alignment  0/ 9, found:	85.1094
+Length   35/5, alignment  0/ 9, fail:	107.28
+Length   35/5, alignment  0/15, found:	90.0161
+Length   35/5, alignment  0/15, fail:	105.514
+Length   35/5, alignment  3/ 0, found:	92.6704
+Length   35/5, alignment  3/ 0, fail:	106.83
+Length   35/5, alignment  3/ 3, found:	91.2109
+Length   35/5, alignment  3/ 3, fail:	106.967
+Length   35/5, alignment  3/ 9, found:	92.645
+Length   35/5, alignment  3/ 9, fail:	106.011
+Length   35/5, alignment  3/15, found:	90.2795
+Length   35/5, alignment  3/15, fail:	107.871
+Length   35/5, alignment  9/ 0, found:	85.1067
+Length   35/5, alignment  9/ 0, fail:	106.52
+Length   35/5, alignment  9/ 3, found:	88.9009
+Length   35/5, alignment  9/ 3, fail:	105.507
+Length   35/5, alignment  9/ 9, found:	93.3989
+Length   35/5, alignment  9/ 9, fail:	110.539
+Length   35/5, alignment  9/15, found:	85.095
+Length   35/5, alignment  9/15, fail:	106.011
+Length   35/5, alignment 15/ 0, found:	91.1733
+Length   35/5, alignment 15/ 0, fail:	104.963
+Length   35/5, alignment 15/ 3, found:	88.8286
+Length   35/5, alignment 15/ 3, fail:	108.539
+Length   35/5, alignment 15/ 9, found:	88.8293
+Length   35/5, alignment 15/ 9, fail:	106.01
+Length   35/5, alignment 15/15, found:	92.6423
+Length   35/5, alignment 15/15, fail:	105.521
+Length   24/6, alignment  0/ 0, found:	84.939
+Length   24/6, alignment  0/ 0, fail:	95.3501
+Length   24/6, alignment  0/ 3, found:	84.2866
+Length   24/6, alignment  0/ 3, fail:	93.384
+Length   24/6, alignment  0/ 9, found:	84.3003
+Length   24/6, alignment  0/ 9, fail:	94.748
+Length   24/6, alignment  0/15, found:	82.3662
+Length   24/6, alignment  0/15, fail:	93.3853
+Length   24/6, alignment  3/ 0, found:	85.4263
+Length   24/6, alignment  3/ 0, fail:	93.3787
+Length   24/6, alignment  3/ 3, found:	82.3792
+Length   24/6, alignment  3/ 3, fail:	95.2051
+Length   24/6, alignment  3/ 9, found:	83.6379
+Length   24/6, alignment  3/ 9, fail:	93.3804
+Length   24/6, alignment  3/15, found:	84.1404
+Length   24/6, alignment  3/15, fail:	95.4329
+Length   24/6, alignment  9/ 0, found:	91.1077
+Length   24/6, alignment  9/ 0, fail:	93.377
+Length   24/6, alignment  9/ 3, found:	94.6147
+Length   24/6, alignment  9/ 3, fail:	93.3867
+Length   24/6, alignment  9/ 9, found:	91.0955
+Length   24/6, alignment  9/ 9, fail:	96.4954
+Length   24/6, alignment  9/15, found:	91.1038
+Length   24/6, alignment  9/15, fail:	93.3853
+Length   24/6, alignment 15/ 0, found:	84.1013
+Length   24/6, alignment 15/ 0, fail:	94.77
+Length   24/6, alignment 15/ 3, found:	82.552
+Length   24/6, alignment 15/ 3, fail:	95.3145
+Length   24/6, alignment 15/ 9, found:	83.9905
+Length   24/6, alignment 15/ 9, fail:	93.3694
+Length   24/6, alignment 15/15, found:	82.3767
+Length   24/6, alignment 15/15, fail:	96.4514
+Length   30/6, alignment  0/ 0, found:	85.6099
+Length   30/6, alignment  0/ 0, fail:	99.0276
+Length   30/6, alignment  0/ 3, found:	93.8923
+Length   30/6, alignment  0/ 3, fail:	108.191
+Length   30/6, alignment  0/ 9, found:	85.5776
+Length   30/6, alignment  0/ 9, fail:	101.192
+Length   30/6, alignment  0/15, found:	87.5884
+Length   30/6, alignment  0/15, fail:	98.5554
+Length   30/6, alignment  3/ 0, found:	87.468
+Length   30/6, alignment  3/ 0, fail:	100.664
+Length   30/6, alignment  3/ 3, found:	85.5698
+Length   30/6, alignment  3/ 3, fail:	100.515
+Length   30/6, alignment  3/ 9, found:	86.8796
+Length   30/6, alignment  3/ 9, fail:	98.5496
+Length   30/6, alignment  3/15, found:	85.5652
+Length   30/6, alignment  3/15, fail:	101.611
+Length   30/6, alignment  9/ 0, found:	85.5696
+Length   30/6, alignment  9/ 0, fail:	98.5513
+Length   30/6, alignment  9/ 3, found:	87.6653
+Length   30/6, alignment  9/ 3, fail:	100.447
+Length   30/6, alignment  9/ 9, found:	85.5693
+Length   30/6, alignment  9/ 9, fail:	100.357
+Length   30/6, alignment  9/15, found:	86.9221
+Length   30/6, alignment  9/15, fail:	98.5505
+Length   30/6, alignment 15/ 0, found:	87.3972
+Length   30/6, alignment 15/ 0, fail:	99.9294
+Length   30/6, alignment 15/ 3, found:	85.571
+Length   30/6, alignment 15/ 3, fail:	98.5535
+Length   30/6, alignment 15/ 9, found:	89.5918
+Length   30/6, alignment 15/ 9, fail:	98.5876
+Length   30/6, alignment 15/15, found:	85.5698
+Length   30/6, alignment 15/15, fail:	100.401
+Length   36/6, alignment  0/ 0, found:	88.6597
+Length   36/6, alignment  0/ 0, fail:	105.371
+Length   36/6, alignment  0/ 3, found:	90.3835
+Length   36/6, alignment  0/ 3, fail:	108.231
+Length   36/6, alignment  0/ 9, found:	88.6218
+Length   36/6, alignment  0/ 9, fail:	107.697
+Length   36/6, alignment  0/15, found:	90.3398
+Length   36/6, alignment  0/15, fail:	106.068
+Length   36/6, alignment  3/ 0, found:	95.7263
+Length   36/6, alignment  3/ 0, fail:	107.437
+Length   36/6, alignment  3/ 3, found:	93.823
+Length   36/6, alignment  3/ 3, fail:	107.845
+Length   36/6, alignment  3/ 9, found:	95.3408
+Length   36/6, alignment  3/ 9, fail:	106.082
+Length   36/6, alignment  3/15, found:	96.5884
+Length   36/6, alignment  3/15, fail:	107.373
+Length   36/6, alignment  9/ 0, found:	88.625
+Length   36/6, alignment  9/ 0, fail:	107.533
+Length   36/6, alignment  9/ 3, found:	90.9973
+Length   36/6, alignment  9/ 3, fail:	106.073
+Length   36/6, alignment  9/ 9, found:	90.5645
+Length   36/6, alignment  9/ 9, fail:	107.446
+Length   36/6, alignment  9/15, found:	88.6155
+Length   36/6, alignment  9/15, fail:	107.884
+Length   36/6, alignment 15/ 0, found:	89.9734
+Length   36/6, alignment 15/ 0, fail:	105.951
+Length   36/6, alignment 15/ 3, found:	90.4827
+Length   36/6, alignment 15/ 3, fail:	107.521
+Length   36/6, alignment 15/ 9, found:	88.616
+Length   36/6, alignment 15/ 9, fail:	107.795
+Length   36/6, alignment 15/15, found:	89.9556
+Length   36/6, alignment 15/15, fail:	105.468
+Length   42/6, alignment  0/ 0, found:	101.224
+Length   42/6, alignment  0/ 0, fail:	114.667
+Length   42/6, alignment  0/ 3, found:	99.3958
+Length   42/6, alignment  0/ 3, fail:	115.378
+Length   42/6, alignment  0/ 9, found:	101.202
+Length   42/6, alignment  0/ 9, fail:	113.398
+Length   42/6, alignment  0/15, found:	103.503
+Length   42/6, alignment  0/15, fail:	113.461
+Length   42/6, alignment  3/ 0, found:	91.3901
+Length   42/6, alignment  3/ 0, fail:	116.979
+Length   42/6, alignment  3/ 3, found:	91.3826
+Length   42/6, alignment  3/ 3, fail:	115.02
+Length   42/6, alignment  3/ 9, found:	92.6626
+Length   42/6, alignment  3/ 9, fail:	113.391
+Length   42/6, alignment  3/15, found:	93.0945
+Length   42/6, alignment  3/15, fail:	114.584
+Length   42/6, alignment  9/ 0, found:	91.4006
+Length   42/6, alignment  9/ 0, fail:	115.455
+Length   42/6, alignment  9/ 3, found:	93.2512
+Length   42/6, alignment  9/ 3, fail:	113.325
+Length   42/6, alignment  9/ 9, found:	93.2046
+Length   42/6, alignment  9/ 9, fail:	114.648
+Length   42/6, alignment  9/15, found:	91.3899
+Length   42/6, alignment  9/15, fail:	115.057
+Length   42/6, alignment 15/ 0, found:	92.7415
+Length   42/6, alignment 15/ 0, fail:	113.358
+Length   42/6, alignment 15/ 3, found:	93.2092
+Length   42/6, alignment 15/ 3, fail:	114.758
+Length   42/6, alignment 15/ 9, found:	91.3977
+Length   42/6, alignment 15/ 9, fail:	116.429
+Length   42/6, alignment 15/15, found:	91.3918
+Length   42/6, alignment 15/15, fail:	113.308
+Length   28/7, alignment  0/ 0, found:	88.4058
+Length   28/7, alignment  0/ 0, fail:	101.641
+Length   28/7, alignment  0/ 3, found:	88.3694
+Length   28/7, alignment  0/ 3, fail:	101.309
+Length   28/7, alignment  0/ 9, found:	93.3262
+Length   28/7, alignment  0/ 9, fail:	99.5037
+Length   28/7, alignment  0/15, found:	92.0193
+Length   28/7, alignment  0/15, fail:	101.541
+Length   28/7, alignment  3/ 0, found:	88.3213
+Length   28/7, alignment  3/ 0, fail:	102.492
+Length   28/7, alignment  3/ 3, found:	89.8777
+Length   28/7, alignment  3/ 3, fail:	99.6804
+Length   28/7, alignment  3/ 9, found:	93.1484
+Length   28/7, alignment  3/ 9, fail:	100.869
+Length   28/7, alignment  3/15, found:	86.29
+Length   28/7, alignment  3/15, fail:	97.0781
+Length   28/7, alignment  9/ 0, found:	91.0791
+Length   28/7, alignment  9/ 0, fail:	99.1038
+Length   28/7, alignment  9/ 3, found:	92.0771
+Length   28/7, alignment  9/ 3, fail:	100.294
+Length   28/7, alignment  9/ 9, found:	89.1777
+Length   28/7, alignment  9/ 9, fail:	97.5771
+Length   28/7, alignment  9/15, found:	93.3984
+Length   28/7, alignment  9/15, fail:	99.0864
+Length   28/7, alignment 15/ 0, found:	86.3799
+Length   28/7, alignment 15/ 0, fail:	100.447
+Length   28/7, alignment 15/ 3, found:	89.4285
+Length   28/7, alignment 15/ 3, fail:	99.0801
+Length   28/7, alignment 15/ 9, found:	90.0916
+Length   28/7, alignment 15/ 9, fail:	100.461
+Length   28/7, alignment 15/15, found:	88.3445
+Length   28/7, alignment 15/15, fail:	100.497
+Length   35/7, alignment  0/ 0, found:	91.2734
+Length   35/7, alignment  0/ 0, fail:	110.597
+Length   35/7, alignment  0/ 3, found:	91.1111
+Length   35/7, alignment  0/ 3, fail:	110.149
+Length   35/7, alignment  0/ 9, found:	89.4297
+Length   35/7, alignment  0/ 9, fail:	108.926
+Length   35/7, alignment  0/15, found:	90.613
+Length   35/7, alignment  0/15, fail:	110.242
+Length   35/7, alignment  3/ 0, found:	93.7466
+Length   35/7, alignment  3/ 0, fail:	110.155
+Length   35/7, alignment  3/ 3, found:	92.1201
+Length   35/7, alignment  3/ 3, fail:	109.468
+Length   35/7, alignment  3/ 9, found:	93.7385
+Length   35/7, alignment  3/ 9, fail:	107.07
+Length   35/7, alignment  3/15, found:	93.7046
+Length   35/7, alignment  3/15, fail:	109.73
+Length   35/7, alignment  9/ 0, found:	89.5039
+Length   35/7, alignment  9/ 0, fail:	109.817
+Length   35/7, alignment  9/ 3, found:	90.7976
+Length   35/7, alignment  9/ 3, fail:	108.784
+Length   35/7, alignment  9/ 9, found:	90.8904
+Length   35/7, alignment  9/ 9, fail:	110.222
+Length   35/7, alignment  9/15, found:	89.3577
+Length   35/7, alignment  9/15, fail:	111.951
+Length   35/7, alignment 15/ 0, found:	90.5483
+Length   35/7, alignment 15/ 0, fail:	107.078
+Length   35/7, alignment 15/ 3, found:	91.1021
+Length   35/7, alignment 15/ 3, fail:	111.697
+Length   35/7, alignment 15/ 9, found:	89.218
+Length   35/7, alignment 15/ 9, fail:	108.792
+Length   35/7, alignment 15/15, found:	90.9634
+Length   35/7, alignment 15/15, fail:	107.068
+Length   42/7, alignment  0/ 0, found:	98.9917
+Length   42/7, alignment  0/ 0, fail:	118.104
+Length   42/7, alignment  0/ 3, found:	93.9719
+Length   42/7, alignment  0/ 3, fail:	117.845
+Length   42/7, alignment  0/ 9, found:	95.5745
+Length   42/7, alignment  0/ 9, fail:	115.777
+Length   42/7, alignment  0/15, found:	101.906
+Length   42/7, alignment  0/15, fail:	115.563
+Length   42/7, alignment  3/ 0, found:	92.3169
+Length   42/7, alignment  3/ 0, fail:	118.786
+Length   42/7, alignment  3/ 3, found:	93.0476
+Length   42/7, alignment  3/ 3, fail:	117.341
+Length   42/7, alignment  3/ 9, found:	93.7666
+Length   42/7, alignment  3/ 9, fail:	115.398
+Length   42/7, alignment  3/15, found:	94.8391
+Length   42/7, alignment  3/15, fail:	117.454
+Length   42/7, alignment  9/ 0, found:	92.9648
+Length   42/7, alignment  9/ 0, fail:	117.398
+Length   42/7, alignment  9/ 3, found:	93.877
+Length   42/7, alignment  9/ 3, fail:	115.515
+Length   42/7, alignment  9/ 9, found:	93.9514
+Length   42/7, alignment  9/ 9, fail:	116.854
+Length   42/7, alignment  9/15, found:	92.6245
+Length   42/7, alignment  9/15, fail:	117.255
+Length   42/7, alignment 15/ 0, found:	93.052
+Length   42/7, alignment 15/ 0, fail:	115.455
+Length   42/7, alignment 15/ 3, found:	95.4197
+Length   42/7, alignment 15/ 3, fail:	115.403
+Length   42/7, alignment 15/ 9, found:	92.1606
+Length   42/7, alignment 15/ 9, fail:	118.47
+Length   42/7, alignment 15/15, found:	92.1584
+Length   42/7, alignment 15/15, fail:	117.455
+Length   49/7, alignment  0/ 0, found:	98.5823
+Length   49/7, alignment  0/ 0, fail:	122.798
+Length   49/7, alignment  0/ 3, found:	97.9978
+Length   49/7, alignment  0/ 3, fail:	129.88
+Length   49/7, alignment  0/ 9, found:	96.6367
+Length   49/7, alignment  0/ 9, fail:	127.339
+Length   49/7, alignment  0/15, found:	94.3093
+Length   49/7, alignment  0/15, fail:	125.067
+Length   49/7, alignment  3/ 0, found:	98.2268
+Length   49/7, alignment  3/ 0, fail:	122.688
+Length   49/7, alignment  3/ 3, found:	97.2031
+Length   49/7, alignment  3/ 3, fail:	126.475
+Length   49/7, alignment  3/ 9, found:	96.6423
+Length   49/7, alignment  3/ 9, fail:	127.058
+Length   49/7, alignment  3/15, found:	96.1965
+Length   49/7, alignment  3/15, fail:	122.809
+Length   49/7, alignment  9/ 0, found:	100.936
+Length   49/7, alignment  9/ 0, fail:	123.913
+Length   49/7, alignment  9/ 3, found:	94.2769
+Length   49/7, alignment  9/ 3, fail:	125.33
+Length   49/7, alignment  9/ 9, found:	94.2717
+Length   49/7, alignment  9/ 9, fail:	124.502
+Length   49/7, alignment  9/15, found:	97.5107
+Length   49/7, alignment  9/15, fail:	125.094
+Length   49/7, alignment 15/ 0, found:	96.8496
+Length   49/7, alignment 15/ 0, fail:	126.378
+Length   49/7, alignment 15/ 3, found:	94.27
+Length   49/7, alignment 15/ 3, fail:	126.639
+Length   49/7, alignment 15/ 9, found:	94.2988
+Length   49/7, alignment 15/ 9, fail:	125.396
+Length   49/7, alignment 15/15, found:	98.0061
+Length   49/7, alignment 15/15, fail:	122.758
+Length   32/8, alignment  0/ 0, found:	90.845
+Length   32/8, alignment  0/ 0, fail:	103.892
+Length   32/8, alignment  0/ 3, found:	89.1338
+Length   32/8, alignment  0/ 3, fail:	104.213
+Length   32/8, alignment  0/ 9, found:	90.4424
+Length   32/8, alignment  0/ 9, fail:	102.542
+Length   32/8, alignment  0/15, found:	90.8875
+Length   32/8, alignment  0/15, fail:	103.886
+Length   32/8, alignment  3/ 0, found:	89.147
+Length   32/8, alignment  3/ 0, fail:	103.88
+Length   32/8, alignment  3/ 3, found:	90.9536
+Length   32/8, alignment  3/ 3, fail:	102.533
+Length   32/8, alignment  3/ 9, found:	89.1392
+Length   32/8, alignment  3/ 9, fail:	103.86
+Length   32/8, alignment  3/15, found:	89.1287
+Length   32/8, alignment  3/15, fail:	102.545
+Length   32/8, alignment  9/ 0, found:	92.1382
+Length   32/8, alignment  9/ 0, fail:	102.554
+Length   32/8, alignment  9/ 3, found:	89.1316
+Length   32/8, alignment  9/ 3, fail:	105.57
+Length   32/8, alignment  9/ 9, found:	89.1396
+Length   32/8, alignment  9/ 9, fail:	102.532
+Length   32/8, alignment  9/15, found:	92.2134
+Length   32/8, alignment  9/15, fail:	102.53
+Length   32/8, alignment 15/ 0, found:	89.1479
+Length   32/8, alignment 15/ 0, fail:	104.302
+Length   32/8, alignment 15/ 3, found:	89.1421
+Length   32/8, alignment 15/ 3, fail:	102.54
+Length   32/8, alignment 15/ 9, found:	91.3054
+Length   32/8, alignment 15/ 9, fail:	104.357
+Length   32/8, alignment 15/15, found:	89.1345
+Length   32/8, alignment 15/15, fail:	104.398
+Length   40/8, alignment  0/ 0, found:	97.5366
+Length   40/8, alignment  0/ 0, fail:	114.962
+Length   40/8, alignment  0/ 3, found:	101.32
+Length   40/8, alignment  0/ 3, fail:	115.778
+Length   40/8, alignment  0/ 9, found:	96.9065
+Length   40/8, alignment  0/ 9, fail:	117.272
+Length   40/8, alignment  0/15, found:	96.5151
+Length   40/8, alignment  0/15, fail:	115.525
+Length   40/8, alignment  3/ 0, found:	98.2544
+Length   40/8, alignment  3/ 0, fail:	113.762
+Length   40/8, alignment  3/ 3, found:	98.8743
+Length   40/8, alignment  3/ 3, fail:	115.589
+Length   40/8, alignment  3/ 9, found:	96.8994
+Length   40/8, alignment  3/ 9, fail:	115.491
+Length   40/8, alignment  3/15, found:	98.2341
+Length   40/8, alignment  3/15, fail:	113.753
+Length   40/8, alignment  9/ 0, found:	95.084
+Length   40/8, alignment  9/ 0, fail:	115.08
+Length   40/8, alignment  9/ 3, found:	93.3384
+Length   40/8, alignment  9/ 3, fail:	116.772
+Length   40/8, alignment  9/ 9, found:	93.4329
+Length   40/8, alignment  9/ 9, fail:	113.745
+Length   40/8, alignment  9/15, found:	96.3604
+Length   40/8, alignment  9/15, fail:	113.76
+Length   40/8, alignment 15/ 0, found:	93.4092
+Length   40/8, alignment 15/ 0, fail:	117.482
+Length   40/8, alignment 15/ 3, found:	93.3342
+Length   40/8, alignment 15/ 3, fail:	115.571
+Length   40/8, alignment 15/ 9, found:	94.7068
+Length   40/8, alignment 15/ 9, fail:	113.751
+Length   40/8, alignment 15/15, found:	95.0554
+Length   40/8, alignment 15/15, fail:	115.068
+Length   48/8, alignment  0/ 0, found:	97.8816
+Length   48/8, alignment  0/ 0, fail:	126.558
+Length   48/8, alignment  0/ 3, found:	99.606
+Length   48/8, alignment  0/ 3, fail:	121.185
+Length   48/8, alignment  0/ 9, found:	101.258
+Length   48/8, alignment  0/ 9, fail:	121.123
+Length   48/8, alignment  0/15, found:	97.8267
+Length   48/8, alignment  0/15, fail:	124.889
+Length   48/8, alignment  3/ 0, found:	97.9761
+Length   48/8, alignment  3/ 0, fail:	128.536
+Length   48/8, alignment  3/ 3, found:	99.1858
+Length   48/8, alignment  3/ 3, fail:	120.993
+Length   48/8, alignment  3/ 9, found:	99.1821
+Length   48/8, alignment  3/ 9, fail:	122.542
+Length   48/8, alignment  3/15, found:	97.0103
+Length   48/8, alignment  3/15, fail:	124.336
+Length   48/8, alignment  9/ 0, found:	96.7825
+Length   48/8, alignment  9/ 0, fail:	122.809
+Length   48/8, alignment  9/ 3, found:	98.364
+Length   48/8, alignment  9/ 3, fail:	121.028
+Length   48/8, alignment  9/ 9, found:	98.6228
+Length   48/8, alignment  9/ 9, fail:	123.021
+Length   48/8, alignment  9/15, found:	96.4502
+Length   48/8, alignment  9/15, fail:	124.21
+Length   48/8, alignment 15/ 0, found:	97.0459
+Length   48/8, alignment 15/ 0, fail:	122.799
+Length   48/8, alignment 15/ 3, found:	98.3435
+Length   48/8, alignment 15/ 3, fail:	121.091
+Length   48/8, alignment 15/ 9, found:	98.7607
+Length   48/8, alignment 15/ 9, fail:	122.461
+Length   48/8, alignment 15/15, found:	96.7141
+Length   48/8, alignment 15/15, fail:	122.788
+Length   56/8, alignment  0/ 0, found:	102.327
+Length   56/8, alignment  0/ 0, fail:	129.452
+Length   56/8, alignment  0/ 3, found:	103.638
+Length   56/8, alignment  0/ 3, fail:	129.414
+Length   56/8, alignment  0/ 9, found:	103.025
+Length   56/8, alignment  0/ 9, fail:	131.219
+Length   56/8, alignment  0/15, found:	100.983
+Length   56/8, alignment  0/15, fail:	132.424
+Length   56/8, alignment  3/ 0, found:	100.811
+Length   56/8, alignment  3/ 0, fail:	131.116
+Length   56/8, alignment  3/ 3, found:	102.319
+Length   56/8, alignment  3/ 3, fail:	129.376
+Length   56/8, alignment  3/ 9, found:	102.585
+Length   56/8, alignment  3/ 9, fail:	130.671
+Length   56/8, alignment  3/15, found:	101.024
+Length   56/8, alignment  3/15, fail:	132.353
+Length   56/8, alignment  9/ 0, found:	101.037
+Length   56/8, alignment  9/ 0, fail:	131.314
+Length   56/8, alignment  9/ 3, found:	103.456
+Length   56/8, alignment  9/ 3, fail:	129.403
+Length   56/8, alignment  9/ 9, found:	104.357
+Length   56/8, alignment  9/ 9, fail:	129.382
+Length   56/8, alignment  9/15, found:	102.688
+Length   56/8, alignment  9/15, fail:	131.028
+Length   56/8, alignment 15/ 0, found:	100.813
+Length   56/8, alignment 15/ 0, fail:	132.339
+Length   56/8, alignment 15/ 3, found:	100.767
+Length   56/8, alignment 15/ 3, fail:	131.169
+Length   56/8, alignment 15/ 9, found:	102.28
+Length   56/8, alignment 15/ 9, fail:	129.411
+Length   56/8, alignment 15/15, found:	102.652
+Length   56/8, alignment 15/15, fail:	131.415
+Length   36/9, alignment  0/ 0, found:	90.5935
+Length   36/9, alignment  0/ 0, fail:	114.73
+Length   36/9, alignment  0/ 3, found:	90.6194
+Length   36/9, alignment  0/ 3, fail:	111.458
+Length   36/9, alignment  0/ 9, found:	93.7307
+Length   36/9, alignment  0/ 9, fail:	111.318
+Length   36/9, alignment  0/15, found:	90.6301
+Length   36/9, alignment  0/15, fail:	114.649
+Length   36/9, alignment  3/ 0, found:	94.3069
+Length   36/9, alignment  3/ 0, fail:	114.234
+Length   36/9, alignment  3/ 3, found:	96.9421
+Length   36/9, alignment  3/ 3, fail:	111.647
+Length   36/9, alignment  3/ 9, found:	96.2727
+Length   36/9, alignment  3/ 9, fail:	113.704
+Length   36/9, alignment  3/15, found:	94.4866
+Length   36/9, alignment  3/15, fail:	113.62
+Length   36/9, alignment  9/ 0, found:	92.5654
+Length   36/9, alignment  9/ 0, fail:	111.487
+Length   36/9, alignment  9/ 3, found:	92.5198
+Length   36/9, alignment  9/ 3, fail:	113.073
+Length   36/9, alignment  9/ 9, found:	90.6211
+Length   36/9, alignment  9/ 9, fail:	112.961
+Length   36/9, alignment  9/15, found:	96.5293
+Length   36/9, alignment  9/15, fail:	111.545
+Length   36/9, alignment 15/ 0, found:	92.8887
+Length   36/9, alignment 15/ 0, fail:	113.271
+Length   36/9, alignment 15/ 3, found:	90.6548
+Length   36/9, alignment 15/ 3, fail:	113.509
+Length   36/9, alignment 15/ 9, found:	91.9446
+Length   36/9, alignment 15/ 9, fail:	111.664
+Length   36/9, alignment 15/15, found:	92.5925
+Length   36/9, alignment 15/15, fail:	112.844
+Length   45/9, alignment  0/ 0, found:	100.728
+Length   45/9, alignment  0/ 0, fail:	124.306
+Length   45/9, alignment  0/ 3, found:	99.5847
+Length   45/9, alignment  0/ 3, fail:	123.592
+Length   45/9, alignment  0/ 9, found:	100.269
+Length   45/9, alignment  0/ 9, fail:	121.09
+Length   45/9, alignment  0/15, found:	100.869
+Length   45/9, alignment  0/15, fail:	122.757
+Length   45/9, alignment  3/ 0, found:	96.3381
+Length   45/9, alignment  3/ 0, fail:	123.151
+Length   45/9, alignment  3/ 3, found:	96.1943
+Length   45/9, alignment  3/ 3, fail:	119.077
+Length   45/9, alignment  3/ 9, found:	99.5503
+Length   45/9, alignment  3/ 9, fail:	119.073
+Length   45/9, alignment  3/15, found:	97.9346
+Length   45/9, alignment  3/15, fail:	121.49
+Length   45/9, alignment  9/ 0, found:	96.1797
+Length   45/9, alignment  9/ 0, fail:	122.602
+Length   45/9, alignment  9/ 3, found:	97.3425
+Length   45/9, alignment  9/ 3, fail:	119.077
+Length   45/9, alignment  9/ 9, found:	96.5029
+Length   45/9, alignment  9/ 9, fail:	120.333
+Length   45/9, alignment  9/15, found:	94.2405
+Length   45/9, alignment  9/15, fail:	122.617
+Length   45/9, alignment 15/ 0, found:	94.1887
+Length   45/9, alignment 15/ 0, fail:	123.579
+Length   45/9, alignment 15/ 3, found:	96.1003
+Length   45/9, alignment 15/ 3, fail:	121.099
+Length   45/9, alignment 15/ 9, found:	97.606
+Length   45/9, alignment 15/ 9, fail:	122.202
+Length   45/9, alignment 15/15, found:	94.1841
+Length   45/9, alignment 15/15, fail:	123.198
+Length   54/9, alignment  0/ 0, found:	99.615
+Length   54/9, alignment  0/ 0, fail:	128.546
+Length   54/9, alignment  0/ 3, found:	103.325
+Length   54/9, alignment  0/ 3, fail:	129.675
+Length   54/9, alignment  0/ 9, found:	101.306
+Length   54/9, alignment  0/ 9, fail:	130.722
+Length   54/9, alignment  0/15, found:	100.779
+Length   54/9, alignment  0/15, fail:	132.369
+Length   54/9, alignment  3/ 0, found:	99.585
+Length   54/9, alignment  3/ 0, fail:	131.358
+Length   54/9, alignment  3/ 3, found:	101.59
+Length   54/9, alignment  3/ 3, fail:	128.431
+Length   54/9, alignment  3/ 9, found:	101.503
+Length   54/9, alignment  3/ 9, fail:	129.734
+Length   54/9, alignment  3/15, found:	100.757
+Length   54/9, alignment  3/15, fail:	131.819
+Length   54/9, alignment  9/ 0, found:	100.757
+Length   54/9, alignment  9/ 0, fail:	130.188
+Length   54/9, alignment  9/ 3, found:	101.394
+Length   54/9, alignment  9/ 3, fail:	129.67
+Length   54/9, alignment  9/ 9, found:	103.524
+Length   54/9, alignment  9/ 9, fail:	128.725
+Length   54/9, alignment  9/15, found:	102.526
+Length   54/9, alignment  9/15, fail:	130.203
+Length   54/9, alignment 15/ 0, found:	99.5698
+Length   54/9, alignment 15/ 0, fail:	132.033
+Length   54/9, alignment 15/ 3, found:	100.749
+Length   54/9, alignment 15/ 3, fail:	131.431
+Length   54/9, alignment 15/ 9, found:	100.934
+Length   54/9, alignment 15/ 9, fail:	128.471
+Length   54/9, alignment 15/15, found:	101.665
+Length   54/9, alignment 15/15, fail:	129.922
+Length   63/9, alignment  0/ 0, found:	106.552
+Length   63/9, alignment  0/ 0, fail:	141.882
+Length   63/9, alignment  0/ 3, found:	105.919
+Length   63/9, alignment  0/ 3, fail:	141.389
+Length   63/9, alignment  0/ 9, found:	108.331
+Length   63/9, alignment  0/ 9, fail:	139.856
+Length   63/9, alignment  0/15, found:	107.793
+Length   63/9, alignment  0/15, fail:	138.032
+Length   63/9, alignment  3/ 0, found:	108.215
+Length   63/9, alignment  3/ 0, fail:	140.869
+Length   63/9, alignment  3/ 3, found:	108.179
+Length   63/9, alignment  3/ 3, fail:	139.369
+Length   63/9, alignment  3/ 9, found:	106.49
+Length   63/9, alignment  3/ 9, fail:	141.041
+Length   63/9, alignment  3/15, found:	106.417
+Length   63/9, alignment  3/15, fail:	140.608
+Length   63/9, alignment  9/ 0, found:	108.453
+Length   63/9, alignment  9/ 0, fail:	139.722
+Length   63/9, alignment  9/ 3, found:	109.573
+Length   63/9, alignment  9/ 3, fail:	138.042
+Length   63/9, alignment  9/ 9, found:	108.078
+Length   63/9, alignment  9/ 9, fail:	139.489
+Length   63/9, alignment  9/15, found:	106.409
+Length   63/9, alignment  9/15, fail:	141.323
+Length   63/9, alignment 15/ 0, found:	106.482
+Length   63/9, alignment 15/ 0, fail:	142.713
+Length   63/9, alignment 15/ 3, found:	106.498
+Length   63/9, alignment 15/ 3, fail:	139.702
+Length   63/9, alignment 15/ 9, found:	108.118
+Length   63/9, alignment 15/ 9, fail:	138.027
+Length   63/9, alignment 15/15, found:	109.386
+Length   63/9, alignment 15/15, fail:	138.05
+Length   40/10, alignment  0/ 0, found:	99.2778
+Length   40/10, alignment  0/ 0, fail:	116.817
+Length   40/10, alignment  0/ 3, found:	97.5364
+Length   40/10, alignment  0/ 3, fail:	117.203
+Length   40/10, alignment  0/ 9, found:	98.907
+Length   40/10, alignment  0/ 9, fail:	115.42
+Length   40/10, alignment  0/15, found:	99.1956
+Length   40/10, alignment  0/15, fail:	116.726
+Length   40/10, alignment  3/ 0, found:	97.4893
+Length   40/10, alignment  3/ 0, fail:	118.412
+Length   40/10, alignment  3/ 3, found:	97.4836
+Length   40/10, alignment  3/ 3, fail:	115.421
+Length   40/10, alignment  3/ 9, found:	101.286
+Length   40/10, alignment  3/ 9, fail:	115.407
+Length   40/10, alignment  3/15, found:	99.3003
+Length   40/10, alignment  3/15, fail:	116.677
+Length   40/10, alignment  9/ 0, found:	95.2996
+Length   40/10, alignment  9/ 0, fail:	117.156
+Length   40/10, alignment  9/ 3, found:	96.5657
+Length   40/10, alignment  9/ 3, fail:	115.334
+Length   40/10, alignment  9/ 9, found:	96.8679
+Length   40/10, alignment  9/ 9, fail:	116.714
+Length   40/10, alignment  9/15, found:	95.186
+Length   40/10, alignment  9/15, fail:	118.367
+Length   40/10, alignment 15/ 0, found:	95.2788
+Length   40/10, alignment 15/ 0, fail:	115.102
+Length   40/10, alignment 15/ 3, found:	99.0002
+Length   40/10, alignment 15/ 3, fail:	115.342
+Length   40/10, alignment 15/ 9, found:	97.864
+Length   40/10, alignment 15/ 9, fail:	116.695
+Length   40/10, alignment 15/15, found:	94.582
+Length   40/10, alignment 15/15, fail:	117.058
+Length   50/10, alignment  0/ 0, found:	101.743
+Length   50/10, alignment  0/ 0, fail:	126.195
+Length   50/10, alignment  0/ 3, found:	102.173
+Length   50/10, alignment  0/ 3, fail:	127.565
+Length   50/10, alignment  0/ 9, found:	100.293
+Length   50/10, alignment  0/ 9, fail:	132.906
+Length   50/10, alignment  0/15, found:	100.283
+Length   50/10, alignment  0/15, fail:	128.619
+Length   50/10, alignment  3/ 0, found:	102.439
+Length   50/10, alignment  3/ 0, fail:	126.123
+Length   50/10, alignment  3/ 3, found:	103.39
+Length   50/10, alignment  3/ 3, fail:	126.124
+Length   50/10, alignment  3/ 9, found:	102.035
+Length   50/10, alignment  3/ 9, fail:	127.466
+Length   50/10, alignment  3/15, found:	100.231
+Length   50/10, alignment  3/15, fail:	127.907
+Length   50/10, alignment  9/ 0, found:	104.247
+Length   50/10, alignment  9/ 0, fail:	127.04
+Length   50/10, alignment  9/ 3, found:	104.06
+Length   50/10, alignment  9/ 3, fail:	125.702
+Length   50/10, alignment  9/ 9, found:	102.382
+Length   50/10, alignment  9/ 9, fail:	127.746
+Length   50/10, alignment  9/15, found:	100.256
+Length   50/10, alignment  9/15, fail:	128.74
+Length   50/10, alignment 15/ 0, found:	100.189
+Length   50/10, alignment 15/ 0, fail:	127.505
+Length   50/10, alignment 15/ 3, found:	101.321
+Length   50/10, alignment 15/ 3, fail:	125.674
+Length   50/10, alignment 15/ 9, found:	102.041
+Length   50/10, alignment 15/ 9, fail:	127.774
+Length   50/10, alignment 15/15, found:	100.181
+Length   50/10, alignment 15/15, fail:	135.45
+Length   60/10, alignment  0/ 0, found:	105.111
+Length   60/10, alignment  0/ 0, fail:	138.344
+Length   60/10, alignment  0/ 3, found:	107.317
+Length   60/10, alignment  0/ 3, fail:	136.165
+Length   60/10, alignment  0/ 9, found:	108.197
+Length   60/10, alignment  0/ 9, fail:	136.065
+Length   60/10, alignment  0/15, found:	106.758
+Length   60/10, alignment  0/15, fail:	137.438
+Length   60/10, alignment  3/ 0, found:	105.122
+Length   60/10, alignment  3/ 0, fail:	139.883
+Length   60/10, alignment  3/ 3, found:	105.094
+Length   60/10, alignment  3/ 3, fail:	137.991
+Length   60/10, alignment  3/ 9, found:	106.3
+Length   60/10, alignment  3/ 9, fail:	136.078
+Length   60/10, alignment  3/15, found:	106.445
+Length   60/10, alignment  3/15, fail:	136.058
+Length   60/10, alignment  9/ 0, found:	108.223
+Length   60/10, alignment  9/ 0, fail:	138.011
+Length   60/10, alignment  9/ 3, found:	104.884
+Length   60/10, alignment  9/ 3, fail:	143.705
+Length   60/10, alignment  9/ 9, found:	104.949
+Length   60/10, alignment  9/ 9, fail:	140.76
+Length   60/10, alignment  9/15, found:	104.871
+Length   60/10, alignment  9/15, fail:	137.903
+Length   60/10, alignment 15/ 0, found:	106.27
+Length   60/10, alignment 15/ 0, fail:	136.078
+Length   60/10, alignment 15/ 3, found:	108.028
+Length   60/10, alignment 15/ 3, fail:	136.064
+Length   60/10, alignment 15/ 9, found:	106.936
+Length   60/10, alignment 15/ 9, fail:	138.165
+Length   60/10, alignment 15/15, found:	104.918
+Length   60/10, alignment 15/15, fail:	139.207
+Length   70/10, alignment  0/ 0, found:	111.527
+Length   70/10, alignment  0/ 0, fail:	148.296
+Length   70/10, alignment  0/ 3, found:	112.418
+Length   70/10, alignment  0/ 3, fail:	148.25
+Length   70/10, alignment  0/ 9, found:	112.918
+Length   70/10, alignment  0/ 9, fail:	146.415
+Length   70/10, alignment  0/15, found:	114.506
+Length   70/10, alignment  0/15, fail:	146.471
+Length   70/10, alignment  3/ 0, found:	113.281
+Length   70/10, alignment  3/ 0, fail:	148.308
+Length   70/10, alignment  3/ 3, found:	113.33
+Length   70/10, alignment  3/ 3, fail:	147.322
+Length   70/10, alignment  3/ 9, found:	111.581
+Length   70/10, alignment  3/ 9, fail:	149.444
+Length   70/10, alignment  3/15, found:	111.635
+Length   70/10, alignment  3/15, fail:	149.455
+Length   70/10, alignment  9/ 0, found:	111.583
+Length   70/10, alignment  9/ 0, fail:	148.152
+Length   70/10, alignment  9/ 3, found:	112.968
+Length   70/10, alignment  9/ 3, fail:	146.412
+Length   70/10, alignment  9/ 9, found:	115.237
+Length   70/10, alignment  9/ 9, fail:	146.466
+Length   70/10, alignment  9/15, found:	113.511
+Length   70/10, alignment  9/15, fail:	148.04
+Length   70/10, alignment 15/ 0, found:	113.219
+Length   70/10, alignment 15/ 0, fail:	147.992
+Length   70/10, alignment 15/ 3, found:	111.601
+Length   70/10, alignment 15/ 3, fail:	148.925
+Length   70/10, alignment 15/ 9, found:	111.593
+Length   70/10, alignment 15/ 9, fail:	149.463
+Length   70/10, alignment 15/15, found:	111.59
+Length   70/10, alignment 15/15, fail:	148.146
+Length   44/11, alignment  0/ 0, found:	105.961
+Length   44/11, alignment  0/ 0, fail:	122.987
+Length   44/11, alignment  0/ 3, found:	107.55
+Length   44/11, alignment  0/ 3, fail:	123.11
+Length   44/11, alignment  0/ 9, found:	105.031
+Length   44/11, alignment  0/ 9, fail:	124.691
+Length   44/11, alignment  0/15, found:	104.658
+Length   44/11, alignment  0/15, fail:	126.006
+Length   44/11, alignment  3/ 0, found:	99.5029
+Length   44/11, alignment  3/ 0, fail:	123.432
+Length   44/11, alignment  3/ 3, found:	102.394
+Length   44/11, alignment  3/ 3, fail:	123.413
+Length   44/11, alignment  3/ 9, found:	100.917
+Length   44/11, alignment  3/ 9, fail:	124.022
+Length   44/11, alignment  3/15, found:	99.3147
+Length   44/11, alignment  3/15, fail:	130.835
+Length   44/11, alignment  9/ 0, found:	99.3137
+Length   44/11, alignment  9/ 0, fail:	123.471
+Length   44/11, alignment  9/ 3, found:	102.821
+Length   44/11, alignment  9/ 3, fail:	123.542
+Length   44/11, alignment  9/ 9, found:	100.708
+Length   44/11, alignment  9/ 9, fail:	124.545
+Length   44/11, alignment  9/15, found:	99.2175
+Length   44/11, alignment  9/15, fail:	125.727
+Length   44/11, alignment 15/ 0, found:	99.5288
+Length   44/11, alignment 15/ 0, fail:	123.48
+Length   44/11, alignment 15/ 3, found:	102.479
+Length   44/11, alignment 15/ 3, fail:	123.486
+Length   44/11, alignment 15/ 9, found:	101.019
+Length   44/11, alignment 15/ 9, fail:	125.228
+Length   44/11, alignment 15/15, found:	99.3132
+Length   44/11, alignment 15/15, fail:	124.759
+Length   55/11, alignment  0/ 0, found:	104.024
+Length   55/11, alignment  0/ 0, fail:	137.528
+Length   55/11, alignment  0/ 3, found:	105.022
+Length   55/11, alignment  0/ 3, fail:	134.319
+Length   55/11, alignment  0/ 9, found:	106.302
+Length   55/11, alignment  0/ 9, fail:	138.249
+Length   55/11, alignment  0/15, found:	104.768
+Length   55/11, alignment  0/15, fail:	137.382
+Length   55/11, alignment  3/ 0, found:	102.968
+Length   55/11, alignment  3/ 0, fail:	138.111
+Length   55/11, alignment  3/ 3, found:	104.773
+Length   55/11, alignment  3/ 3, fail:	136.109
+Length   55/11, alignment  3/ 9, found:	104.876
+Length   55/11, alignment  3/ 9, fail:	134.6
+Length   55/11, alignment  3/15, found:	105.116
+Length   55/11, alignment  3/15, fail:	135.614
+Length   55/11, alignment  9/ 0, found:	103.293
+Length   55/11, alignment  9/ 0, fail:	137.323
+Length   55/11, alignment  9/ 3, found:	103.046
+Length   55/11, alignment  9/ 3, fail:	138.931
+Length   55/11, alignment  9/ 9, found:	104.179
+Length   55/11, alignment  9/ 9, fail:	135.995
+Length   55/11, alignment  9/15, found:	105.652
+Length   55/11, alignment  9/15, fail:	134.6
+Length   55/11, alignment 15/ 0, found:	104.609
+Length   55/11, alignment 15/ 0, fail:	135.626
+Length   55/11, alignment 15/ 3, found:	103.392
+Length   55/11, alignment 15/ 3, fail:	139.94
+Length   55/11, alignment 15/ 9, found:	104.3
+Length   55/11, alignment 15/ 9, fail:	138.762
+Length   55/11, alignment 15/15, found:	103.967
+Length   55/11, alignment 15/15, fail:	136.064
+Length   66/11, alignment  0/ 0, found:	111.163
+Length   66/11, alignment  0/ 0, fail:	144.269
+Length   66/11, alignment  0/ 3, found:	112.509
+Length   66/11, alignment  0/ 3, fail:	145.603
+Length   66/11, alignment  0/ 9, found:	111.522
+Length   66/11, alignment  0/ 9, fail:	149.184
+Length   66/11, alignment  0/15, found:	109.345
+Length   66/11, alignment  0/15, fail:	149.236
+Length   66/11, alignment  3/ 0, found:	109.168
+Length   66/11, alignment  3/ 0, fail:	148.285
+Length   66/11, alignment  3/ 3, found:	109.331
+Length   66/11, alignment  3/ 3, fail:	145.498
+Length   66/11, alignment  3/ 9, found:	110.807
+Length   66/11, alignment  3/ 9, fail:	145.538
+Length   66/11, alignment  3/15, found:	110.969
+Length   66/11, alignment  3/15, fail:	143.67
+Length   66/11, alignment  9/ 0, found:	113.404
+Length   66/11, alignment  9/ 0, fail:	145.169
+Length   66/11, alignment  9/ 3, found:	111.199
+Length   66/11, alignment  9/ 3, fail:	145.557
+Length   66/11, alignment  9/ 9, found:	109.393
+Length   66/11, alignment  9/ 9, fail:	147.924
+Length   66/11, alignment  9/15, found:	109.354
+Length   66/11, alignment  9/15, fail:	148.723
+Length   66/11, alignment 15/ 0, found:	109.3
+Length   66/11, alignment 15/ 0, fail:	146.003
+Length   66/11, alignment 15/ 3, found:	110.978
+Length   66/11, alignment 15/ 3, fail:	143.981
+Length   66/11, alignment 15/ 9, found:	116.65
+Length   66/11, alignment 15/ 9, fail:	143.634
+Length   66/11, alignment 15/15, found:	113.297
+Length   66/11, alignment 15/15, fail:	145.713
+Length   77/11, alignment  0/ 0, found:	119.115
+Length   77/11, alignment  0/ 0, fail:	156.231
+Length   77/11, alignment  0/ 3, found:	118.981
+Length   77/11, alignment  0/ 3, fail:	156.43
+Length   77/11, alignment  0/ 9, found:	117.281
+Length   77/11, alignment  0/ 9, fail:	158.02
+Length   77/11, alignment  0/15, found:	117.192
+Length   77/11, alignment  0/15, fail:	157.796
+Length   77/11, alignment  3/ 0, found:	116.923
+Length   77/11, alignment  3/ 0, fail:	158.577
+Length   77/11, alignment  3/ 3, found:	117.17
+Length   77/11, alignment  3/ 3, fail:	156.629
+Length   77/11, alignment  3/ 9, found:	118.75
+Length   77/11, alignment  3/ 9, fail:	156.874
+Length   77/11, alignment  3/15, found:	118.83
+Length   77/11, alignment  3/15, fail:	157.845
+Length   77/11, alignment  9/ 0, found:	118.591
+Length   77/11, alignment  9/ 0, fail:	155.872
+Length   77/11, alignment  9/ 3, found:	120.249
+Length   77/11, alignment  9/ 3, fail:	155.787
+Length   77/11, alignment  9/ 9, found:	120.994
+Length   77/11, alignment  9/ 9, fail:	154.712
+Length   77/11, alignment  9/15, found:	119.001
+Length   77/11, alignment  9/15, fail:	156.395
+Length   77/11, alignment 15/ 0, found:	118.992
+Length   77/11, alignment 15/ 0, fail:	156.421
+Length   77/11, alignment 15/ 3, found:	117.213
+Length   77/11, alignment 15/ 3, fail:	156.221
+Length   77/11, alignment 15/ 9, found:	117.161
+Length   77/11, alignment 15/ 9, fail:	157.995
+Length   77/11, alignment 15/15, found:	117.095
+Length   77/11, alignment 15/15, fail:	158.974
+Length   48/12, alignment  0/ 0, found:	101.626
+Length   48/12, alignment  0/ 0, fail:	126.978
+Length   48/12, alignment  0/ 3, found:	103.266
+Length   48/12, alignment  0/ 3, fail:	125.103
+Length   48/12, alignment  0/ 9, found:	103.412
+Length   48/12, alignment  0/ 9, fail:	126.446
+Length   48/12, alignment  0/15, found:	101.712
+Length   48/12, alignment  0/15, fail:	128.178
+Length   48/12, alignment  3/ 0, found:	101.746
+Length   48/12, alignment  3/ 0, fail:	126.844
+Length   48/12, alignment  3/ 3, found:	103.031
+Length   48/12, alignment  3/ 3, fail:	125.1
+Length   48/12, alignment  3/ 9, found:	105.552
+Length   48/12, alignment  3/ 9, fail:	125.106
+Length   48/12, alignment  3/15, found:	103.46
+Length   48/12, alignment  3/15, fail:	126.469
+Length   48/12, alignment  9/ 0, found:	101.708
+Length   48/12, alignment  9/ 0, fail:	126.903
+Length   48/12, alignment  9/ 3, found:	103.051
+Length   48/12, alignment  9/ 3, fail:	125.107
+Length   48/12, alignment  9/ 9, found:	104.685
+Length   48/12, alignment  9/ 9, fail:	125.114
+Length   48/12, alignment  9/15, found:	103.413
+Length   48/12, alignment  9/15, fail:	126.362
+Length   48/12, alignment 15/ 0, found:	101.709
+Length   48/12, alignment 15/ 0, fail:	128.105
+Length   48/12, alignment 15/ 3, found:	101.611
+Length   48/12, alignment 15/ 3, fail:	127.152
+Length   48/12, alignment 15/ 9, found:	103.425
+Length   48/12, alignment 15/ 9, fail:	125.1
+Length   48/12, alignment 15/15, found:	103.477
+Length   48/12, alignment 15/15, fail:	126.51
+Length   60/12, alignment  0/ 0, found:	107.781
+Length   60/12, alignment  0/ 0, fail:	140.692
+Length   60/12, alignment  0/ 3, found:	110.301
+Length   60/12, alignment  0/ 3, fail:	140.135
+Length   60/12, alignment  0/ 9, found:	109.219
+Length   60/12, alignment  0/ 9, fail:	139.68
+Length   60/12, alignment  0/15, found:	108.228
+Length   60/12, alignment  0/15, fail:	137.661
+Length   60/12, alignment  3/ 0, found:	109.471
+Length   60/12, alignment  3/ 0, fail:	139.632
+Length   60/12, alignment  3/ 3, found:	109.288
+Length   60/12, alignment  3/ 3, fail:	139.029
+Length   60/12, alignment  3/ 9, found:	107.46
+Length   60/12, alignment  3/ 9, fail:	140.738
+Length   60/12, alignment  3/15, found:	107.459
+Length   60/12, alignment  3/15, fail:	139.419
+Length   60/12, alignment  9/ 0, found:	108.567
+Length   60/12, alignment  9/ 0, fail:	137.666
+Length   60/12, alignment  9/ 3, found:	110.398
+Length   60/12, alignment  9/ 3, fail:	137.672
+Length   60/12, alignment  9/ 9, found:	109.477
+Length   60/12, alignment  9/ 9, fail:	139.559
+Length   60/12, alignment  9/15, found:	107.28
+Length   60/12, alignment  9/15, fail:	140.538
+Length   60/12, alignment 15/ 0, found:	107.471
+Length   60/12, alignment 15/ 0, fail:	140.604
+Length   60/12, alignment 15/ 3, found:	107.366
+Length   60/12, alignment 15/ 3, fail:	139.452
+Length   60/12, alignment 15/ 9, found:	109.058
+Length   60/12, alignment 15/ 9, fail:	137.669
+Length   60/12, alignment 15/15, found:	109.322
+Length   60/12, alignment 15/15, fail:	137.658
+Length   72/12, alignment  0/ 0, found:	116.939
+Length   72/12, alignment  0/ 0, fail:	151.6
+Length   72/12, alignment  0/ 3, found:	114.233
+Length   72/12, alignment  0/ 3, fail:	152.622
+Length   72/12, alignment  0/ 9, found:	118.741
+Length   72/12, alignment  0/ 9, fail:	154.394
+Length   72/12, alignment  0/15, found:	114.239
+Length   72/12, alignment  0/15, fail:	152.796
+Length   72/12, alignment  3/ 0, found:	114.291
+Length   72/12, alignment  3/ 0, fail:	151.424
+Length   72/12, alignment  3/ 3, found:	115.473
+Length   72/12, alignment  3/ 3, fail:	151.5
+Length   72/12, alignment  3/ 9, found:	116.287
+Length   72/12, alignment  3/ 9, fail:	147.634
+Length   72/12, alignment  3/15, found:	117.415
+Length   72/12, alignment  3/15, fail:	148.552
+Length   72/12, alignment  9/ 0, found:	116.216
+Length   72/12, alignment  9/ 0, fail:	150.968
+Length   72/12, alignment  9/ 3, found:	116.044
+Length   72/12, alignment  9/ 3, fail:	151.162
+Length   72/12, alignment  9/ 9, found:	114.243
+Length   72/12, alignment  9/ 9, fail:	160.207
+Length   72/12, alignment  9/15, found:	114.246
+Length   72/12, alignment  9/15, fail:	153.918
+Length   72/12, alignment 15/ 0, found:	114.257
+Length   72/12, alignment 15/ 0, fail:	152.145
+Length   72/12, alignment 15/ 3, found:	114.202
+Length   72/12, alignment 15/ 3, fail:	151.22
+Length   72/12, alignment 15/ 9, found:	115.646
+Length   72/12, alignment 15/ 9, fail:	150.531
+Length   72/12, alignment 15/15, found:	116.245
+Length   72/12, alignment 15/15, fail:	148.193
+Length   84/12, alignment  0/ 0, found:	124.249
+Length   84/12, alignment  0/ 0, fail:	161.817
+Length   84/12, alignment  0/ 3, found:	124.112
+Length   84/12, alignment  0/ 3, fail:	161.583
+Length   84/12, alignment  0/ 9, found:	125.043
+Length   84/12, alignment  0/ 9, fail:	161.621
+Length   84/12, alignment  0/15, found:	122.891
+Length   84/12, alignment  0/15, fail:	163.875
+Length   84/12, alignment  3/ 0, found:	122.971
+Length   84/12, alignment  3/ 0, fail:	163.18
+Length   84/12, alignment  3/ 3, found:	122.846
+Length   84/12, alignment  3/ 3, fail:	163.559
+Length   84/12, alignment  3/ 9, found:	122.865
+Length   84/12, alignment  3/ 9, fail:	162.977
+Length   84/12, alignment  3/15, found:	121.203
+Length   84/12, alignment  3/15, fail:	165.328
+Length   84/12, alignment  9/ 0, found:	120.856
+Length   84/12, alignment  9/ 0, fail:	169.436
+Length   84/12, alignment  9/ 3, found:	121.176
+Length   84/12, alignment  9/ 3, fail:	165.267
+Length   84/12, alignment  9/ 9, found:	121.205
+Length   84/12, alignment  9/ 9, fail:	164.677
+Length   84/12, alignment  9/15, found:	121.147
+Length   84/12, alignment  9/15, fail:	165.545
+Length   84/12, alignment 15/ 0, found:	121.062
+Length   84/12, alignment 15/ 0, fail:	165.265
+Length   84/12, alignment 15/ 3, found:	121.216
+Length   84/12, alignment 15/ 3, fail:	164.769
+Length   84/12, alignment 15/ 9, found:	121.415
+Length   84/12, alignment 15/ 9, fail:	163.598
+Length   84/12, alignment 15/15, found:	122.665
+Length   84/12, alignment 15/15, fail:	163.316
+Length   52/13, alignment  0/ 0, found:	104.095
+Length   52/13, alignment  0/ 0, fail:	130.096
+Length   52/13, alignment  0/ 3, found:	106.922
+Length   52/13, alignment  0/ 3, fail:	129.616
+Length   52/13, alignment  0/ 9, found:	103.824
+Length   52/13, alignment  0/ 9, fail:	131.535
+Length   52/13, alignment  0/15, found:	104.977
+Length   52/13, alignment  0/15, fail:	133.782
+Length   52/13, alignment  3/ 0, found:	102.095
+Length   52/13, alignment  3/ 0, fail:	131.836
+Length   52/13, alignment  3/ 3, found:	104.988
+Length   52/13, alignment  3/ 3, fail:	129.609
+Length   52/13, alignment  3/ 9, found:	105.497
+Length   52/13, alignment  3/ 9, fail:	131.291
+Length   52/13, alignment  3/15, found:	102.076
+Length   52/13, alignment  3/15, fail:	132.954
+Length   52/13, alignment  9/ 0, found:	102.097
+Length   52/13, alignment  9/ 0, fail:	131.65
+Length   52/13, alignment  9/ 3, found:	103.722
+Length   52/13, alignment  9/ 3, fail:	129.59
+Length   52/13, alignment  9/ 9, found:	106.929
+Length   52/13, alignment  9/ 9, fail:	130.081
+Length   52/13, alignment  9/15, found:	106.564
+Length   52/13, alignment  9/15, fail:	131.356
+Length   52/13, alignment 15/ 0, found:	102.093
+Length   52/13, alignment 15/ 0, fail:	132.82
+Length   52/13, alignment 15/ 3, found:	102.09
+Length   52/13, alignment 15/ 3, fail:	131.616
+Length   52/13, alignment 15/ 9, found:	106.458
+Length   52/13, alignment 15/ 9, fail:	130.031
+Length   52/13, alignment 15/15, found:	107.28
+Length   52/13, alignment 15/15, fail:	130.094
+Length   65/13, alignment  0/ 0, found:	112.585
+Length   65/13, alignment  0/ 0, fail:	145.537
+Length   65/13, alignment  0/ 3, found:	110.487
+Length   65/13, alignment  0/ 3, fail:	146.444
+Length   65/13, alignment  0/ 9, found:	110.467
+Length   65/13, alignment  0/ 9, fail:	146.419
+Length   65/13, alignment  0/15, found:	110.49
+Length   65/13, alignment  0/15, fail:	145.082
+Length   65/13, alignment  3/ 0, found:	111.953
+Length   65/13, alignment  3/ 0, fail:	144.422
+Length   65/13, alignment  3/ 3, found:	113.531
+Length   65/13, alignment  3/ 3, fail:	143.419
+Length   65/13, alignment  3/ 9, found:	112.303
+Length   65/13, alignment  3/ 9, fail:	145.051
+Length   65/13, alignment  3/15, found:	112.43
+Length   65/13, alignment  3/15, fail:	145.009
+Length   65/13, alignment  9/ 0, found:	110.586
+Length   65/13, alignment  9/ 0, fail:	146.198
+Length   65/13, alignment  9/ 3, found:	110.485
+Length   65/13, alignment  9/ 3, fail:	145.058
+Length   65/13, alignment  9/ 9, found:	111.911
+Length   65/13, alignment  9/ 9, fail:	144.911
+Length   65/13, alignment  9/15, found:	111.811
+Length   65/13, alignment  9/15, fail:	143.252
+Length   65/13, alignment 15/ 0, found:	113.391
+Length   65/13, alignment 15/ 0, fail:	143.291
+Length   65/13, alignment 15/ 3, found:	112.709
+Length   65/13, alignment 15/ 3, fail:	145.576
+Length   65/13, alignment 15/ 9, found:	110.575
+Length   65/13, alignment 15/ 9, fail:	146.411
+Length   65/13, alignment 15/15, found:	110.59
+Length   65/13, alignment 15/15, fail:	166.263
+Length   78/13, alignment  0/ 0, found:	119.278
+Length   78/13, alignment  0/ 0, fail:	162.418
+Length   78/13, alignment  0/ 3, found:	119.274
+Length   78/13, alignment  0/ 3, fail:	160.336
+Length   78/13, alignment  0/ 9, found:	119.296
+Length   78/13, alignment  0/ 9, fail:	159.3
+Length   78/13, alignment  0/15, found:	120.768
+Length   78/13, alignment  0/15, fail:	159.225
+Length   78/13, alignment  3/ 0, found:	120.814
+Length   78/13, alignment  3/ 0, fail:	159.43
+Length   78/13, alignment  3/ 3, found:	120.586
+Length   78/13, alignment  3/ 3, fail:	157.428
+Length   78/13, alignment  3/ 9, found:	122.969
+Length   78/13, alignment  3/ 9, fail:	157.48
+Length   78/13, alignment  3/15, found:	122.25
+Length   78/13, alignment  3/15, fail:	157.524
+Length   78/13, alignment  9/ 0, found:	121.042
+Length   78/13, alignment  9/ 0, fail:	158.787
+Length   78/13, alignment  9/ 3, found:	121.24
+Length   78/13, alignment  9/ 3, fail:	159.375
+Length   78/13, alignment  9/ 9, found:	121.011
+Length   78/13, alignment  9/ 9, fail:	159.101
+Length   78/13, alignment  9/15, found:	119.263
+Length   78/13, alignment  9/15, fail:	161.245
+Length   78/13, alignment 15/ 0, found:	119.344
+Length   78/13, alignment 15/ 0, fail:	160.808
+Length   78/13, alignment 15/ 3, found:	119.26
+Length   78/13, alignment 15/ 3, fail:	160.528
+Length   78/13, alignment 15/ 9, found:	119.259
+Length   78/13, alignment 15/ 9, fail:	160.146
+Length   78/13, alignment 15/15, found:	119.247
+Length   78/13, alignment 15/15, fail:	160.425
+Length   91/13, alignment  0/ 0, found:	123.697
+Length   91/13, alignment  0/ 0, fail:	173.065
+Length   91/13, alignment  0/ 3, found:	124.917
+Length   91/13, alignment  0/ 3, fail:	172.229
+Length   91/13, alignment  0/ 9, found:	126.748
+Length   91/13, alignment  0/ 9, fail:	172.745
+Length   91/13, alignment  0/15, found:	126.202
+Length   91/13, alignment  0/15, fail:	172.081
+Length   91/13, alignment  3/ 0, found:	126.178
+Length   91/13, alignment  3/ 0, fail:	172.061
+Length   91/13, alignment  3/ 3, found:	124.631
+Length   91/13, alignment  3/ 3, fail:	176.451
+Length   91/13, alignment  3/ 9, found:	126.799
+Length   91/13, alignment  3/ 9, fail:	173.214
+Length   91/13, alignment  3/15, found:	126.798
+Length   91/13, alignment  3/15, fail:	172.823
+Length   91/13, alignment  9/ 0, found:	126.197
+Length   91/13, alignment  9/ 0, fail:	173.121
+Length   91/13, alignment  9/ 3, found:	126.186
+Length   91/13, alignment  9/ 3, fail:	172.865
+Length   91/13, alignment  9/ 9, found:	126.221
+Length   91/13, alignment  9/ 9, fail:	172.847
+Length   91/13, alignment  9/15, found:	126.193
+Length   91/13, alignment  9/15, fail:	173.068
+Length   91/13, alignment 15/ 0, found:	127.609
+Length   91/13, alignment 15/ 0, fail:	173.141
+Length   91/13, alignment 15/ 3, found:	126.657
+Length   91/13, alignment 15/ 3, fail:	173.173
+Length   91/13, alignment 15/ 9, found:	126.237
+Length   91/13, alignment 15/ 9, fail:	172.928
+Length   91/13, alignment 15/15, found:	126.182
+Length   91/13, alignment 15/15, fail:	172.88
+Length   56/14, alignment  0/ 0, found:	109.372
+Length   56/14, alignment  0/ 0, fail:	135.648
+Length   56/14, alignment  0/ 3, found:	111.039
+Length   56/14, alignment  0/ 3, fail:	138.967
+Length   56/14, alignment  0/ 9, found:	110.984
+Length   56/14, alignment  0/ 9, fail:	138.204
+Length   56/14, alignment  0/15, found:	108.413
+Length   56/14, alignment  0/15, fail:	138.858
+Length   56/14, alignment  3/ 0, found:	105.71
+Length   56/14, alignment  3/ 0, fail:	137.404
+Length   56/14, alignment  3/ 3, found:	106.058
+Length   56/14, alignment  3/ 3, fail:	137.467
+Length   56/14, alignment  3/ 9, found:	108.467
+Length   56/14, alignment  3/ 9, fail:	135.714
+Length   56/14, alignment  3/15, found:	108.517
+Length   56/14, alignment  3/15, fail:	137.006
+Length   56/14, alignment  9/ 0, found:	108.025
+Length   56/14, alignment  9/ 0, fail:	137.636
+Length   56/14, alignment  9/ 3, found:	105.688
+Length   56/14, alignment  9/ 3, fail:	138.702
+Length   56/14, alignment  9/ 9, found:	105.595
+Length   56/14, alignment  9/ 9, fail:	138.002
+Length   56/14, alignment  9/15, found:	107.521
+Length   56/14, alignment  9/15, fail:	135.675
+Length   56/14, alignment 15/ 0, found:	109.049
+Length   56/14, alignment 15/ 0, fail:	135.686
+Length   56/14, alignment 15/ 3, found:	109.631
+Length   56/14, alignment 15/ 3, fail:	136.993
+Length   56/14, alignment 15/ 9, found:	107.393
+Length   56/14, alignment 15/ 9, fail:	139.375
+Length   56/14, alignment 15/15, found:	107.911
+Length   56/14, alignment 15/15, fail:	137.61
+Length   70/14, alignment  0/ 0, found:	117.018
+Length   70/14, alignment  0/ 0, fail:	152.346
+Length   70/14, alignment  0/ 3, found:	117.043
+Length   70/14, alignment  0/ 3, fail:	151.429
+Length   70/14, alignment  0/ 9, found:	118.618
+Length   70/14, alignment  0/ 9, fail:	154.608
+Length   70/14, alignment  0/15, found:	120.282
+Length   70/14, alignment  0/15, fail:	150.554
+Length   70/14, alignment  3/ 0, found:	117.489
+Length   70/14, alignment  3/ 0, fail:	152.916
+Length   70/14, alignment  3/ 3, found:	117.751
+Length   70/14, alignment  3/ 3, fail:	151.826
+Length   70/14, alignment  3/ 9, found:	115.676
+Length   70/14, alignment  3/ 9, fail:	153.579
+Length   70/14, alignment  3/15, found:	115.695
+Length   70/14, alignment  3/15, fail:	153.573
+Length   70/14, alignment  9/ 0, found:	115.604
+Length   70/14, alignment  9/ 0, fail:	153.582
+Length   70/14, alignment  9/ 3, found:	115.639
+Length   70/14, alignment  9/ 3, fail:	152.322
+Length   70/14, alignment  9/ 9, found:	116.955
+Length   70/14, alignment  9/ 9, fail:	152.592
+Length   70/14, alignment  9/15, found:	117.556
+Length   70/14, alignment  9/15, fail:	150.525
+Length   70/14, alignment 15/ 0, found:	118.819
+Length   70/14, alignment 15/ 0, fail:	150.512
+Length   70/14, alignment 15/ 3, found:	117.444
+Length   70/14, alignment 15/ 3, fail:	151.778
+Length   70/14, alignment 15/ 9, found:	117.41
+Length   70/14, alignment 15/ 9, fail:	151.691
+Length   70/14, alignment 15/15, found:	115.595
+Length   70/14, alignment 15/15, fail:	153.419
+Length   84/14, alignment  0/ 0, found:	123.038
+Length   84/14, alignment  0/ 0, fail:	167.627
+Length   84/14, alignment  0/ 3, found:	122.992
+Length   84/14, alignment  0/ 3, fail:	166.93
+Length   84/14, alignment  0/ 9, found:	123.042
+Length   84/14, alignment  0/ 9, fail:	166.754
+Length   84/14, alignment  0/15, found:	123.241
+Length   84/14, alignment  0/15, fail:	167.105
+Length   84/14, alignment  3/ 0, found:	123.047
+Length   84/14, alignment  3/ 0, fail:	166.936
+Length   84/14, alignment  3/ 3, found:	123.269
+Length   84/14, alignment  3/ 3, fail:	167.494
+Length   84/14, alignment  3/ 9, found:	123.032
+Length   84/14, alignment  3/ 9, fail:	168.297
+Length   84/14, alignment  3/15, found:	123.06
+Length   84/14, alignment  3/15, fail:	165.637
+Length   84/14, alignment  9/ 0, found:	124.423
+Length   84/14, alignment  9/ 0, fail:	165.497
+Length   84/14, alignment  9/ 3, found:	124.423
+Length   84/14, alignment  9/ 3, fail:	165.586
+Length   84/14, alignment  9/ 9, found:	124.372
+Length   84/14, alignment  9/ 9, fail:	165.595
+Length   84/14, alignment  9/15, found:	125.159
+Length   84/14, alignment  9/15, fail:	165.742
+Length   84/14, alignment 15/ 0, found:	124.356
+Length   84/14, alignment 15/ 0, fail:	163.835
+Length   84/14, alignment 15/ 3, found:	125.974
+Length   84/14, alignment 15/ 3, fail:	163.854
+Length   84/14, alignment 15/ 9, found:	126.067
+Length   84/14, alignment 15/ 9, fail:	163.856
+Length   84/14, alignment 15/15, found:	126.007
+Length   84/14, alignment 15/15, fail:	163.856
+Length   98/14, alignment  0/ 0, found:	133.08
+Length   98/14, alignment  0/ 0, fail:	178.976
+Length   98/14, alignment  0/ 3, found:	133.86
+Length   98/14, alignment  0/ 3, fail:	179.055
+Length   98/14, alignment  0/ 9, found:	133.082
+Length   98/14, alignment  0/ 9, fail:	179.008
+Length   98/14, alignment  0/15, found:	133.177
+Length   98/14, alignment  0/15, fail:	180.299
+Length   98/14, alignment  3/ 0, found:	131.198
+Length   98/14, alignment  3/ 0, fail:	180.354
+Length   98/14, alignment  3/ 3, found:	131.361
+Length   98/14, alignment  3/ 3, fail:	180.544
+Length   98/14, alignment  3/ 9, found:	131.91
+Length   98/14, alignment  3/ 9, fail:	180.352
+Length   98/14, alignment  3/15, found:	131.439
+Length   98/14, alignment  3/15, fail:	180.198
+Length   98/14, alignment  9/ 0, found:	131.336
+Length   98/14, alignment  9/ 0, fail:	180.31
+Length   98/14, alignment  9/ 3, found:	131.381
+Length   98/14, alignment  9/ 3, fail:	181.558
+Length   98/14, alignment  9/ 9, found:	130.474
+Length   98/14, alignment  9/ 9, fail:	185.926
+Length   98/14, alignment  9/15, found:	130.126
+Length   98/14, alignment  9/15, fail:	182.523
+Length   98/14, alignment 15/ 0, found:	130.077
+Length   98/14, alignment 15/ 0, fail:	181.751
+Length   98/14, alignment 15/ 3, found:	130.037
+Length   98/14, alignment 15/ 3, fail:	181.755
+Length   98/14, alignment 15/ 9, found:	130.125
+Length   98/14, alignment 15/ 9, fail:	181.67
+Length   98/14, alignment 15/15, found:	129.971
+Length   98/14, alignment 15/15, fail:	182.915
+Length   60/15, alignment  0/ 0, found:	110.721
+Length   60/15, alignment  0/ 0, fail:	146.613
+Length   60/15, alignment  0/ 3, found:	110.131
+Length   60/15, alignment  0/ 3, fail:	144.602
+Length   60/15, alignment  0/ 9, found:	111.478
+Length   60/15, alignment  0/ 9, fail:	144.16
+Length   60/15, alignment  0/15, found:	111.689
+Length   60/15, alignment  0/15, fail:	142.983
+Length   60/15, alignment  3/ 0, found:	113.163
+Length   60/15, alignment  3/ 0, fail:	142.589
+Length   60/15, alignment  3/ 3, found:	111.907
+Length   60/15, alignment  3/ 3, fail:	148.155
+Length   60/15, alignment  3/ 9, found:	110.11
+Length   60/15, alignment  3/ 9, fail:	147.146
+Length   60/15, alignment  3/15, found:	110.091
+Length   60/15, alignment  3/15, fail:	147.005
+Length   60/15, alignment  9/ 0, found:	110.11
+Length   60/15, alignment  9/ 0, fail:	145.467
+Length   60/15, alignment  9/ 3, found:	112.999
+Length   60/15, alignment  9/ 3, fail:	142.826
+Length   60/15, alignment  9/ 9, found:	115.548
+Length   60/15, alignment  9/ 9, fail:	142.954
+Length   60/15, alignment  9/15, found:	113.244
+Length   60/15, alignment  9/15, fail:	145.657
+Length   60/15, alignment 15/ 0, found:	115.227
+Length   60/15, alignment 15/ 0, fail:	145.403
+Length   60/15, alignment 15/ 3, found:	111.442
+Length   60/15, alignment 15/ 3, fail:	147.306
+Length   60/15, alignment 15/ 9, found:	112.573
+Length   60/15, alignment 15/ 9, fail:	148.189
+Length   60/15, alignment 15/15, found:	112.151
+Length   60/15, alignment 15/15, fail:	145.984
+Length   75/15, alignment  0/ 0, found:	128.022
+Length   75/15, alignment  0/ 0, fail:	165.319
+Length   75/15, alignment  0/ 3, found:	123.924
+Length   75/15, alignment  0/ 3, fail:	161.265
+Length   75/15, alignment  0/ 9, found:	123.61
+Length   75/15, alignment  0/ 9, fail:	161.27
+Length   75/15, alignment  0/15, found:	122.792
+Length   75/15, alignment  0/15, fail:	157.808
+Length   75/15, alignment  3/ 0, found:	124.438
+Length   75/15, alignment  3/ 0, fail:	157.466
+Length   75/15, alignment  3/ 3, found:	124.234
+Length   75/15, alignment  3/ 3, fail:	159.01
+Length   75/15, alignment  3/ 9, found:	124.716
+Length   75/15, alignment  3/ 9, fail:	162.455
+Length   75/15, alignment  3/15, found:	123.228
+Length   75/15, alignment  3/15, fail:	157.48
+Length   75/15, alignment  9/ 0, found:	123.695
+Length   75/15, alignment  9/ 0, fail:	160.754
+Length   75/15, alignment  9/ 3, found:	122.374
+Length   75/15, alignment  9/ 3, fail:	159.455
+Length   75/15, alignment  9/ 9, found:	122.289
+Length   75/15, alignment  9/ 9, fail:	158.748
+Length   75/15, alignment  9/15, found:	120.577
+Length   75/15, alignment  9/15, fail:	162.26
+Length   75/15, alignment 15/ 0, found:	120.456
+Length   75/15, alignment 15/ 0, fail:	161.252
+Length   75/15, alignment 15/ 3, found:	120.293
+Length   75/15, alignment 15/ 3, fail:	161.52
+Length   75/15, alignment 15/ 9, found:	120.25
+Length   75/15, alignment 15/ 9, fail:	161.087
+Length   75/15, alignment 15/15, found:	120.536
+Length   75/15, alignment 15/15, fail:	161.735
+Length   90/15, alignment  0/ 0, found:	128.797
+Length   90/15, alignment  0/ 0, fail:	176.718
+Length   90/15, alignment  0/ 3, found:	128.77
+Length   90/15, alignment  0/ 3, fail:	177.499
+Length   90/15, alignment  0/ 9, found:	128.732
+Length   90/15, alignment  0/ 9, fail:	177.019
+Length   90/15, alignment  0/15, found:	128.824
+Length   90/15, alignment  0/15, fail:	176.982
+Length   90/15, alignment  3/ 0, found:	128.742
+Length   90/15, alignment  3/ 0, fail:	176.604
+Length   90/15, alignment  3/ 3, found:	128.724
+Length   90/15, alignment  3/ 3, fail:	176.788
+Length   90/15, alignment  3/ 9, found:	128.756
+Length   90/15, alignment  3/ 9, fail:	177.46
+Length   90/15, alignment  3/15, found:	128.748
+Length   90/15, alignment  3/15, fail:	177.141
+Length   90/15, alignment  9/ 0, found:	128.809
+Length   90/15, alignment  9/ 0, fail:	176.948
+Length   90/15, alignment  9/ 3, found:	128.818
+Length   90/15, alignment  9/ 3, fail:	176.782
+Length   90/15, alignment  9/ 9, found:	128.792
+Length   90/15, alignment  9/ 9, fail:	176.933
+Length   90/15, alignment  9/15, found:	128.786
+Length   90/15, alignment  9/15, fail:	178.717
+Length   90/15, alignment 15/ 0, found:	128.71
+Length   90/15, alignment 15/ 0, fail:	177.19
+Length   90/15, alignment 15/ 3, found:	128.81
+Length   90/15, alignment 15/ 3, fail:	181.825
+Length   90/15, alignment 15/ 9, found:	128.827
+Length   90/15, alignment 15/ 9, fail:	176.097
+Length   90/15, alignment 15/15, found:	128.782
+Length   90/15, alignment 15/15, fail:	176.355
+Length  105/15, alignment  0/ 0, found:	135.505
+Length  105/15, alignment  0/ 0, fail:	190.977
+Length  105/15, alignment  0/ 3, found:	137.323
+Length  105/15, alignment  0/ 3, fail:	188.484
+Length  105/15, alignment  0/ 9, found:	137.156
+Length  105/15, alignment  0/ 9, fail:	188.577
+Length  105/15, alignment  0/15, found:	137.01
+Length  105/15, alignment  0/15, fail:	188.389
+Length  105/15, alignment  3/ 0, found:	138.395
+Length  105/15, alignment  3/ 0, fail:	188.802
+Length  105/15, alignment  3/ 3, found:	138.282
+Length  105/15, alignment  3/ 3, fail:	186.917
+Length  105/15, alignment  3/ 9, found:	139.015
+Length  105/15, alignment  3/ 9, fail:	188.822
+Length  105/15, alignment  3/15, found:	136.682
+Length  105/15, alignment  3/15, fail:	188.902
+Length  105/15, alignment  9/ 0, found:	136.686
+Length  105/15, alignment  9/ 0, fail:	188.809
+Length  105/15, alignment  9/ 3, found:	135.275
+Length  105/15, alignment  9/ 3, fail:	190.021
+Length  105/15, alignment  9/ 9, found:	135.244
+Length  105/15, alignment  9/ 9, fail:	196.304
+Length  105/15, alignment  9/15, found:	135.374
+Length  105/15, alignment  9/15, fail:	190.512
+Length  105/15, alignment 15/ 0, found:	135.361
+Length  105/15, alignment 15/ 0, fail:	190.01
+Length  105/15, alignment 15/ 3, found:	137.149
+Length  105/15, alignment 15/ 3, fail:	188.102
+Length  105/15, alignment 15/ 9, found:	137.063
+Length  105/15, alignment 15/ 9, fail:	188.141
+Length  105/15, alignment 15/15, found:	137.111
+Length  105/15, alignment 15/15, fail:	189.246
+Length   64/16, alignment  0/ 0, found:	115.774
+Length   64/16, alignment  0/ 0, fail:	147.867
+Length   64/16, alignment  0/ 3, found:	114.956
+Length   64/16, alignment  0/ 3, fail:	146.904
+Length   64/16, alignment  0/ 9, found:	113.865
+Length   64/16, alignment  0/ 9, fail:	149.54
+Length   64/16, alignment  0/15, found:	112.924
+Length   64/16, alignment  0/15, fail:	148.612
+Length   64/16, alignment  3/ 0, found:	113.87
+Length   64/16, alignment  3/ 0, fail:	147.297
+Length   64/16, alignment  3/ 3, found:	116.065
+Length   64/16, alignment  3/ 3, fail:	147.435
+Length   64/16, alignment  3/ 9, found:	114.287
+Length   64/16, alignment  3/ 9, fail:	145.474
+Length   64/16, alignment  3/15, found:	117.003
+Length   64/16, alignment  3/15, fail:	145.496
+Length   64/16, alignment  9/ 0, found:	115.037
+Length   64/16, alignment  9/ 0, fail:	146.836
+Length   64/16, alignment  9/ 3, found:	115.578
+Length   64/16, alignment  9/ 3, fail:	146.833
+Length   64/16, alignment  9/ 9, found:	113.588
+Length   64/16, alignment  9/ 9, fail:	148.952
+Length   64/16, alignment  9/15, found:	113.851
+Length   64/16, alignment  9/15, fail:	149.546
+Length   64/16, alignment 15/ 0, found:	113.832
+Length   64/16, alignment 15/ 0, fail:	148.34
+Length   64/16, alignment 15/ 3, found:	114.695
+Length   64/16, alignment 15/ 3, fail:	145.514
+Length   64/16, alignment 15/ 9, found:	116.503
+Length   64/16, alignment 15/ 9, fail:	145.493
+Length   64/16, alignment 15/15, found:	117.103
+Length   64/16, alignment 15/15, fail:	145.471
+Length   80/16, alignment  0/ 0, found:	123.53
+Length   80/16, alignment  0/ 0, fail:	163.307
+Length   80/16, alignment  0/ 3, found:	123.716
+Length   80/16, alignment  0/ 3, fail:	163.819
+Length   80/16, alignment  0/ 9, found:	123.595
+Length   80/16, alignment  0/ 9, fail:	163.164
+Length   80/16, alignment  0/15, found:	121.974
+Length   80/16, alignment  0/15, fail:	164.912
+Length   80/16, alignment  3/ 0, found:	121.709
+Length   80/16, alignment  3/ 0, fail:	165.051
+Length   80/16, alignment  3/ 3, found:	121.859
+Length   80/16, alignment  3/ 3, fail:	164.902
+Length   80/16, alignment  3/ 9, found:	122.06
+Length   80/16, alignment  3/ 9, fail:	165.712
+Length   80/16, alignment  3/15, found:	121.874
+Length   80/16, alignment  3/15, fail:	163.754
+Length   80/16, alignment  9/ 0, found:	122.225
+Length   80/16, alignment  9/ 0, fail:	164.682
+Length   80/16, alignment  9/ 3, found:	121.851
+Length   80/16, alignment  9/ 3, fail:	164.634
+Length   80/16, alignment  9/ 9, found:	121.857
+Length   80/16, alignment  9/ 9, fail:	163.376
+Length   80/16, alignment  9/15, found:	123.275
+Length   80/16, alignment  9/15, fail:	163.316
+Length   80/16, alignment 15/ 0, found:	124.359
+Length   80/16, alignment 15/ 0, fail:	163.389
+Length   80/16, alignment 15/ 3, found:	123.093
+Length   80/16, alignment 15/ 3, fail:	163.294
+Length   80/16, alignment 15/ 9, found:	123.232
+Length   80/16, alignment 15/ 9, fail:	161.613
+Length   80/16, alignment 15/15, found:	124.981
+Length   80/16, alignment 15/15, fail:	161.493
+Length   96/16, alignment  0/ 0, found:	133.225
+Length   96/16, alignment  0/ 0, fail:	178.065
+Length   96/16, alignment  0/ 3, found:	133.135
+Length   96/16, alignment  0/ 3, fail:	180.138
+Length   96/16, alignment  0/ 9, found:	132.036
+Length   96/16, alignment  0/ 9, fail:	179.844
+Length   96/16, alignment  0/15, found:	131.482
+Length   96/16, alignment  0/15, fail:	180.442
+Length   96/16, alignment  3/ 0, found:	131.536
+Length   96/16, alignment  3/ 0, fail:	179.659
+Length   96/16, alignment  3/ 3, found:	131.462
+Length   96/16, alignment  3/ 3, fail:	179.749
+Length   96/16, alignment  3/ 9, found:	131.445
+Length   96/16, alignment  3/ 9, fail:	180.026
+Length   96/16, alignment  3/15, found:	131.934
+Length   96/16, alignment  3/15, fail:	179.708
+Length   96/16, alignment  9/ 0, found:	131.364
+Length   96/16, alignment  9/ 0, fail:	180.978
+Length   96/16, alignment  9/ 3, found:	130.129
+Length   96/16, alignment  9/ 3, fail:	181.02
+Length   96/16, alignment  9/ 9, found:	130.003
+Length   96/16, alignment  9/ 9, fail:	180.995
+Length   96/16, alignment  9/15, found:	130.178
+Length   96/16, alignment  9/15, fail:	181.67
+Length   96/16, alignment 15/ 0, found:	130.432
+Length   96/16, alignment 15/ 0, fail:	181.136
+Length   96/16, alignment 15/ 3, found:	130.242
+Length   96/16, alignment 15/ 3, fail:	180.913
+Length   96/16, alignment 15/ 9, found:	130.115
+Length   96/16, alignment 15/ 9, fail:	182.176
+Length   96/16, alignment 15/15, found:	130.141
+Length   96/16, alignment 15/15, fail:	181.05
+Length  112/16, alignment  0/ 0, found:	138.602
+Length  112/16, alignment  0/ 0, fail:	197.823
+Length  112/16, alignment  0/ 3, found:	140.469
+Length  112/16, alignment  0/ 3, fail:	195.401
+Length  112/16, alignment  0/ 9, found:	140.146
+Length  112/16, alignment  0/ 9, fail:	195.46
+Length  112/16, alignment  0/15, found:	141.462
+Length  112/16, alignment  0/15, fail:	193.824
+Length  112/16, alignment  3/ 0, found:	141.553
+Length  112/16, alignment  3/ 0, fail:	195.794
+Length  112/16, alignment  3/ 3, found:	139.94
+Length  112/16, alignment  3/ 3, fail:	195.774
+Length  112/16, alignment  3/ 9, found:	140.434
+Length  112/16, alignment  3/ 9, fail:	196.616
+Length  112/16, alignment  3/15, found:	138.308
+Length  112/16, alignment  3/15, fail:	198
+Length  112/16, alignment  9/ 0, found:	138.55
+Length  112/16, alignment  9/ 0, fail:	197.156
+Length  112/16, alignment  9/ 3, found:	138.33
+Length  112/16, alignment  9/ 3, fail:	196.825
+Length  112/16, alignment  9/ 9, found:	140.516
+Length  112/16, alignment  9/ 9, fail:	196.535
+Length  112/16, alignment  9/15, found:	140.365
+Length  112/16, alignment  9/15, fail:	195.421
+Length  112/16, alignment 15/ 0, found:	141.51
+Length  112/16, alignment 15/ 0, fail:	193.81
+Length  112/16, alignment 15/ 3, found:	144.925
+Length  112/16, alignment 15/ 3, fail:	196.366
+Length  112/16, alignment 15/ 9, found:	139.79
+Length  112/16, alignment 15/ 9, fail:	196.294
+Length  112/16, alignment 15/15, found:	140.1
+Length  112/16, alignment 15/15, fail:	198.006
+Length   68/17, alignment  0/ 0, found:	119.178
+Length   68/17, alignment  0/ 0, fail:	152.862
+Length   68/17, alignment  0/ 3, found:	118.29
+Length   68/17, alignment  0/ 3, fail:	152.882
+Length   68/17, alignment  0/ 9, found:	119.195
+Length   68/17, alignment  0/ 9, fail:	152.604
+Length   68/17, alignment  0/15, found:	119.504
+Length   68/17, alignment  0/15, fail:	150.98
+Length   68/17, alignment  3/ 0, found:	122.002
+Length   68/17, alignment  3/ 0, fail:	150.878
+Length   68/17, alignment  3/ 3, found:	121.149
+Length   68/17, alignment  3/ 3, fail:	151.055
+Length   68/17, alignment  3/ 9, found:	120.01
+Length   68/17, alignment  3/ 9, fail:	152.292
+Length   68/17, alignment  3/15, found:	119.978
+Length   68/17, alignment  3/15, fail:	157.009
+Length   68/17, alignment  9/ 0, found:	118.726
+Length   68/17, alignment  9/ 0, fail:	155.289
+Length   68/17, alignment  9/ 3, found:	118.165
+Length   68/17, alignment  9/ 3, fail:	154.145
+Length   68/17, alignment  9/ 9, found:	118.167
+Length   68/17, alignment  9/ 9, fail:	154.853
+Length   68/17, alignment  9/15, found:	118.5
+Length   68/17, alignment  9/15, fail:	152.836
+Length   68/17, alignment 15/ 0, found:	119.55
+Length   68/17, alignment 15/ 0, fail:	152.676
+Length   68/17, alignment 15/ 3, found:	119.668
+Length   68/17, alignment 15/ 3, fail:	150.878
+Length   68/17, alignment 15/ 9, found:	121.896
+Length   68/17, alignment 15/ 9, fail:	151.015
+Length   68/17, alignment 15/15, found:	122.458
+Length   68/17, alignment 15/15, fail:	151.001
+Length   85/17, alignment  0/ 0, found:	130.224
+Length   85/17, alignment  0/ 0, fail:	167.307
+Length   85/17, alignment  0/ 3, found:	127.762
+Length   85/17, alignment  0/ 3, fail:	168.597
+Length   85/17, alignment  0/ 9, found:	130.692
+Length   85/17, alignment  0/ 9, fail:	169.472
+Length   85/17, alignment  0/15, found:	128.451
+Length   85/17, alignment  0/15, fail:	168.758
+Length   85/17, alignment  3/ 0, found:	128.084
+Length   85/17, alignment  3/ 0, fail:	168.619
+Length   85/17, alignment  3/ 3, found:	128.385
+Length   85/17, alignment  3/ 3, fail:	169.382
+Length   85/17, alignment  3/ 9, found:	127.932
+Length   85/17, alignment  3/ 9, fail:	168.749
+Length   85/17, alignment  3/15, found:	128.06
+Length   85/17, alignment  3/15, fail:	168.794
+Length   85/17, alignment  9/ 0, found:	128.072
+Length   85/17, alignment  9/ 0, fail:	168.621
+Length   85/17, alignment  9/ 3, found:	128.014
+Length   85/17, alignment  9/ 3, fail:	168.628
+Length   85/17, alignment  9/ 9, found:	128.035
+Length   85/17, alignment  9/ 9, fail:	169.375
+Length   85/17, alignment  9/15, found:	127.873
+Length   85/17, alignment  9/15, fail:	168.832
+Length   85/17, alignment 15/ 0, found:	127.831
+Length   85/17, alignment 15/ 0, fail:	168.653
+Length   85/17, alignment 15/ 3, found:	128.068
+Length   85/17, alignment 15/ 3, fail:	168.633
+Length   85/17, alignment 15/ 9, found:	127.955
+Length   85/17, alignment 15/ 9, fail:	168.726
+Length   85/17, alignment 15/15, found:	127.983
+Length   85/17, alignment 15/15, fail:	168.82
+Length  102/17, alignment  0/ 0, found:	137.8
+Length  102/17, alignment  0/ 0, fail:	192.579
+Length  102/17, alignment  0/ 3, found:	138.776
+Length  102/17, alignment  0/ 3, fail:	188.742
+Length  102/17, alignment  0/ 9, found:	137.999
+Length  102/17, alignment  0/ 9, fail:	188.06
+Length  102/17, alignment  0/15, found:	139.126
+Length  102/17, alignment  0/15, fail:	185.089
+Length  102/17, alignment  3/ 0, found:	139.082
+Length  102/17, alignment  3/ 0, fail:	186.945
+Length  102/17, alignment  3/ 3, found:	139.881
+Length  102/17, alignment  3/ 3, fail:	188.593
+Length  102/17, alignment  3/ 9, found:	137.431
+Length  102/17, alignment  3/ 9, fail:	188.414
+Length  102/17, alignment  3/15, found:	137.397
+Length  102/17, alignment  3/15, fail:	189.142
+Length  102/17, alignment  9/ 0, found:	136.187
+Length  102/17, alignment  9/ 0, fail:	196.796
+Length  102/17, alignment  9/ 3, found:	136.285
+Length  102/17, alignment  9/ 3, fail:	190.898
+Length  102/17, alignment  9/ 9, found:	136.131
+Length  102/17, alignment  9/ 9, fail:	189.922
+Length  102/17, alignment  9/15, found:	136.129
+Length  102/17, alignment  9/15, fail:	189.492
+Length  102/17, alignment 15/ 0, found:	137.795
+Length  102/17, alignment 15/ 0, fail:	188.133
+Length  102/17, alignment 15/ 3, found:	138.048
+Length  102/17, alignment 15/ 3, fail:	188.075
+Length  102/17, alignment 15/ 9, found:	137.782
+Length  102/17, alignment 15/ 9, fail:	186.533
+Length  102/17, alignment 15/15, found:	141.08
+Length  102/17, alignment 15/15, fail:	185.087
+Length  119/17, alignment  0/ 0, found:	147.628
+Length  119/17, alignment  0/ 0, fail:	206.588
+Length  119/17, alignment  0/ 3, found:	146.57
+Length  119/17, alignment  0/ 3, fail:	207.54
+Length  119/17, alignment  0/ 9, found:	143.609
+Length  119/17, alignment  0/ 9, fail:	207.689
+Length  119/17, alignment  0/15, found:	144.538
+Length  119/17, alignment  0/15, fail:	207.415
+Length  119/17, alignment  3/ 0, found:	146.216
+Length  119/17, alignment  3/ 0, fail:	206.25
+Length  119/17, alignment  3/ 3, found:	147.212
+Length  119/17, alignment  3/ 3, fail:	205.039
+Length  119/17, alignment  3/ 9, found:	147.588
+Length  119/17, alignment  3/ 9, fail:	206.562
+Length  119/17, alignment  3/15, found:	145.833
+Length  119/17, alignment  3/15, fail:	208.76
+Length  119/17, alignment  9/ 0, found:	144.463
+Length  119/17, alignment  9/ 0, fail:	207.557
+Length  119/17, alignment  9/ 3, found:	143.605
+Length  119/17, alignment  9/ 3, fail:	206.565
+Length  119/17, alignment  9/ 9, found:	146.302
+Length  119/17, alignment  9/ 9, fail:	205.117
+Length  119/17, alignment  9/15, found:	146.795
+Length  119/17, alignment  9/15, fail:	206.613
+Length  119/17, alignment 15/ 0, found:	149.017
+Length  119/17, alignment 15/ 0, fail:	205.672
+Length  119/17, alignment 15/ 3, found:	146.401
+Length  119/17, alignment 15/ 3, fail:	205.956
+Length  119/17, alignment 15/ 9, found:	144.384
+Length  119/17, alignment 15/ 9, fail:	206.307
+Length  119/17, alignment 15/15, found:	144.379
+Length  119/17, alignment 15/15, fail:	206.298
+Length   72/18, alignment  0/ 0, found:	120.864
+Length   72/18, alignment  0/ 0, fail:	159.988
+Length   72/18, alignment  0/ 3, found:	121.16
+Length   72/18, alignment  0/ 3, fail:	159.288
+Length   72/18, alignment  0/ 9, found:	120.687
+Length   72/18, alignment  0/ 9, fail:	159.177
+Length   72/18, alignment  0/15, found:	120.735
+Length   72/18, alignment  0/15, fail:	159.439
+Length   72/18, alignment  3/ 0, found:	120.877
+Length   72/18, alignment  3/ 0, fail:	159.065
+Length   72/18, alignment  3/ 3, found:	120.849
+Length   72/18, alignment  3/ 3, fail:	157.759
+Length   72/18, alignment  3/ 9, found:	122.427
+Length   72/18, alignment  3/ 9, fail:	158.011
+Length   72/18, alignment  3/15, found:	122.748
+Length   72/18, alignment  3/15, fail:	157.848
+Length   72/18, alignment  9/ 0, found:	122.079
+Length   72/18, alignment  9/ 0, fail:	156.056
+Length   72/18, alignment  9/ 3, found:	123.904
+Length   72/18, alignment  9/ 3, fail:	156.043
+Length   72/18, alignment  9/ 9, found:	123.793
+Length   72/18, alignment  9/ 9, fail:	156.051
+Length   72/18, alignment  9/15, found:	122.49
+Length   72/18, alignment  9/15, fail:	157.418
+Length   72/18, alignment 15/ 0, found:	123.105
+Length   72/18, alignment 15/ 0, fail:	158.334
+Length   72/18, alignment 15/ 3, found:	122.579
+Length   72/18, alignment 15/ 3, fail:	157.424
+Length   72/18, alignment 15/ 9, found:	120.853
+Length   72/18, alignment 15/ 9, fail:	157.452
+Length   72/18, alignment 15/15, found:	120.868
+Length   72/18, alignment 15/15, fail:	159.262
+Length   90/18, alignment  0/ 0, found:	131.067
+Length   90/18, alignment  0/ 0, fail:	178.192
+Length   90/18, alignment  0/ 3, found:	131.078
+Length   90/18, alignment  0/ 3, fail:	178.856
+Length   90/18, alignment  0/ 9, found:	131.112
+Length   90/18, alignment  0/ 9, fail:	178.242
+Length   90/18, alignment  0/15, found:	131.026
+Length   90/18, alignment  0/15, fail:	178.084
+Length   90/18, alignment  3/ 0, found:	131.01
+Length   90/18, alignment  3/ 0, fail:	178.048
+Length   90/18, alignment  3/ 3, found:	132.694
+Length   90/18, alignment  3/ 3, fail:	176.473
+Length   90/18, alignment  3/ 9, found:	132.752
+Length   90/18, alignment  3/ 9, fail:	177.083
+Length   90/18, alignment  3/15, found:	132.907
+Length   90/18, alignment  3/15, fail:	176.638
+Length   90/18, alignment  9/ 0, found:	132.948
+Length   90/18, alignment  9/ 0, fail:	176.483
+Length   90/18, alignment  9/ 3, found:	132.784
+Length   90/18, alignment  9/ 3, fail:	176.415
+Length   90/18, alignment  9/ 9, found:	132.779
+Length   90/18, alignment  9/ 9, fail:	176.488
+Length   90/18, alignment  9/15, found:	132.737
+Length   90/18, alignment  9/15, fail:	176.397
+Length   90/18, alignment 15/ 0, found:	132.979
+Length   90/18, alignment 15/ 0, fail:	177.096
+Length   90/18, alignment 15/ 3, found:	134.171
+Length   90/18, alignment 15/ 3, fail:	175.219
+Length   90/18, alignment 15/ 9, found:	134.302
+Length   90/18, alignment 15/ 9, fail:	175.173
+Length   90/18, alignment 15/15, found:	133.957
+Length   90/18, alignment 15/15, fail:	175.154
+Length  108/18, alignment  0/ 0, found:	142.341
+Length  108/18, alignment  0/ 0, fail:	192.172
+Length  108/18, alignment  0/ 3, found:	143.094
+Length  108/18, alignment  0/ 3, fail:	193.846
+Length  108/18, alignment  0/ 9, found:	140.606
+Length  108/18, alignment  0/ 9, fail:	193.844
+Length  108/18, alignment  0/15, found:	140.61
+Length  108/18, alignment  0/15, fail:	195.093
+Length  108/18, alignment  3/ 0, found:	139.516
+Length  108/18, alignment  3/ 0, fail:	195.128
+Length  108/18, alignment  3/ 3, found:	139.385
+Length  108/18, alignment  3/ 3, fail:	200.157
+Length  108/18, alignment  3/ 9, found:	141.61
+Length  108/18, alignment  3/ 9, fail:	193.462
+Length  108/18, alignment  3/15, found:	141.19
+Length  108/18, alignment  3/15, fail:	191.788
+Length  108/18, alignment  9/ 0, found:	142.441
+Length  108/18, alignment  9/ 0, fail:	192.125
+Length  108/18, alignment  9/ 3, found:	142.355
+Length  108/18, alignment  9/ 3, fail:	192.129
+Length  108/18, alignment  9/ 9, found:	143.007
+Length  108/18, alignment  9/ 9, fail:	194.005
+Length  108/18, alignment  9/15, found:	140.49
+Length  108/18, alignment  9/15, fail:	193.866
+Length  108/18, alignment 15/ 0, found:	140.656
+Length  108/18, alignment 15/ 0, fail:	195.116
+Length  108/18, alignment 15/ 3, found:	139.396
+Length  108/18, alignment 15/ 3, fail:	196.231
+Length  108/18, alignment 15/ 9, found:	139.454
+Length  108/18, alignment 15/ 9, fail:	195.923
+Length  108/18, alignment 15/15, found:	141.248
+Length  108/18, alignment 15/15, fail:	193.428
+Length  126/18, alignment  0/ 0, found:	151.142
+Length  126/18, alignment  0/ 0, fail:	250.49
+Length  126/18, alignment  0/ 3, found:	155.329
+Length  126/18, alignment  0/ 3, fail:	252.594
+Length  126/18, alignment  0/ 9, found:	149.344
+Length  126/18, alignment  0/ 9, fail:	253.17
+Length  126/18, alignment  0/15, found:	151.394
+Length  126/18, alignment  0/15, fail:	251.69
+Length  126/18, alignment  3/ 0, found:	150.611
+Length  126/18, alignment  3/ 0, fail:	251.112
+Length  126/18, alignment  3/ 3, found:	149.286
+Length  126/18, alignment  3/ 3, fail:	251.812
+Length  126/18, alignment  3/ 9, found:	150.992
+Length  126/18, alignment  3/ 9, fail:	253.006
+Length  126/18, alignment  3/15, found:	151.559
+Length  126/18, alignment  3/15, fail:	253.524
+Length  126/18, alignment  9/ 0, found:	149.339
+Length  126/18, alignment  9/ 0, fail:	252.376
+Length  126/18, alignment  9/ 3, found:	151.104
+Length  126/18, alignment  9/ 3, fail:	252.327
+Length  126/18, alignment  9/ 9, found:	150.794
+Length  126/18, alignment  9/ 9, fail:	252.882
+Length  126/18, alignment  9/15, found:	153.365
+Length  126/18, alignment  9/15, fail:	254.224
+Length  126/18, alignment 15/ 0, found:	151.135
+Length  126/18, alignment 15/ 0, fail:	252.068
+Length  126/18, alignment 15/ 3, found:	150.66
+Length  126/18, alignment 15/ 3, fail:	252.222
+Length  126/18, alignment 15/ 9, found:	149.26
+Length  126/18, alignment 15/ 9, fail:	264.449
+Length  126/18, alignment 15/15, found:	154.053
+Length  126/18, alignment 15/15, fail:	251.512
+Length   76/19, alignment  0/ 0, found:	128.972
+Length   76/19, alignment  0/ 0, fail:	164.732
+Length   76/19, alignment  0/ 3, found:	129.661
+Length   76/19, alignment  0/ 3, fail:	164.627
+Length   76/19, alignment  0/ 9, found:	128.305
+Length   76/19, alignment  0/ 9, fail:	162.652
+Length   76/19, alignment  0/15, found:	129.661
+Length   76/19, alignment  0/15, fail:	163.069
+Length   76/19, alignment  3/ 0, found:	132.25
+Length   76/19, alignment  3/ 0, fail:	163.052
+Length   76/19, alignment  3/ 3, found:	130.988
+Length   76/19, alignment  3/ 3, fail:	162.796
+Length   76/19, alignment  3/ 9, found:	130.942
+Length   76/19, alignment  3/ 9, fail:	162.742
+Length   76/19, alignment  3/15, found:	130.864
+Length   76/19, alignment  3/15, fail:	162.923
+Length   76/19, alignment  9/ 0, found:	129.214
+Length   76/19, alignment  9/ 0, fail:	162.774
+Length   76/19, alignment  9/ 3, found:	133.255
+Length   76/19, alignment  9/ 3, fail:	162.882
+Length   76/19, alignment  9/ 9, found:	130.479
+Length   76/19, alignment  9/ 9, fail:	162.943
+Length   76/19, alignment  9/15, found:	131.324
+Length   76/19, alignment  9/15, fail:	162.938
+Length   76/19, alignment 15/ 0, found:	129.632
+Length   76/19, alignment 15/ 0, fail:	164.12
+Length   76/19, alignment 15/ 3, found:	129.943
+Length   76/19, alignment 15/ 3, fail:	164.144
+Length   76/19, alignment 15/ 9, found:	127.253
+Length   76/19, alignment 15/ 9, fail:	164.79
+Length   76/19, alignment 15/15, found:	129.07
+Length   76/19, alignment 15/15, fail:	164.208
+Length   95/19, alignment  0/ 0, found:	138.121
+Length   95/19, alignment  0/ 0, fail:	185.027
+Length   95/19, alignment  0/ 3, found:	137.901
+Length   95/19, alignment  0/ 3, fail:	184.846
+Length   95/19, alignment  0/ 9, found:	138.61
+Length   95/19, alignment  0/ 9, fail:	183.548
+Length   95/19, alignment  0/15, found:	138.716
+Length   95/19, alignment  0/15, fail:	189.612
+Length   95/19, alignment  3/ 0, found:	140.683
+Length   95/19, alignment  3/ 0, fail:	185.456
+Length   95/19, alignment  3/ 3, found:	136.742
+Length   95/19, alignment  3/ 3, fail:	186.272
+Length   95/19, alignment  3/ 9, found:	137.057
+Length   95/19, alignment  3/ 9, fail:	185.262
+Length   95/19, alignment  3/15, found:	136.975
+Length   95/19, alignment  3/15, fail:	186.495
+Length   95/19, alignment  9/ 0, found:	136.544
+Length   95/19, alignment  9/ 0, fail:	187.706
+Length   95/19, alignment  9/ 3, found:	135.771
+Length   95/19, alignment  9/ 3, fail:	186.506
+Length   95/19, alignment  9/ 9, found:	135.352
+Length   95/19, alignment  9/ 9, fail:	186.724
+Length   95/19, alignment  9/15, found:	135.863
+Length   95/19, alignment  9/15, fail:	186.477
+Length   95/19, alignment 15/ 0, found:	135.811
+Length   95/19, alignment 15/ 0, fail:	186.588
+Length   95/19, alignment 15/ 3, found:	137.658
+Length   95/19, alignment 15/ 3, fail:	185.411
+Length   95/19, alignment 15/ 9, found:	137.969
+Length   95/19, alignment 15/ 9, fail:	184.86
+Length   95/19, alignment 15/15, found:	137.456
+Length   95/19, alignment 15/15, fail:	184.721
+Length  114/19, alignment  0/ 0, found:	150.749
+Length  114/19, alignment  0/ 0, fail:	201.532
+Length  114/19, alignment  0/ 3, found:	150.412
+Length  114/19, alignment  0/ 3, fail:	203.274
+Length  114/19, alignment  0/ 9, found:	149.376
+Length  114/19, alignment  0/ 9, fail:	204.849
+Length  114/19, alignment  0/15, found:	147.407
+Length  114/19, alignment  0/15, fail:	204.53
+Length  114/19, alignment  3/ 0, found:	147.497
+Length  114/19, alignment  3/ 0, fail:	204.509
+Length  114/19, alignment  3/ 3, found:	149
+Length  114/19, alignment  3/ 3, fail:	202.773
+Length  114/19, alignment  3/ 9, found:	150.262
+Length  114/19, alignment  3/ 9, fail:	201.533
+Length  114/19, alignment  3/15, found:	151.215
+Length  114/19, alignment  3/15, fail:	203.21
+Length  114/19, alignment  9/ 0, found:	148.614
+Length  114/19, alignment  9/ 0, fail:	204.548
+Length  114/19, alignment  9/ 3, found:	147.385
+Length  114/19, alignment  9/ 3, fail:	204.409
+Length  114/19, alignment  9/ 9, found:	147.412
+Length  114/19, alignment  9/ 9, fail:	204.442
+Length  114/19, alignment  9/15, found:	149.363
+Length  114/19, alignment  9/15, fail:	203.273
+Length  114/19, alignment 15/ 0, found:	150.251
+Length  114/19, alignment 15/ 0, fail:	201.46
+Length  114/19, alignment 15/ 3, found:	148.624
+Length  114/19, alignment 15/ 3, fail:	203.201
+Length  114/19, alignment 15/ 9, found:	148.899
+Length  114/19, alignment 15/ 9, fail:	204.531
+Length  114/19, alignment 15/15, found:	147.401
+Length  114/19, alignment 15/15, fail:	205.259
+Length  133/19, alignment  0/ 0, found:	160.546
+Length  133/19, alignment  0/ 0, fail:	222.207
+Length  133/19, alignment  0/ 3, found:	158.613
+Length  133/19, alignment  0/ 3, fail:	221.178
+Length  133/19, alignment  0/ 9, found:	157.195
+Length  133/19, alignment  0/ 9, fail:	222.506
+Length  133/19, alignment  0/15, found:	155.867
+Length  133/19, alignment  0/15, fail:	222.527
+Length  133/19, alignment  3/ 0, found:	157.052
+Length  133/19, alignment  3/ 0, fail:	221.499
+Length  133/19, alignment  3/ 3, found:	158.27
+Length  133/19, alignment  3/ 3, fail:	221.184
+Length  133/19, alignment  3/ 9, found:	156.588
+Length  133/19, alignment  3/ 9, fail:	222.535
+Length  133/19, alignment  3/15, found:	154.849
+Length  133/19, alignment  3/15, fail:	222.507
+Length  133/19, alignment  9/ 0, found:	157.841
+Length  133/19, alignment  9/ 0, fail:	221.288
+Length  133/19, alignment  9/ 3, found:	158.267
+Length  133/19, alignment  9/ 3, fail:	221.216
+Length  133/19, alignment  9/ 9, found:	156.297
+Length  133/19, alignment  9/ 9, fail:	222.353
+Length  133/19, alignment  9/15, found:	155.777
+Length  133/19, alignment  9/15, fail:	222.586
+Length  133/19, alignment 15/ 0, found:	157.596
+Length  133/19, alignment 15/ 0, fail:	221.388
+Length  133/19, alignment 15/ 3, found:	158.32
+Length  133/19, alignment 15/ 3, fail:	221.177
+Length  133/19, alignment 15/ 9, found:	157.2
+Length  133/19, alignment 15/ 9, fail:	222.441
+Length  133/19, alignment 15/15, found:	155.893
+Length  133/19, alignment 15/15, fail:	222.59
+Length   80/20, alignment  0/ 0, found:	130.057
+Length   80/20, alignment  0/ 0, fail:	167.673
+Length   80/20, alignment  0/ 3, found:	130.702
+Length   80/20, alignment  0/ 3, fail:	168.335
+Length   80/20, alignment  0/ 9, found:	131.316
+Length   80/20, alignment  0/ 9, fail:	168.106
+Length   80/20, alignment  0/15, found:	130.379
+Length   80/20, alignment  0/15, fail:	167.642
+Length   80/20, alignment  3/ 0, found:	130.358
+Length   80/20, alignment  3/ 0, fail:	169.375
+Length   80/20, alignment  3/ 3, found:	128.562
+Length   80/20, alignment  3/ 3, fail:	170.698
+Length   80/20, alignment  3/ 9, found:	128.568
+Length   80/20, alignment  3/ 9, fail:	169.506
+Length   80/20, alignment  3/15, found:	128.568
+Length   80/20, alignment  3/15, fail:	169.367
+Length   80/20, alignment  9/ 0, found:	131.419
+Length   80/20, alignment  9/ 0, fail:	170.609
+Length   80/20, alignment  9/ 3, found:	129.066
+Length   80/20, alignment  9/ 3, fail:	169.478
+Length   80/20, alignment  9/ 9, found:	128.474
+Length   80/20, alignment  9/ 9, fail:	169.425
+Length   80/20, alignment  9/15, found:	128.458
+Length   80/20, alignment  9/15, fail:	170.133
+Length   80/20, alignment 15/ 0, found:	128.413
+Length   80/20, alignment 15/ 0, fail:	169.431
+Length   80/20, alignment 15/ 3, found:	128.415
+Length   80/20, alignment 15/ 3, fail:	168.762
+Length   80/20, alignment 15/ 9, found:	128.471
+Length   80/20, alignment 15/ 9, fail:	169.323
+Length   80/20, alignment 15/15, found:	128.476
+Length   80/20, alignment 15/15, fail:	169.12
+Length  100/20, alignment  0/ 0, found:	138.827
+Length  100/20, alignment  0/ 0, fail:	189.567
+Length  100/20, alignment  0/ 3, found:	137.919
+Length  100/20, alignment  0/ 3, fail:	188.019
+Length  100/20, alignment  0/ 9, found:	139.637
+Length  100/20, alignment  0/ 9, fail:	185.838
+Length  100/20, alignment  0/15, found:	139.639
+Length  100/20, alignment  0/15, fail:	187.302
+Length  100/20, alignment  3/ 0, found:	141.149
+Length  100/20, alignment  3/ 0, fail:	184.535
+Length  100/20, alignment  3/ 3, found:	141.802
+Length  100/20, alignment  3/ 3, fail:	189.25
+Length  100/20, alignment  3/ 9, found:	142.846
+Length  100/20, alignment  3/ 9, fail:	192.407
+Length  100/20, alignment  3/15, found:	139.599
+Length  100/20, alignment  3/15, fail:	188.467
+Length  100/20, alignment  9/ 0, found:	139.306
+Length  100/20, alignment  9/ 0, fail:	189.67
+Length  100/20, alignment  9/ 3, found:	137.885
+Length  100/20, alignment  9/ 3, fail:	189.909
+Length  100/20, alignment  9/ 9, found:	137.865
+Length  100/20, alignment  9/ 9, fail:	190.786
+Length  100/20, alignment  9/15, found:	137.873
+Length  100/20, alignment  9/15, fail:	189.77
+Length  100/20, alignment 15/ 0, found:	138.943
+Length  100/20, alignment 15/ 0, fail:	189.688
+Length  100/20, alignment 15/ 3, found:	139.795
+Length  100/20, alignment 15/ 3, fail:	187.911
+Length  100/20, alignment 15/ 9, found:	139.686
+Length  100/20, alignment 15/ 9, fail:	187.935
+Length  100/20, alignment 15/15, found:	141.651
+Length  100/20, alignment 15/15, fail:	186.45
+Length  120/20, alignment  0/ 0, found:	152.26
+Length  120/20, alignment  0/ 0, fail:	208.95
+Length  120/20, alignment  0/ 3, found:	150.799
+Length  120/20, alignment  0/ 3, fail:	210.982
+Length  120/20, alignment  0/ 9, found:	149.145
+Length  120/20, alignment  0/ 9, fail:	209.856
+Length  120/20, alignment  0/15, found:	149.153
+Length  120/20, alignment  0/15, fail:	210.893
+Length  120/20, alignment  3/ 0, found:	150.931
+Length  120/20, alignment  3/ 0, fail:	208.229
+Length  120/20, alignment  3/ 3, found:	152.601
+Length  120/20, alignment  3/ 3, fail:	208.422
+Length  120/20, alignment  3/ 9, found:	150.43
+Length  120/20, alignment  3/ 9, fail:	208.427
+Length  120/20, alignment  3/15, found:	151.323
+Length  120/20, alignment  3/15, fail:	210.393
+Length  120/20, alignment  9/ 0, found:	149.146
+Length  120/20, alignment  9/ 0, fail:	210.592
+Length  120/20, alignment  9/ 3, found:	151.054
+Length  120/20, alignment  9/ 3, fail:	208.084
+Length  120/20, alignment  9/ 9, found:	152.478
+Length  120/20, alignment  9/ 9, fail:	206.742
+Length  120/20, alignment  9/15, found:	152.279
+Length  120/20, alignment  9/15, fail:	208.407
+Length  120/20, alignment 15/ 0, found:	150.874
+Length  120/20, alignment 15/ 0, fail:	210.184
+Length  120/20, alignment 15/ 3, found:	150.105
+Length  120/20, alignment 15/ 3, fail:	209.748
+Length  120/20, alignment 15/ 9, found:	151.727
+Length  120/20, alignment 15/ 9, fail:	208.075
+Length  120/20, alignment 15/15, found:	152.531
+Length  120/20, alignment 15/15, fail:	206.743
+Length  140/20, alignment  0/ 0, found:	161.244
+Length  140/20, alignment  0/ 0, fail:	232.24
+Length  140/20, alignment  0/ 3, found:	157.933
+Length  140/20, alignment  0/ 3, fail:	235.779
+Length  140/20, alignment  0/ 9, found:	160.329
+Length  140/20, alignment  0/ 9, fail:	228.766
+Length  140/20, alignment  0/15, found:	161.22
+Length  140/20, alignment  0/15, fail:	228.81
+Length  140/20, alignment  3/ 0, found:	159.33
+Length  140/20, alignment  3/ 0, fail:	230.808
+Length  140/20, alignment  3/ 3, found:	158.069
+Length  140/20, alignment  3/ 3, fail:	230.208
+Length  140/20, alignment  3/ 9, found:	162.121
+Length  140/20, alignment  3/ 9, fail:	227.198
+Length  140/20, alignment  3/15, found:	161.408
+Length  140/20, alignment  3/15, fail:	230.13
+Length  140/20, alignment  9/ 0, found:	158.117
+Length  140/20, alignment  9/ 0, fail:	230.666
+Length  140/20, alignment  9/ 3, found:	160.083
+Length  140/20, alignment  9/ 3, fail:	228.47
+Length  140/20, alignment  9/ 9, found:	161.012
+Length  140/20, alignment  9/ 9, fail:	228.751
+Length  140/20, alignment  9/15, found:	159.633
+Length  140/20, alignment  9/15, fail:	230.017
+Length  140/20, alignment 15/ 0, found:	157.896
+Length  140/20, alignment 15/ 0, fail:	231.654
+Length  140/20, alignment 15/ 3, found:	161.312
+Length  140/20, alignment 15/ 3, fail:	228.839
+Length  140/20, alignment 15/ 9, found:	159.896
+Length  140/20, alignment 15/ 9, fail:	230
+Length  140/20, alignment 15/15, found:	158.048
+Length  140/20, alignment 15/15, fail:	230.068
+Length   84/21, alignment  0/ 0, found:	134.815
+Length   84/21, alignment  0/ 0, fail:	172.468
+Length   84/21, alignment  0/ 3, found:	135.04
+Length   84/21, alignment  0/ 3, fail:	172.971
+Length   84/21, alignment  0/ 9, found:	133.403
+Length   84/21, alignment  0/ 9, fail:	172.456
+Length   84/21, alignment  0/15, found:	134.716
+Length   84/21, alignment  0/15, fail:	172.471
+Length   84/21, alignment  3/ 0, found:	134.312
+Length   84/21, alignment  3/ 0, fail:	172.722
+Length   84/21, alignment  3/ 3, found:	134.595
+Length   84/21, alignment  3/ 3, fail:	172.484
+Length   84/21, alignment  3/ 9, found:	135.104
+Length   84/21, alignment  3/ 9, fail:	172.899
+Length   84/21, alignment  3/15, found:	134.428
+Length   84/21, alignment  3/15, fail:	172.35
+Length   84/21, alignment  9/ 0, found:	134.824
+Length   84/21, alignment  9/ 0, fail:	172.221
+Length   84/21, alignment  9/ 3, found:	134.955
+Length   84/21, alignment  9/ 3, fail:	172.422
+Length   84/21, alignment  9/ 9, found:	135.717
+Length   84/21, alignment  9/ 9, fail:	171.137
+Length   84/21, alignment  9/15, found:	136.4
+Length   84/21, alignment  9/15, fail:	171.232
+Length   84/21, alignment 15/ 0, found:	136.323
+Length   84/21, alignment 15/ 0, fail:	171.236
+Length   84/21, alignment 15/ 3, found:	135.767
+Length   84/21, alignment 15/ 3, fail:	171.241
+Length   84/21, alignment 15/ 9, found:	140.064
+Length   84/21, alignment 15/ 9, fail:	171.084
+Length   84/21, alignment 15/15, found:	136.342
+Length   84/21, alignment 15/15, fail:	171.138
+Length  105/21, alignment  0/ 0, found:	145.67
+Length  105/21, alignment  0/ 0, fail:	232.422
+Length  105/21, alignment  0/ 3, found:	144.91
+Length  105/21, alignment  0/ 3, fail:	220.969
+Length  105/21, alignment  0/ 9, found:	142.403
+Length  105/21, alignment  0/ 9, fail:	221.904
+Length  105/21, alignment  0/15, found:	144.587
+Length  105/21, alignment  0/15, fail:	229.681
+Length  105/21, alignment  3/ 0, found:	146.04
+Length  105/21, alignment  3/ 0, fail:	222.192
+Length  105/21, alignment  3/ 3, found:	144.681
+Length  105/21, alignment  3/ 3, fail:	226.569
+Length  105/21, alignment  3/ 9, found:	142.117
+Length  105/21, alignment  3/ 9, fail:	222.509
+Length  105/21, alignment  3/15, found:	142.112
+Length  105/21, alignment  3/15, fail:	223.04
+Length  105/21, alignment  9/ 0, found:	144.363
+Length  105/21, alignment  9/ 0, fail:	218.881
+Length  105/21, alignment  9/ 3, found:	146.302
+Length  105/21, alignment  9/ 3, fail:	223.442
+Length  105/21, alignment  9/ 9, found:	144.525
+Length  105/21, alignment  9/ 9, fail:	222.971
+Length  105/21, alignment  9/15, found:	142.615
+Length  105/21, alignment  9/15, fail:	222.381
+Length  105/21, alignment 15/ 0, found:	144.889
+Length  105/21, alignment 15/ 0, fail:	213.277
+Length  105/21, alignment 15/ 3, found:	143.893
+Length  105/21, alignment 15/ 3, fail:	220.168
+Length  105/21, alignment 15/ 9, found:	146.497
+Length  105/21, alignment 15/ 9, fail:	226.364
+Length  105/21, alignment 15/15, found:	143.782
+Length  105/21, alignment 15/15, fail:	226.459
+Length  126/21, alignment  0/ 0, found:	152.919
+Length  126/21, alignment  0/ 0, fail:	218.02
+Length  126/21, alignment  0/ 3, found:	154.889
+Length  126/21, alignment  0/ 3, fail:	216.047
+Length  126/21, alignment  0/ 9, found:	156.728
+Length  126/21, alignment  0/ 9, fail:	216.266
+Length  126/21, alignment  0/15, found:	154.721
+Length  126/21, alignment  0/15, fail:	218.557
+Length  126/21, alignment  3/ 0, found:	152.698
+Length  126/21, alignment  3/ 0, fail:	218.256
+Length  126/21, alignment  3/ 3, found:	155.678
+Length  126/21, alignment  3/ 3, fail:	216.462
+Length  126/21, alignment  3/ 9, found:	156.808
+Length  126/21, alignment  3/ 9, fail:	216.323
+Length  126/21, alignment  3/15, found:	154.217
+Length  126/21, alignment  3/15, fail:	223.661
+Length  126/21, alignment  9/ 0, found:	153.101
+Length  126/21, alignment  9/ 0, fail:	218.633
+Length  126/21, alignment  9/ 3, found:	154.514
+Length  126/21, alignment  9/ 3, fail:	216.184
+Length  126/21, alignment  9/ 9, found:	156.598
+Length  126/21, alignment  9/ 9, fail:	219.211
+Length  126/21, alignment  9/15, found:	157.688
+Length  126/21, alignment  9/15, fail:	216.85
+Length  126/21, alignment 15/ 0, found:	154.206
+Length  126/21, alignment 15/ 0, fail:	217.876
+Length  126/21, alignment 15/ 3, found:	152.871
+Length  126/21, alignment 15/ 3, fail:	217.799
+Length  126/21, alignment 15/ 9, found:	154.7
+Length  126/21, alignment 15/ 9, fail:	216.643
+Length  126/21, alignment 15/15, found:	155.884
+Length  126/21, alignment 15/15, fail:	216.247
+Length  147/21, alignment  0/ 0, found:	165.022
+Length  147/21, alignment  0/ 0, fail:	239.5
+Length  147/21, alignment  0/ 3, found:	165.362
+Length  147/21, alignment  0/ 3, fail:	237.306
+Length  147/21, alignment  0/ 9, found:	166.459
+Length  147/21, alignment  0/ 9, fail:	237.939
+Length  147/21, alignment  0/15, found:	165.465
+Length  147/21, alignment  0/15, fail:	239.008
+Length  147/21, alignment  3/ 0, found:	166.544
+Length  147/21, alignment  3/ 0, fail:	237.401
+Length  147/21, alignment  3/ 3, found:	166.614
+Length  147/21, alignment  3/ 3, fail:	237.736
+Length  147/21, alignment  3/ 9, found:	164.685
+Length  147/21, alignment  3/ 9, fail:	240.125
+Length  147/21, alignment  3/15, found:	165.572
+Length  147/21, alignment  3/15, fail:	237.198
+Length  147/21, alignment  9/ 0, found:	166.733
+Length  147/21, alignment  9/ 0, fail:	237.788
+Length  147/21, alignment  9/ 3, found:	164.902
+Length  147/21, alignment  9/ 3, fail:	239.059
+Length  147/21, alignment  9/ 9, found:	165.407
+Length  147/21, alignment  9/ 9, fail:	237.91
+Length  147/21, alignment  9/15, found:	166.641
+Length  147/21, alignment  9/15, fail:	237.732
+Length  147/21, alignment 15/ 0, found:	164.729
+Length  147/21, alignment 15/ 0, fail:	238.942
+Length  147/21, alignment 15/ 3, found:	165.103
+Length  147/21, alignment 15/ 3, fail:	237.208
+Length  147/21, alignment 15/ 9, found:	167.132
+Length  147/21, alignment 15/ 9, fail:	237.876
+Length  147/21, alignment 15/15, found:	165.02
+Length  147/21, alignment 15/15, fail:	239.039
+Length   88/22, alignment  0/ 0, found:	135.215
+Length   88/22, alignment  0/ 0, fail:	179.438
+Length   88/22, alignment  0/ 3, found:	135.71
+Length   88/22, alignment  0/ 3, fail:	177.704
+Length   88/22, alignment  0/ 9, found:	135.421
+Length   88/22, alignment  0/ 9, fail:	177.208
+Length   88/22, alignment  0/15, found:	135.926
+Length   88/22, alignment  0/15, fail:	178.17
+Length   88/22, alignment  3/ 0, found:	136.144
+Length   88/22, alignment  3/ 0, fail:	177.587
+Length   88/22, alignment  3/ 3, found:	136.32
+Length   88/22, alignment  3/ 3, fail:	177.74
+Length   88/22, alignment  3/ 9, found:	135.907
+Length   88/22, alignment  3/ 9, fail:	177.753
+Length   88/22, alignment  3/15, found:	137.415
+Length   88/22, alignment  3/15, fail:	176.359
+Length   88/22, alignment  9/ 0, found:	139.003
+Length   88/22, alignment  9/ 0, fail:	176.611
+Length   88/22, alignment  9/ 3, found:	137.919
+Length   88/22, alignment  9/ 3, fail:	176.422
+Length   88/22, alignment  9/ 9, found:	137.978
+Length   88/22, alignment  9/ 9, fail:	177.285
+Length   88/22, alignment  9/15, found:	139.199
+Length   88/22, alignment  9/15, fail:	179.512
+Length   88/22, alignment 15/ 0, found:	136.046
+Length   88/22, alignment 15/ 0, fail:	179.083
+Length   88/22, alignment 15/ 3, found:	138.128
+Length   88/22, alignment 15/ 3, fail:	182.74
+Length   88/22, alignment 15/ 9, found:	137.289
+Length   88/22, alignment 15/ 9, fail:	181.953
+Length   88/22, alignment 15/15, found:	134.874
+Length   88/22, alignment 15/15, fail:	181.257
+Length  110/22, alignment  0/ 0, found:	147.639
+Length  110/22, alignment  0/ 0, fail:	208.541
+Length  110/22, alignment  0/ 3, found:	148.813
+Length  110/22, alignment  0/ 3, fail:	210.035
+Length  110/22, alignment  0/ 9, found:	149.205
+Length  110/22, alignment  0/ 9, fail:	206.81
+Length  110/22, alignment  0/15, found:	156.142
+Length  110/22, alignment  0/15, fail:	207.737
+Length  110/22, alignment  3/ 0, found:	150.349
+Length  110/22, alignment  3/ 0, fail:	208.205
+Length  110/22, alignment  3/ 3, found:	145.709
+Length  110/22, alignment  3/ 3, fail:	204.419
+Length  110/22, alignment  3/ 9, found:	145.672
+Length  110/22, alignment  3/ 9, fail:	203.032
+Length  110/22, alignment  3/15, found:	147.672
+Length  110/22, alignment  3/15, fail:	200.967
+Length  110/22, alignment  9/ 0, found:	149.126
+Length  110/22, alignment  9/ 0, fail:	199.667
+Length  110/22, alignment  9/ 3, found:	149.017
+Length  110/22, alignment  9/ 3, fail:	201.677
+Length  110/22, alignment  9/ 9, found:	147.356
+Length  110/22, alignment  9/ 9, fail:	202.039
+Length  110/22, alignment  9/15, found:	145.702
+Length  110/22, alignment  9/15, fail:	204.996
+Length  110/22, alignment 15/ 0, found:	145.65
+Length  110/22, alignment 15/ 0, fail:	203.209
+Length  110/22, alignment 15/ 3, found:	147.515
+Length  110/22, alignment 15/ 3, fail:	201.124
+Length  110/22, alignment 15/ 9, found:	147.502
+Length  110/22, alignment 15/ 9, fail:	201.429
+Length  110/22, alignment 15/15, found:	149.708
+Length  110/22, alignment 15/15, fail:	201.435
+Length  132/22, alignment  0/ 0, found:	157.583
+Length  132/22, alignment  0/ 0, fail:	224.49
+Length  132/22, alignment  0/ 3, found:	155.908
+Length  132/22, alignment  0/ 3, fail:	224.196
+Length  132/22, alignment  0/ 9, found:	158.122
+Length  132/22, alignment  0/ 9, fail:	222.232
+Length  132/22, alignment  0/15, found:	159.92
+Length  132/22, alignment  0/15, fail:	222.808
+Length  132/22, alignment  3/ 0, found:	157.359
+Length  132/22, alignment  3/ 0, fail:	224.193
+Length  132/22, alignment  3/ 3, found:	156.45
+Length  132/22, alignment  3/ 3, fail:	223.963
+Length  132/22, alignment  3/ 9, found:	158.097
+Length  132/22, alignment  3/ 9, fail:	222.301
+Length  132/22, alignment  3/15, found:	159.004
+Length  132/22, alignment  3/15, fail:	222.91
+Length  132/22, alignment  9/ 0, found:	157.918
+Length  132/22, alignment  9/ 0, fail:	223.958
+Length  132/22, alignment  9/ 3, found:	155.942
+Length  132/22, alignment  9/ 3, fail:	223.977
+Length  132/22, alignment  9/ 9, found:	158.115
+Length  132/22, alignment  9/ 9, fail:	222.3
+Length  132/22, alignment  9/15, found:	159.054
+Length  132/22, alignment  9/15, fail:	222.843
+Length  132/22, alignment 15/ 0, found:	158.222
+Length  132/22, alignment 15/ 0, fail:	223.887
+Length  132/22, alignment 15/ 3, found:	155.972
+Length  132/22, alignment 15/ 3, fail:	224.063
+Length  132/22, alignment 15/ 9, found:	158.099
+Length  132/22, alignment 15/ 9, fail:	222.209
+Length  132/22, alignment 15/15, found:	159.349
+Length  132/22, alignment 15/15, fail:	222.713
+Length  154/22, alignment  0/ 0, found:	170.536
+Length  154/22, alignment  0/ 0, fail:	246.876
+Length  154/22, alignment  0/ 3, found:	170.406
+Length  154/22, alignment  0/ 3, fail:	245.316
+Length  154/22, alignment  0/ 9, found:	175.549
+Length  154/22, alignment  0/ 9, fail:	246.246
+Length  154/22, alignment  0/15, found:	168.588
+Length  154/22, alignment  0/15, fail:	245.322
+Length  154/22, alignment  3/ 0, found:	172.523
+Length  154/22, alignment  3/ 0, fail:	244.019
+Length  154/22, alignment  3/ 3, found:	169.858
+Length  154/22, alignment  3/ 3, fail:	246.153
+Length  154/22, alignment  3/ 9, found:	170.285
+Length  154/22, alignment  3/ 9, fail:	244.957
+Length  154/22, alignment  3/15, found:	178.304
+Length  154/22, alignment  3/15, fail:	248.146
+Length  154/22, alignment  9/ 0, found:	168.594
+Length  154/22, alignment  9/ 0, fail:	246.658
+Length  154/22, alignment  9/ 3, found:	170.27
+Length  154/22, alignment  9/ 3, fail:	246.585
+Length  154/22, alignment  9/ 9, found:	169.973
+Length  154/22, alignment  9/ 9, fail:	247.286
+Length  154/22, alignment  9/15, found:	168.528
+Length  154/22, alignment  9/15, fail:	247.688
+Length  154/22, alignment 15/ 0, found:	178.383
+Length  154/22, alignment 15/ 0, fail:	246.313
+Length  154/22, alignment 15/ 3, found:	172.781
+Length  154/22, alignment 15/ 3, fail:	248.017
+Length  154/22, alignment 15/ 9, found:	171.875
+Length  154/22, alignment 15/ 9, fail:	245.437
+Length  154/22, alignment 15/15, found:	172.967
+Length  154/22, alignment 15/15, fail:	246.978
+Length   92/23, alignment  0/ 0, found:	139.057
+Length   92/23, alignment  0/ 0, fail:	187.147
+Length   92/23, alignment  0/ 3, found:	138.746
+Length   92/23, alignment  0/ 3, fail:	186.31
+Length   92/23, alignment  0/ 9, found:	138.219
+Length   92/23, alignment  0/ 9, fail:	186.501
+Length   92/23, alignment  0/15, found:	140.15
+Length   92/23, alignment  0/15, fail:	185.139
+Length   92/23, alignment  3/ 0, found:	140.639
+Length   92/23, alignment  3/ 0, fail:	184.281
+Length   92/23, alignment  3/ 3, found:	140.432
+Length   92/23, alignment  3/ 3, fail:	184.89
+Length   92/23, alignment  3/ 9, found:	142.138
+Length   92/23, alignment  3/ 9, fail:	183.133
+Length   92/23, alignment  3/15, found:	142.13
+Length   92/23, alignment  3/15, fail:	183.134
+Length   92/23, alignment  9/ 0, found:	142.124
+Length   92/23, alignment  9/ 0, fail:	185.268
+Length   92/23, alignment  9/ 3, found:	140.86
+Length   92/23, alignment  9/ 3, fail:	184.554
+Length   92/23, alignment  9/ 9, found:	140.66
+Length   92/23, alignment  9/ 9, fail:	186.409
+Length   92/23, alignment  9/15, found:	138.323
+Length   92/23, alignment  9/15, fail:	186.224
+Length   92/23, alignment 15/ 0, found:	138.354
+Length   92/23, alignment 15/ 0, fail:	185.599
+Length   92/23, alignment 15/ 3, found:	138.322
+Length   92/23, alignment 15/ 3, fail:	187.406
+Length   92/23, alignment 15/ 9, found:	138.29
+Length   92/23, alignment 15/ 9, fail:	187.078
+Length   92/23, alignment 15/15, found:	140.631
+Length   92/23, alignment 15/15, fail:	184.396
+Length  115/23, alignment  0/ 0, found:	152.738
+Length  115/23, alignment  0/ 0, fail:	209.359
+Length  115/23, alignment  0/ 3, found:	159.023
+Length  115/23, alignment  0/ 3, fail:	251.335
+Length  115/23, alignment  0/ 9, found:	159.899
+Length  115/23, alignment  0/ 9, fail:	212.206
+Length  115/23, alignment  0/15, found:	151.558
+Length  115/23, alignment  0/15, fail:	211.246
+Length  115/23, alignment  3/ 0, found:	153.55
+Length  115/23, alignment  3/ 0, fail:	209.341
+Length  115/23, alignment  3/ 3, found:	155.465
+Length  115/23, alignment  3/ 3, fail:	209.823
+Length  115/23, alignment  3/ 9, found:	152.551
+Length  115/23, alignment  3/ 9, fail:	212.458
+Length  115/23, alignment  3/15, found:	151.6
+Length  115/23, alignment  3/15, fail:	210.933
+Length  115/23, alignment  9/ 0, found:	151.501
+Length  115/23, alignment  9/ 0, fail:	210.074
+Length  115/23, alignment  9/ 3, found:	153.324
+Length  115/23, alignment  9/ 3, fail:	208.709
+Length  115/23, alignment  9/ 9, found:	155.317
+Length  115/23, alignment  9/ 9, fail:	208.634
+Length  115/23, alignment  9/15, found:	152.663
+Length  115/23, alignment  9/15, fail:	210.142
+Length  115/23, alignment 15/ 0, found:	151.559
+Length  115/23, alignment 15/ 0, fail:	210.387
+Length  115/23, alignment 15/ 3, found:	151.244
+Length  115/23, alignment 15/ 3, fail:	211.498
+Length  115/23, alignment 15/ 9, found:	153.268
+Length  115/23, alignment 15/ 9, fail:	207.959
+Length  115/23, alignment 15/15, found:	154.635
+Length  115/23, alignment 15/15, fail:	208.627
+Length  138/23, alignment  0/ 0, found:	164.687
+Length  138/23, alignment  0/ 0, fail:	233.262
+Length  138/23, alignment  0/ 3, found:	163.131
+Length  138/23, alignment  0/ 3, fail:	233.182
+Length  138/23, alignment  0/ 9, found:	166.962
+Length  138/23, alignment  0/ 9, fail:	231.949
+Length  138/23, alignment  0/15, found:	164.66
+Length  138/23, alignment  0/15, fail:	233.131
+Length  138/23, alignment  3/ 0, found:	163.29
+Length  138/23, alignment  3/ 0, fail:	233.187
+Length  138/23, alignment  3/ 3, found:	164.98
+Length  138/23, alignment  3/ 3, fail:	231.754
+Length  138/23, alignment  3/ 9, found:	167.291
+Length  138/23, alignment  3/ 9, fail:	232.989
+Length  138/23, alignment  3/15, found:	163.456
+Length  138/23, alignment  3/15, fail:	233.31
+Length  138/23, alignment  9/ 0, found:	165.084
+Length  138/23, alignment  9/ 0, fail:	232.082
+Length  138/23, alignment  9/ 3, found:	167.881
+Length  138/23, alignment  9/ 3, fail:	237.022
+Length  138/23, alignment  9/ 9, found:	163.368
+Length  138/23, alignment  9/ 9, fail:	234.785
+Length  138/23, alignment  9/15, found:	167.427
+Length  138/23, alignment  9/15, fail:	234.618
+Length  138/23, alignment 15/ 0, found:	172.276
+Length  138/23, alignment 15/ 0, fail:	237.125
+Length  138/23, alignment 15/ 3, found:	166.683
+Length  138/23, alignment 15/ 3, fail:	236.372
+Length  138/23, alignment 15/ 9, found:	165.298
+Length  138/23, alignment 15/ 9, fail:	232.6
+Length  138/23, alignment 15/15, found:	166.908
+Length  138/23, alignment 15/15, fail:	233.403
+Length  161/23, alignment  0/ 0, found:	177.917
+Length  161/23, alignment  0/ 0, fail:	258.736
+Length  161/23, alignment  0/ 3, found:	176.501
+Length  161/23, alignment  0/ 3, fail:	256.429
+Length  161/23, alignment  0/ 9, found:	173.143
+Length  161/23, alignment  0/ 9, fail:	255.313
+Length  161/23, alignment  0/15, found:	177.659
+Length  161/23, alignment  0/15, fail:	253.993
+Length  161/23, alignment  3/ 0, found:	174.946
+Length  161/23, alignment  3/ 0, fail:	255.238
+Length  161/23, alignment  3/ 3, found:	175.071
+Length  161/23, alignment  3/ 3, fail:	253.606
+Length  161/23, alignment  3/ 9, found:	176.448
+Length  161/23, alignment  3/ 9, fail:	255.746
+Length  161/23, alignment  3/15, found:	174.606
+Length  161/23, alignment  3/15, fail:	256.121
+Length  161/23, alignment  9/ 0, found:	175.895
+Length  161/23, alignment  9/ 0, fail:	253.831
+Length  161/23, alignment  9/ 3, found:	174.394
+Length  161/23, alignment  9/ 3, fail:	255.111
+Length  161/23, alignment  9/ 9, found:	175.611
+Length  161/23, alignment  9/ 9, fail:	255.042
+Length  161/23, alignment  9/15, found:	176.617
+Length  161/23, alignment  9/15, fail:	255.101
+Length  161/23, alignment 15/ 0, found:	176.218
+Length  161/23, alignment 15/ 0, fail:	253.336
+Length  161/23, alignment 15/ 3, found:	175.667
+Length  161/23, alignment 15/ 3, fail:	255.054
+Length  161/23, alignment 15/ 9, found:	173.132
+Length  161/23, alignment 15/ 9, fail:	255.013
+Length  161/23, alignment 15/15, found:	178.463
+Length  161/23, alignment 15/15, fail:	253.923
+Length   96/24, alignment  0/ 0, found:	142.474
+Length   96/24, alignment  0/ 0, fail:	189.804
+Length   96/24, alignment  0/ 3, found:	141.101
+Length   96/24, alignment  0/ 3, fail:	195.854
+Length   96/24, alignment  0/ 9, found:	141.112
+Length   96/24, alignment  0/ 9, fail:	190.654
+Length   96/24, alignment  0/15, found:	141.08
+Length   96/24, alignment  0/15, fail:	190.76
+Length   96/24, alignment  3/ 0, found:	143.51
+Length   96/24, alignment  3/ 0, fail:	188.154
+Length   96/24, alignment  3/ 3, found:	142.843
+Length   96/24, alignment  3/ 3, fail:	188.125
+Length   96/24, alignment  3/ 9, found:	144.048
+Length   96/24, alignment  3/ 9, fail:	186.749
+Length   96/24, alignment  3/15, found:	144.432
+Length   96/24, alignment  3/15, fail:	186.759
+Length   96/24, alignment  9/ 0, found:	144.743
+Length   96/24, alignment  9/ 0, fail:	188.618
+Length   96/24, alignment  9/ 3, found:	142.407
+Length   96/24, alignment  9/ 3, fail:	189.491
+Length   96/24, alignment  9/ 9, found:	142.968
+Length   96/24, alignment  9/ 9, fail:	189.825
+Length   96/24, alignment  9/15, found:	141.024
+Length   96/24, alignment  9/15, fail:	189.794
+Length   96/24, alignment 15/ 0, found:	141.096
+Length   96/24, alignment 15/ 0, fail:	190.421
+Length   96/24, alignment 15/ 3, found:	141.093
+Length   96/24, alignment 15/ 3, fail:	189.967
+Length   96/24, alignment 15/ 9, found:	142.82
+Length   96/24, alignment 15/ 9, fail:	188.121
+Length   96/24, alignment 15/15, found:	142.897
+Length   96/24, alignment 15/15, fail:	188.128
+Length  120/24, alignment  0/ 0, found:	156.732
+Length  120/24, alignment  0/ 0, fail:	211.217
+Length  120/24, alignment  0/ 3, found:	156.203
+Length  120/24, alignment  0/ 3, fail:	213.194
+Length  120/24, alignment  0/ 9, found:	154.939
+Length  120/24, alignment  0/ 9, fail:	214.272
+Length  120/24, alignment  0/15, found:	152.935
+Length  120/24, alignment  0/15, fail:	214.231
+Length  120/24, alignment  3/ 0, found:	154.7
+Length  120/24, alignment  3/ 0, fail:	212.479
+Length  120/24, alignment  3/ 3, found:	155.942
+Length  120/24, alignment  3/ 3, fail:	213.099
+Length  120/24, alignment  3/ 9, found:	155.143
+Length  120/24, alignment  3/ 9, fail:	214.146
+Length  120/24, alignment  3/15, found:	153.908
+Length  120/24, alignment  3/15, fail:	214.141
+Length  120/24, alignment  9/ 0, found:	154.648
+Length  120/24, alignment  9/ 0, fail:	212.42
+Length  120/24, alignment  9/ 3, found:	156.342
+Length  120/24, alignment  9/ 3, fail:	211.144
+Length  120/24, alignment  9/ 9, found:	157.687
+Length  120/24, alignment  9/ 9, fail:	212.936
+Length  120/24, alignment  9/15, found:	154.254
+Length  120/24, alignment  9/15, fail:	214.031
+Length  120/24, alignment 15/ 0, found:	152.951
+Length  120/24, alignment 15/ 0, fail:	214.426
+Length  120/24, alignment 15/ 3, found:	154.675
+Length  120/24, alignment 15/ 3, fail:	212.506
+Length  120/24, alignment 15/ 9, found:	156.587
+Length  120/24, alignment 15/ 9, fail:	212.853
+Length  120/24, alignment 15/15, found:	154.497
+Length  120/24, alignment 15/15, fail:	214.166
+Length  144/24, alignment  0/ 0, found:	164.809
+Length  144/24, alignment  0/ 0, fail:	238.864
+Length  144/24, alignment  0/ 3, found:	166.38
+Length  144/24, alignment  0/ 3, fail:	237.153
+Length  144/24, alignment  0/ 9, found:	167.88
+Length  144/24, alignment  0/ 9, fail:	239.803
+Length  144/24, alignment  0/15, found:	164.806
+Length  144/24, alignment  0/15, fail:	238.825
+Length  144/24, alignment  3/ 0, found:	166.41
+Length  144/24, alignment  3/ 0, fail:	237.03
+Length  144/24, alignment  3/ 3, found:	168.477
+Length  144/24, alignment  3/ 3, fail:	238.828
+Length  144/24, alignment  3/ 9, found:	164.81
+Length  144/24, alignment  3/ 9, fail:	239.609
+Length  144/24, alignment  3/15, found:	166.445
+Length  144/24, alignment  3/15, fail:	237.083
+Length  144/24, alignment  9/ 0, found:	167.658
+Length  144/24, alignment  9/ 0, fail:	238.646
+Length  144/24, alignment  9/ 3, found:	164.672
+Length  144/24, alignment  9/ 3, fail:	239.495
+Length  144/24, alignment  9/ 9, found:	168.474
+Length  144/24, alignment  9/ 9, fail:	237.516
+Length  144/24, alignment  9/15, found:	166.012
+Length  144/24, alignment  9/15, fail:	239.257
+Length  144/24, alignment 15/ 0, found:	164.815
+Length  144/24, alignment 15/ 0, fail:	238.781
+Length  144/24, alignment 15/ 3, found:	167.649
+Length  144/24, alignment 15/ 3, fail:	237.529
+Length  144/24, alignment 15/ 9, found:	166.793
+Length  144/24, alignment 15/ 9, fail:	238.844
+Length  144/24, alignment 15/15, found:	164.583
+Length  144/24, alignment 15/15, fail:	238.734
+Length  168/24, alignment  0/ 0, found:	179.634
+Length  168/24, alignment  0/ 0, fail:	261.83
+Length  168/24, alignment  0/ 3, found:	178.216
+Length  168/24, alignment  0/ 3, fail:	262.954
+Length  168/24, alignment  0/ 9, found:	178.583
+Length  168/24, alignment  0/ 9, fail:	261.728
+Length  168/24, alignment  0/15, found:	177.999
+Length  168/24, alignment  0/15, fail:	263.011
+Length  168/24, alignment  3/ 0, found:	178.2
+Length  168/24, alignment  3/ 0, fail:	263.047
+Length  168/24, alignment  3/ 3, found:	178.038
+Length  168/24, alignment  3/ 3, fail:	263.75
+Length  168/24, alignment  3/ 9, found:	178.466
+Length  168/24, alignment  3/ 9, fail:	261.308
+Length  168/24, alignment  3/15, found:	179.468
+Length  168/24, alignment  3/15, fail:	262.968
+Length  168/24, alignment  9/ 0, found:	176.756
+Length  168/24, alignment  9/ 0, fail:	262.958
+Length  168/24, alignment  9/ 3, found:	180.365
+Length  168/24, alignment  9/ 3, fail:	263.411
+Length  168/24, alignment  9/ 9, found:	176.708
+Length  168/24, alignment  9/ 9, fail:	263.325
+Length  168/24, alignment  9/15, found:	186.556
+Length  168/24, alignment  9/15, fail:	264.409
+Length  168/24, alignment 15/ 0, found:	176.655
+Length  168/24, alignment 15/ 0, fail:	264.801
+Length  168/24, alignment 15/ 3, found:	180.185
+Length  168/24, alignment 15/ 3, fail:	261.711
+Length  168/24, alignment 15/ 9, found:	178.01
+Length  168/24, alignment 15/ 9, fail:	262.812
+Length  168/24, alignment 15/15, found:	180.033
+Length  168/24, alignment 15/15, fail:	262.603
+Length  100/25, alignment  0/ 0, found:	147.033
+Length  100/25, alignment  0/ 0, fail:	230.818
+Length  100/25, alignment  0/ 3, found:	144.069
+Length  100/25, alignment  0/ 3, fail:	222.525
+Length  100/25, alignment  0/ 9, found:	145.853
+Length  100/25, alignment  0/ 9, fail:	219.069
+Length  100/25, alignment  0/15, found:	147.118
+Length  100/25, alignment  0/15, fail:	213.434
+Length  100/25, alignment  3/ 0, found:	147.267
+Length  100/25, alignment  3/ 0, fail:	221.94
+Length  100/25, alignment  3/ 3, found:	145.901
+Length  100/25, alignment  3/ 3, fail:	220.181
+Length  100/25, alignment  3/ 9, found:	144.058
+Length  100/25, alignment  3/ 9, fail:	213.786
+Length  100/25, alignment  3/15, found:	145.815
+Length  100/25, alignment  3/15, fail:	219.333
+Length  100/25, alignment  9/ 0, found:	147.445
+Length  100/25, alignment  9/ 0, fail:	218.732
+Length  100/25, alignment  9/ 3, found:	145.952
+Length  100/25, alignment  9/ 3, fail:	221.597
+Length  100/25, alignment  9/ 9, found:	144.049
+Length  100/25, alignment  9/ 9, fail:	221.836
+Length  100/25, alignment  9/15, found:	144.052
+Length  100/25, alignment  9/15, fail:	224.557
+Length  100/25, alignment 15/ 0, found:	145.779
+Length  100/25, alignment 15/ 0, fail:	218.612
+Length  100/25, alignment 15/ 3, found:	147.664
+Length  100/25, alignment 15/ 3, fail:	219.086
+Length  100/25, alignment 15/ 9, found:	145.394
+Length  100/25, alignment 15/ 9, fail:	223.177
+Length  100/25, alignment 15/15, found:	144.054
+Length  100/25, alignment 15/15, fail:	221.798
+Length  125/25, alignment  0/ 0, found:	157.587
+Length  125/25, alignment  0/ 0, fail:	218.337
+Length  125/25, alignment  0/ 3, found:	159.09
+Length  125/25, alignment  0/ 3, fail:	218.774
+Length  125/25, alignment  0/ 9, found:	157.745
+Length  125/25, alignment  0/ 9, fail:	219.81
+Length  125/25, alignment  0/15, found:	155.931
+Length  125/25, alignment  0/15, fail:	219.925
+Length  125/25, alignment  3/ 0, found:	157.567
+Length  125/25, alignment  3/ 0, fail:	218.341
+Length  125/25, alignment  3/ 3, found:	159.08
+Length  125/25, alignment  3/ 3, fail:	218.704
+Length  125/25, alignment  3/ 9, found:	157.864
+Length  125/25, alignment  3/ 9, fail:	220.706
+Length  125/25, alignment  3/15, found:	155.897
+Length  125/25, alignment  3/15, fail:	219.794
+Length  125/25, alignment  9/ 0, found:	157.646
+Length  125/25, alignment  9/ 0, fail:	218.095
+Length  125/25, alignment  9/ 3, found:	159.501
+Length  125/25, alignment  9/ 3, fail:	216.737
+Length  125/25, alignment  9/ 9, found:	159.789
+Length  125/25, alignment  9/ 9, fail:	219.786
+Length  125/25, alignment  9/15, found:	155.943
+Length  125/25, alignment  9/15, fail:	219.778
+Length  125/25, alignment 15/ 0, found:	158.18
+Length  125/25, alignment 15/ 0, fail:	218.035
+Length  125/25, alignment 15/ 3, found:	158.865
+Length  125/25, alignment 15/ 3, fail:	216.851
+Length  125/25, alignment 15/ 9, found:	159.829
+Length  125/25, alignment 15/ 9, fail:	219.972
+Length  125/25, alignment 15/15, found:	155.812
+Length  125/25, alignment 15/15, fail:	219.729
+Length  150/25, alignment  0/ 0, found:	170.935
+Length  150/25, alignment  0/ 0, fail:	244.434
+Length  150/25, alignment  0/ 3, found:	172.083
+Length  150/25, alignment  0/ 3, fail:	245.977
+Length  150/25, alignment  0/ 9, found:	169.119
+Length  150/25, alignment  0/ 9, fail:	246.897
+Length  150/25, alignment  0/15, found:	171.449
+Length  150/25, alignment  0/15, fail:	244.447
+Length  150/25, alignment  3/ 0, found:	172.073
+Length  150/25, alignment  3/ 0, fail:	246.093
+Length  150/25, alignment  3/ 3, found:	169.073
+Length  150/25, alignment  3/ 3, fail:	246.471
+Length  150/25, alignment  3/ 9, found:	182.764
+Length  150/25, alignment  3/ 9, fail:	245.121
+Length  150/25, alignment  3/15, found:	170.742
+Length  150/25, alignment  3/15, fail:	246.219
+Length  150/25, alignment  9/ 0, found:	170.644
+Length  150/25, alignment  9/ 0, fail:	244.325
+Length  150/25, alignment  9/ 3, found:	172.088
+Length  150/25, alignment  9/ 3, fail:	246.583
+Length  150/25, alignment  9/ 9, found:	169.101
+Length  150/25, alignment  9/ 9, fail:	247.134
+Length  150/25, alignment  9/15, found:	171.833
+Length  150/25, alignment  9/15, fail:	244.74
+Length  150/25, alignment 15/ 0, found:	170.699
+Length  150/25, alignment 15/ 0, fail:	246.03
+Length  150/25, alignment 15/ 3, found:	170.759
+Length  150/25, alignment 15/ 3, fail:	245.279
+Length  150/25, alignment 15/ 9, found:	172.198
+Length  150/25, alignment 15/ 9, fail:	244.675
+Length  150/25, alignment 15/15, found:	170.364
+Length  150/25, alignment 15/15, fail:	246.916
+Length  175/25, alignment  0/ 0, found:	183.008
+Length  175/25, alignment  0/ 0, fail:	274.399
+Length  175/25, alignment  0/ 3, found:	183.245
+Length  175/25, alignment  0/ 3, fail:	272.694
+Length  175/25, alignment  0/ 9, found:	183.082
+Length  175/25, alignment  0/ 9, fail:	274.024
+Length  175/25, alignment  0/15, found:	182.639
+Length  175/25, alignment  0/15, fail:	272.43
+Length  175/25, alignment  3/ 0, found:	184.578
+Length  175/25, alignment  3/ 0, fail:	272.46
+Length  175/25, alignment  3/ 3, found:	183.311
+Length  175/25, alignment  3/ 3, fail:	272.981
+Length  175/25, alignment  3/ 9, found:	184.794
+Length  175/25, alignment  3/ 9, fail:	272.492
+Length  175/25, alignment  3/15, found:	182.697
+Length  175/25, alignment  3/15, fail:	273.003
+Length  175/25, alignment  9/ 0, found:	184.959
+Length  175/25, alignment  9/ 0, fail:	272.323
+Length  175/25, alignment  9/ 3, found:	182.295
+Length  175/25, alignment  9/ 3, fail:	272.978
+Length  175/25, alignment  9/ 9, found:	184.272
+Length  175/25, alignment  9/ 9, fail:	272.396
+Length  175/25, alignment  9/15, found:	182.301
+Length  175/25, alignment  9/15, fail:	273.529
+Length  175/25, alignment 15/ 0, found:	184.464
+Length  175/25, alignment 15/ 0, fail:	270.92
+Length  175/25, alignment 15/ 3, found:	182.59
+Length  175/25, alignment 15/ 3, fail:	272.521
+Length  175/25, alignment 15/ 9, found:	184.156
+Length  175/25, alignment 15/ 9, fail:	270.627
+Length  175/25, alignment 15/15, found:	182.637
+Length  175/25, alignment 15/15, fail:	273.999
+Length  104/26, alignment  0/ 0, found:	149.579
+Length  104/26, alignment  0/ 0, fail:	198.602
+Length  104/26, alignment  0/ 3, found:	150.343
+Length  104/26, alignment  0/ 3, fail:	199.052
+Length  104/26, alignment  0/ 9, found:	148.638
+Length  104/26, alignment  0/ 9, fail:	199.155
+Length  104/26, alignment  0/15, found:	148.391
+Length  104/26, alignment  0/15, fail:	201.092
+Length  104/26, alignment  3/ 0, found:	147.789
+Length  104/26, alignment  3/ 0, fail:	200.43
+Length  104/26, alignment  3/ 3, found:	147.042
+Length  104/26, alignment  3/ 3, fail:	200.303
+Length  104/26, alignment  3/ 9, found:	149.332
+Length  104/26, alignment  3/ 9, fail:	198.643
+Length  104/26, alignment  3/15, found:	152.074
+Length  104/26, alignment  3/15, fail:	197.476
+Length  104/26, alignment  9/ 0, found:	151.122
+Length  104/26, alignment  9/ 0, fail:	199.092
+Length  104/26, alignment  9/ 3, found:	148.377
+Length  104/26, alignment  9/ 3, fail:	200.137
+Length  104/26, alignment  9/ 9, found:	147.033
+Length  104/26, alignment  9/ 9, fail:	200.258
+Length  104/26, alignment  9/15, found:	147.785
+Length  104/26, alignment  9/15, fail:	200.429
+Length  104/26, alignment 15/ 0, found:	149.377
+Length  104/26, alignment 15/ 0, fail:	199.605
+Length  104/26, alignment 15/ 3, found:	149.306
+Length  104/26, alignment 15/ 3, fail:	197.321
+Length  104/26, alignment 15/ 9, found:	150.229
+Length  104/26, alignment 15/ 9, fail:	199.032
+Length  104/26, alignment 15/15, found:	148.65
+Length  104/26, alignment 15/15, fail:	199.045
+Length  130/26, alignment  0/ 0, found:	162.277
+Length  130/26, alignment  0/ 0, fail:	227.587
+Length  130/26, alignment  0/ 3, found:	163.236
+Length  130/26, alignment  0/ 3, fail:	226.253
+Length  130/26, alignment  0/ 9, found:	164.064
+Length  130/26, alignment  0/ 9, fail:	226.203
+Length  130/26, alignment  0/15, found:	162.182
+Length  130/26, alignment  0/15, fail:	228.171
+Length  130/26, alignment  3/ 0, found:	160.739
+Length  130/26, alignment  3/ 0, fail:	227.52
+Length  130/26, alignment  3/ 3, found:	162.714
+Length  130/26, alignment  3/ 3, fail:	226.328
+Length  130/26, alignment  3/ 9, found:	168.035
+Length  130/26, alignment  3/ 9, fail:	228.082
+Length  130/26, alignment  3/15, found:	160.703
+Length  130/26, alignment  3/15, fail:	227.651
+Length  130/26, alignment  9/ 0, found:	162.489
+Length  130/26, alignment  9/ 0, fail:	225.741
+Length  130/26, alignment  9/ 3, found:	164.454
+Length  130/26, alignment  9/ 3, fail:	226.231
+Length  130/26, alignment  9/ 9, found:	162.105
+Length  130/26, alignment  9/ 9, fail:	227.417
+Length  130/26, alignment  9/15, found:	160.805
+Length  130/26, alignment  9/15, fail:	227.339
+Length  130/26, alignment 15/ 0, found:	162.448
+Length  130/26, alignment 15/ 0, fail:	225.759
+Length  130/26, alignment 15/ 3, found:	164.355
+Length  130/26, alignment 15/ 3, fail:	227.513
+Length  130/26, alignment 15/ 9, found:	160.831
+Length  130/26, alignment 15/ 9, fail:	227.812
+Length  130/26, alignment 15/15, found:	162.532
+Length  130/26, alignment 15/15, fail:	225.791
+Length  156/26, alignment  0/ 0, found:	176.675
+Length  156/26, alignment  0/ 0, fail:	255.989
+Length  156/26, alignment  0/ 3, found:	235.762
+Length  156/26, alignment  0/ 3, fail:	261.695
+Length  156/26, alignment  0/ 9, found:	179.368
+Length  156/26, alignment  0/ 9, fail:	256.395
+Length  156/26, alignment  0/15, found:	173.289
+Length  156/26, alignment  0/15, fail:	254.702
+Length  156/26, alignment  3/ 0, found:	190.165
+Length  156/26, alignment  3/ 0, fail:	256.845
+Length  156/26, alignment  3/ 3, found:	172.853
+Length  156/26, alignment  3/ 3, fail:	264.547
+Length  156/26, alignment  3/ 9, found:	176.397
+Length  156/26, alignment  3/ 9, fail:	251.383
+Length  156/26, alignment  3/15, found:	174.193
+Length  156/26, alignment  3/15, fail:	253.212
+Length  156/26, alignment  9/ 0, found:	174.572
+Length  156/26, alignment  9/ 0, fail:	250.788
+Length  156/26, alignment  9/ 3, found:	175.686
+Length  156/26, alignment  9/ 3, fail:	252.35
+Length  156/26, alignment  9/ 9, found:	172.628
+Length  156/26, alignment  9/ 9, fail:	252.434
+Length  156/26, alignment  9/15, found:	176.939
+Length  156/26, alignment  9/15, fail:	251.457
+Length  156/26, alignment 15/ 0, found:	174.655
+Length  156/26, alignment 15/ 0, fail:	252.485
+Length  156/26, alignment 15/ 3, found:	174.429
+Length  156/26, alignment 15/ 3, fail:	253.263
+Length  156/26, alignment 15/ 9, found:	174.012
+Length  156/26, alignment 15/ 9, fail:	252.47
+Length  156/26, alignment 15/15, found:	174.671
+Length  156/26, alignment 15/15, fail:	251.813
+Length  182/26, alignment  0/ 0, found:	188.995
+Length  182/26, alignment  0/ 0, fail:	279.135
+Length  182/26, alignment  0/ 3, found:	187.847
+Length  182/26, alignment  0/ 3, fail:	277.957
+Length  182/26, alignment  0/ 9, found:	188.884
+Length  182/26, alignment  0/ 9, fail:	279.621
+Length  182/26, alignment  0/15, found:	187.756
+Length  182/26, alignment  0/15, fail:	278.87
+Length  182/26, alignment  3/ 0, found:	187.057
+Length  182/26, alignment  3/ 0, fail:	278.828
+Length  182/26, alignment  3/ 3, found:	187.565
+Length  182/26, alignment  3/ 3, fail:	278.28
+Length  182/26, alignment  3/ 9, found:	188.21
+Length  182/26, alignment  3/ 9, fail:	279.985
+Length  182/26, alignment  3/15, found:	189.334
+Length  182/26, alignment  3/15, fail:	278.697
+Length  182/26, alignment  9/ 0, found:	187.371
+Length  182/26, alignment  9/ 0, fail:	278.897
+Length  182/26, alignment  9/ 3, found:	188.986
+Length  182/26, alignment  9/ 3, fail:	279.703
+Length  182/26, alignment  9/ 9, found:	186.52
+Length  182/26, alignment  9/ 9, fail:	279.724
+Length  182/26, alignment  9/15, found:	188.977
+Length  182/26, alignment  9/15, fail:	278.772
+Length  182/26, alignment 15/ 0, found:	188.041
+Length  182/26, alignment 15/ 0, fail:	277.707
+Length  182/26, alignment 15/ 3, found:	189.7
+Length  182/26, alignment 15/ 3, fail:	286.151
+Length  182/26, alignment 15/ 9, found:	188.202
+Length  182/26, alignment 15/ 9, fail:	280.537
+Length  182/26, alignment 15/15, found:	187.393
+Length  182/26, alignment 15/15, fail:	279.448
+Length  108/27, alignment  0/ 0, found:	151.761
+Length  108/27, alignment  0/ 0, fail:	205.913
+Length  108/27, alignment  0/ 3, found:	153.734
+Length  108/27, alignment  0/ 3, fail:	204.014
+Length  108/27, alignment  0/ 9, found:	153.355
+Length  108/27, alignment  0/ 9, fail:	205.733
+Length  108/27, alignment  0/15, found:	158.18
+Length  108/27, alignment  0/15, fail:	207.62
+Length  108/27, alignment  3/ 0, found:	150.869
+Length  108/27, alignment  3/ 0, fail:	207.82
+Length  108/27, alignment  3/ 3, found:	152.707
+Length  108/27, alignment  3/ 3, fail:	205.364
+Length  108/27, alignment  3/ 9, found:	153.031
+Length  108/27, alignment  3/ 9, fail:	203.681
+Length  108/27, alignment  3/15, found:	153.808
+Length  108/27, alignment  3/15, fail:	205.654
+Length  108/27, alignment  9/ 0, found:	152.118
+Length  108/27, alignment  9/ 0, fail:	206.848
+Length  108/27, alignment  9/ 3, found:	150.474
+Length  108/27, alignment  9/ 3, fail:	208.253
+Length  108/27, alignment  9/ 9, found:	152.48
+Length  108/27, alignment  9/ 9, fail:	205.561
+Length  108/27, alignment  9/15, found:	152.668
+Length  108/27, alignment  9/15, fail:	205.108
+Length  108/27, alignment 15/ 0, found:	153.636
+Length  108/27, alignment 15/ 0, fail:	205.95
+Length  108/27, alignment 15/ 3, found:	159.375
+Length  108/27, alignment 15/ 3, fail:	219.665
+Length  108/27, alignment 15/ 9, found:	151.303
+Length  108/27, alignment 15/ 9, fail:	208.65
+Length  108/27, alignment 15/15, found:	152.95
+Length  108/27, alignment 15/15, fail:	205.459
+Length  135/27, alignment  0/ 0, found:	166.734
+Length  135/27, alignment  0/ 0, fail:	235.74
+Length  135/27, alignment  0/ 3, found:	168.854
+Length  135/27, alignment  0/ 3, fail:	236.947
+Length  135/27, alignment  0/ 9, found:	164.519
+Length  135/27, alignment  0/ 9, fail:	235.945
+Length  135/27, alignment  0/15, found:	166.665
+Length  135/27, alignment  0/15, fail:	234.515
+Length  135/27, alignment  3/ 0, found:	167.838
+Length  135/27, alignment  3/ 0, fail:	237.511
+Length  135/27, alignment  3/ 3, found:	164.509
+Length  135/27, alignment  3/ 3, fail:	236.932
+Length  135/27, alignment  3/ 9, found:	167.548
+Length  135/27, alignment  3/ 9, fail:	234.492
+Length  135/27, alignment  3/15, found:	166.031
+Length  135/27, alignment  3/15, fail:	235.681
+Length  135/27, alignment  9/ 0, found:	164.697
+Length  135/27, alignment  9/ 0, fail:	235.795
+Length  135/27, alignment  9/ 3, found:	168.209
+Length  135/27, alignment  9/ 3, fail:	234.312
+Length  135/27, alignment  9/ 9, found:	166.027
+Length  135/27, alignment  9/ 9, fail:	235.519
+Length  135/27, alignment  9/15, found:	164.672
+Length  135/27, alignment  9/15, fail:	235.397
+Length  135/27, alignment 15/ 0, found:	167.617
+Length  135/27, alignment 15/ 0, fail:	234.378
+Length  135/27, alignment 15/ 3, found:	166.739
+Length  135/27, alignment 15/ 3, fail:	235.578
+Length  135/27, alignment 15/ 9, found:	164.607
+Length  135/27, alignment 15/ 9, fail:	235.452
+Length  135/27, alignment 15/15, found:	167.548
+Length  135/27, alignment 15/15, fail:	232.543
+Length  162/27, alignment  0/ 0, found:	180.389
+Length  162/27, alignment  0/ 0, fail:	262.323
+Length  162/27, alignment  0/ 3, found:	181.091
+Length  162/27, alignment  0/ 3, fail:	260.917
+Length  162/27, alignment  0/ 9, found:	182.031
+Length  162/27, alignment  0/ 9, fail:	262.14
+Length  162/27, alignment  0/15, found:	179.157
+Length  162/27, alignment  0/15, fail:	262.077
+Length  162/27, alignment  3/ 0, found:	182.898
+Length  162/27, alignment  3/ 0, fail:	263.99
+Length  162/27, alignment  3/ 3, found:	179.091
+Length  162/27, alignment  3/ 3, fail:	262.368
+Length  162/27, alignment  3/ 9, found:	182.104
+Length  162/27, alignment  3/ 9, fail:	262.124
+Length  162/27, alignment  3/15, found:	179.172
+Length  162/27, alignment  3/15, fail:	262.325
+Length  162/27, alignment  9/ 0, found:	182.831
+Length  162/27, alignment  9/ 0, fail:	261.037
+Length  162/27, alignment  9/ 3, found:	180.242
+Length  162/27, alignment  9/ 3, fail:	262.038
+Length  162/27, alignment  9/ 9, found:	182.226
+Length  162/27, alignment  9/ 9, fail:	260.93
+Length  162/27, alignment  9/15, found:	180.385
+Length  162/27, alignment  9/15, fail:	262.58
+Length  162/27, alignment 15/ 0, found:	180.914
+Length  162/27, alignment 15/ 0, fail:	262.189
+Length  162/27, alignment 15/ 3, found:	180.405
+Length  162/27, alignment 15/ 3, fail:	262.579
+Length  162/27, alignment 15/ 9, found:	181.064
+Length  162/27, alignment 15/ 9, fail:	260.969
+Length  162/27, alignment 15/15, found:	182.444
+Length  162/27, alignment 15/15, fail:	262.979
+Length  189/27, alignment  0/ 0, found:	193.039
+Length  189/27, alignment  0/ 0, fail:	287.271
+Length  189/27, alignment  0/ 3, found:	192.539
+Length  189/27, alignment  0/ 3, fail:	287.493
+Length  189/27, alignment  0/ 9, found:	194.333
+Length  189/27, alignment  0/ 9, fail:	285.365
+Length  189/27, alignment  0/15, found:	193.444
+Length  189/27, alignment  0/15, fail:	287.265
+Length  189/27, alignment  3/ 0, found:	194.477
+Length  189/27, alignment  3/ 0, fail:	287.024
+Length  189/27, alignment  3/ 3, found:	193.168
+Length  189/27, alignment  3/ 3, fail:	285.204
+Length  189/27, alignment  3/ 9, found:	195.018
+Length  189/27, alignment  3/ 9, fail:	287.736
+Length  189/27, alignment  3/15, found:	193.177
+Length  189/27, alignment  3/15, fail:	285.496
+Length  189/27, alignment  9/ 0, found:	193.076
+Length  189/27, alignment  9/ 0, fail:	287.644
+Length  189/27, alignment  9/ 3, found:	194.113
+Length  189/27, alignment  9/ 3, fail:	287.991
+Length  189/27, alignment  9/ 9, found:	191.554
+Length  189/27, alignment  9/ 9, fail:	286.98
+Length  189/27, alignment  9/15, found:	201.559
+Length  189/27, alignment  9/15, fail:	287.885
+Length  189/27, alignment 15/ 0, found:	193.318
+Length  189/27, alignment 15/ 0, fail:	287.883
+Length  189/27, alignment 15/ 3, found:	193.445
+Length  189/27, alignment 15/ 3, fail:	287.63
+Length  189/27, alignment 15/ 9, found:	194.257
+Length  189/27, alignment 15/ 9, fail:	287.229
+Length  189/27, alignment 15/15, found:	191.582
+Length  189/27, alignment 15/15, fail:	287.576
+Length  112/28, alignment  0/ 0, found:	156.87
+Length  112/28, alignment  0/ 0, fail:	209.899
+Length  112/28, alignment  0/ 3, found:	155.925
+Length  112/28, alignment  0/ 3, fail:	212.998
+Length  112/28, alignment  0/ 9, found:	152.999
+Length  112/28, alignment  0/ 9, fail:	211.146
+Length  112/28, alignment  0/15, found:	154.762
+Length  112/28, alignment  0/15, fail:	209.44
+Length  112/28, alignment  3/ 0, found:	156.897
+Length  112/28, alignment  3/ 0, fail:	208.071
+Length  112/28, alignment  3/ 3, found:	156.888
+Length  112/28, alignment  3/ 3, fail:	209.742
+Length  112/28, alignment  3/ 9, found:	154.239
+Length  112/28, alignment  3/ 9, fail:	210.896
+Length  112/28, alignment  3/15, found:	153
+Length  112/28, alignment  3/15, fail:	211.431
+Length  112/28, alignment  9/ 0, found:	155.061
+Length  112/28, alignment  9/ 0, fail:	210.097
+Length  112/28, alignment  9/ 3, found:	156.495
+Length  112/28, alignment  9/ 3, fail:	209.826
+Length  112/28, alignment  9/ 9, found:	155.274
+Length  112/28, alignment  9/ 9, fail:	211.063
+Length  112/28, alignment  9/15, found:	153.013
+Length  112/28, alignment  9/15, fail:	210.886
+Length  112/28, alignment 15/ 0, found:	153.156
+Length  112/28, alignment 15/ 0, fail:	211.703
+Length  112/28, alignment 15/ 3, found:	154.825
+Length  112/28, alignment 15/ 3, fail:	209.392
+Length  112/28, alignment 15/ 9, found:	156.008
+Length  112/28, alignment 15/ 9, fail:	209.805
+Length  112/28, alignment 15/15, found:	154.418
+Length  112/28, alignment 15/15, fail:	211.008
+Length  140/28, alignment  0/ 0, found:	167.356
+Length  140/28, alignment  0/ 0, fail:	238.896
+Length  140/28, alignment  0/ 3, found:	169.358
+Length  140/28, alignment  0/ 3, fail:	238.536
+Length  140/28, alignment  0/ 9, found:	170.178
+Length  140/28, alignment  0/ 9, fail:	238.989
+Length  140/28, alignment  0/15, found:	167.223
+Length  140/28, alignment  0/15, fail:	238.972
+Length  140/28, alignment  3/ 0, found:	170.162
+Length  140/28, alignment  3/ 0, fail:	237.999
+Length  140/28, alignment  3/ 3, found:	169.299
+Length  140/28, alignment  3/ 3, fail:	238.988
+Length  140/28, alignment  3/ 9, found:	167.361
+Length  140/28, alignment  3/ 9, fail:	238.866
+Length  140/28, alignment  3/15, found:	170.306
+Length  140/28, alignment  3/15, fail:	237.769
+Length  140/28, alignment  9/ 0, found:	168.578
+Length  140/28, alignment  9/ 0, fail:	239.586
+Length  140/28, alignment  9/ 3, found:	167.392
+Length  140/28, alignment  9/ 3, fail:	239.117
+Length  140/28, alignment  9/ 9, found:	170.305
+Length  140/28, alignment  9/ 9, fail:	237.656
+Length  140/28, alignment  9/15, found:	168.689
+Length  140/28, alignment  9/15, fail:	238.951
+Length  140/28, alignment 15/ 0, found:	169.93
+Length  140/28, alignment 15/ 0, fail:	237.368
+Length  140/28, alignment 15/ 3, found:	171.147
+Length  140/28, alignment 15/ 3, fail:	237.766
+Length  140/28, alignment 15/ 9, found:	168.812
+Length  140/28, alignment 15/ 9, fail:	239.173
+Length  140/28, alignment 15/15, found:	169.505
+Length  140/28, alignment 15/15, fail:	237.223
+Length  168/28, alignment  0/ 0, found:	184.782
+Length  168/28, alignment  0/ 0, fail:	268.528
+Length  168/28, alignment  0/ 3, found:	181.21
+Length  168/28, alignment  0/ 3, fail:	267.224
+Length  168/28, alignment  0/ 9, found:	184.588
+Length  168/28, alignment  0/ 9, fail:	267.225
+Length  168/28, alignment  0/15, found:	181.527
+Length  168/28, alignment  0/15, fail:	267.204
+Length  168/28, alignment  3/ 0, found:	184.967
+Length  168/28, alignment  3/ 0, fail:	267.24
+Length  168/28, alignment  3/ 3, found:	181.541
+Length  168/28, alignment  3/ 3, fail:	267.292
+Length  168/28, alignment  3/ 9, found:	184.322
+Length  168/28, alignment  3/ 9, fail:	267.219
+Length  168/28, alignment  3/15, found:	181.539
+Length  168/28, alignment  3/15, fail:	267.198
+Length  168/28, alignment  9/ 0, found:	185.121
+Length  168/28, alignment  9/ 0, fail:	267.147
+Length  168/28, alignment  9/ 3, found:	181.567
+Length  168/28, alignment  9/ 3, fail:	267.122
+Length  168/28, alignment  9/ 9, found:	184.54
+Length  168/28, alignment  9/ 9, fail:	267.092
+Length  168/28, alignment  9/15, found:	181.518
+Length  168/28, alignment  9/15, fail:	267.865
+Length  168/28, alignment 15/ 0, found:	184.484
+Length  168/28, alignment 15/ 0, fail:	265.922
+Length  168/28, alignment 15/ 3, found:	181.519
+Length  168/28, alignment 15/ 3, fail:	267.185
+Length  168/28, alignment 15/ 9, found:	184.57
+Length  168/28, alignment 15/ 9, fail:	265.862
+Length  168/28, alignment 15/15, found:	183.449
+Length  168/28, alignment 15/15, fail:	267.233
+Length  196/28, alignment  0/ 0, found:	198.317
+Length  196/28, alignment  0/ 0, fail:	295.389
+Length  196/28, alignment  0/ 3, found:	195.463
+Length  196/28, alignment  0/ 3, fail:	296.262
+Length  196/28, alignment  0/ 9, found:	200.077
+Length  196/28, alignment  0/ 9, fail:	295.467
+Length  196/28, alignment  0/15, found:	198.358
+Length  196/28, alignment  0/15, fail:	294.083
+Length  196/28, alignment  3/ 0, found:	196.572
+Length  196/28, alignment  3/ 0, fail:	295.449
+Length  196/28, alignment  3/ 3, found:	198.914
+Length  196/28, alignment  3/ 3, fail:	295.499
+Length  196/28, alignment  3/ 9, found:	197.201
+Length  196/28, alignment  3/ 9, fail:	295.401
+Length  196/28, alignment  3/15, found:	196.648
+Length  196/28, alignment  3/15, fail:	295.344
+Length  196/28, alignment  9/ 0, found:	198.238
+Length  196/28, alignment  9/ 0, fail:	296.14
+Length  196/28, alignment  9/ 3, found:	197.075
+Length  196/28, alignment  9/ 3, fail:	293.97
+Length  196/28, alignment  9/ 9, found:	198.257
+Length  196/28, alignment  9/ 9, fail:	295.343
+Length  196/28, alignment  9/15, found:	198.234
+Length  196/28, alignment  9/15, fail:	296.812
+Length  196/28, alignment 15/ 0, found:	195.415
+Length  196/28, alignment 15/ 0, fail:	295.876
+Length  196/28, alignment 15/ 3, found:	198.372
+Length  196/28, alignment 15/ 3, fail:	296.562
+Length  196/28, alignment 15/ 9, found:	197.416
+Length  196/28, alignment 15/ 9, fail:	295.591
+Length  196/28, alignment 15/15, found:	197.504
+Length  196/28, alignment 15/15, fail:	296.198
+Length  116/29, alignment  0/ 0, found:	159.241
+Length  116/29, alignment  0/ 0, fail:	214.955
+Length  116/29, alignment  0/ 3, found:	157.132
+Length  116/29, alignment  0/ 3, fail:	215.696
+Length  116/29, alignment  0/ 9, found:	156.08
+Length  116/29, alignment  0/ 9, fail:	215.641
+Length  116/29, alignment  0/15, found:	155.961
+Length  116/29, alignment  0/15, fail:	214.665
+Length  116/29, alignment  3/ 0, found:	158.916
+Length  116/29, alignment  3/ 0, fail:	212.553
+Length  116/29, alignment  3/ 3, found:	158.86
+Length  116/29, alignment  3/ 3, fail:	213.988
+Length  116/29, alignment  3/ 9, found:	156.676
+Length  116/29, alignment  3/ 9, fail:	215.677
+Length  116/29, alignment  3/15, found:	155.293
+Length  116/29, alignment  3/15, fail:	216.649
+Length  116/29, alignment  9/ 0, found:	157.823
+Length  116/29, alignment  9/ 0, fail:	214.15
+Length  116/29, alignment  9/ 3, found:	158.725
+Length  116/29, alignment  9/ 3, fail:	214.299
+Length  116/29, alignment  9/ 9, found:	156.727
+Length  116/29, alignment  9/ 9, fail:	215.85
+Length  116/29, alignment  9/15, found:	156.034
+Length  116/29, alignment  9/15, fail:	217.02
+Length  116/29, alignment 15/ 0, found:	157.247
+Length  116/29, alignment 15/ 0, fail:	219.747
+Length  116/29, alignment 15/ 3, found:	159.58
+Length  116/29, alignment 15/ 3, fail:	214.347
+Length  116/29, alignment 15/ 9, found:	157.464
+Length  116/29, alignment 15/ 9, fail:	216.042
+Length  116/29, alignment 15/15, found:	155.991
+Length  116/29, alignment 15/15, fail:	215.846
+Length  145/29, alignment  0/ 0, found:	172.405
+Length  145/29, alignment  0/ 0, fail:	242.818
+Length  145/29, alignment  0/ 3, found:	173.094
+Length  145/29, alignment  0/ 3, fail:	243.93
+Length  145/29, alignment  0/ 9, found:	170.307
+Length  145/29, alignment  0/ 9, fail:	243.827
+Length  145/29, alignment  0/15, found:	173.4
+Length  145/29, alignment  0/15, fail:	242.837
+Length  145/29, alignment  3/ 0, found:	171.882
+Length  145/29, alignment  3/ 0, fail:	243.895
+Length  145/29, alignment  3/ 3, found:	170.65
+Length  145/29, alignment  3/ 3, fail:	243.93
+Length  145/29, alignment  3/ 9, found:	173.22
+Length  145/29, alignment  3/ 9, fail:	242.581
+Length  145/29, alignment  3/15, found:	171.916
+Length  145/29, alignment  3/15, fail:	244.512
+Length  145/29, alignment  9/ 0, found:	173.133
+Length  145/29, alignment  9/ 0, fail:	242.277
+Length  145/29, alignment  9/ 3, found:	173.555
+Length  145/29, alignment  9/ 3, fail:	243.843
+Length  145/29, alignment  9/ 9, found:	170.025
+Length  145/29, alignment  9/ 9, fail:	243.947
+Length  145/29, alignment  9/15, found:	173.946
+Length  145/29, alignment  9/15, fail:	242.85
+Length  145/29, alignment 15/ 0, found:	171.661
+Length  145/29, alignment 15/ 0, fail:	243.823
+Length  145/29, alignment 15/ 3, found:	170.092
+Length  145/29, alignment 15/ 3, fail:	244.033
+Length  145/29, alignment 15/ 9, found:	173.417
+Length  145/29, alignment 15/ 9, fail:	242.581
+Length  145/29, alignment 15/15, found:	171.888
+Length  145/29, alignment 15/15, fail:	244.623
+Length  174/29, alignment  0/ 0, found:	187.13
+Length  174/29, alignment  0/ 0, fail:	274.523
+Length  174/29, alignment  0/ 3, found:	186.755
+Length  174/29, alignment  0/ 3, fail:	274.289
+Length  174/29, alignment  0/ 9, found:	186.902
+Length  174/29, alignment  0/ 9, fail:	274.831
+Length  174/29, alignment  0/15, found:	187.325
+Length  174/29, alignment  0/15, fail:	274.753
+Length  174/29, alignment  3/ 0, found:	188.296
+Length  174/29, alignment  3/ 0, fail:	273.305
+Length  174/29, alignment  3/ 3, found:	186.818
+Length  174/29, alignment  3/ 3, fail:	274.393
+Length  174/29, alignment  3/ 9, found:	188.932
+Length  174/29, alignment  3/ 9, fail:	273.667
+Length  174/29, alignment  3/15, found:	185.529
+Length  174/29, alignment  3/15, fail:	274.688
+Length  174/29, alignment  9/ 0, found:	188.544
+Length  174/29, alignment  9/ 0, fail:	273.772
+Length  174/29, alignment  9/ 3, found:	185.556
+Length  174/29, alignment  9/ 3, fail:	274.982
+Length  174/29, alignment  9/ 9, found:	189.27
+Length  174/29, alignment  9/ 9, fail:	274.672
+Length  174/29, alignment  9/15, found:	185.593
+Length  174/29, alignment  9/15, fail:	274.565
+Length  174/29, alignment 15/ 0, found:	188.715
+Length  174/29, alignment 15/ 0, fail:	274.049
+Length  174/29, alignment 15/ 3, found:	187.445
+Length  174/29, alignment 15/ 3, fail:	272.708
+Length  174/29, alignment 15/ 9, found:	188.437
+Length  174/29, alignment 15/ 9, fail:	273.949
+Length  174/29, alignment 15/15, found:	187.345
+Length  174/29, alignment 15/15, fail:	272.897
+Length  203/29, alignment  0/ 0, found:	203.116
+Length  203/29, alignment  0/ 0, fail:	340.784
+Length  203/29, alignment  0/ 3, found:	202.89
+Length  203/29, alignment  0/ 3, fail:	341.23
+Length  203/29, alignment  0/ 9, found:	201.453
+Length  203/29, alignment  0/ 9, fail:	341.896
+Length  203/29, alignment  0/15, found:	202.115
+Length  203/29, alignment  0/15, fail:	340.752
+Length  203/29, alignment  3/ 0, found:	201.633
+Length  203/29, alignment  3/ 0, fail:	340.442
+Length  203/29, alignment  3/ 3, found:	202.774
+Length  203/29, alignment  3/ 3, fail:	340.509
+Length  203/29, alignment  3/ 9, found:	202.855
+Length  203/29, alignment  3/ 9, fail:	341.955
+Length  203/29, alignment  3/15, found:	202.036
+Length  203/29, alignment  3/15, fail:	347.584
+Length  203/29, alignment  9/ 0, found:	201.618
+Length  203/29, alignment  9/ 0, fail:	339.786
+Length  203/29, alignment  9/ 3, found:	201.347
+Length  203/29, alignment  9/ 3, fail:	341.689
+Length  203/29, alignment  9/ 9, found:	203.053
+Length  203/29, alignment  9/ 9, fail:	341.223
+Length  203/29, alignment  9/15, found:	203.947
+Length  203/29, alignment  9/15, fail:	341.086
+Length  203/29, alignment 15/ 0, found:	201.499
+Length  203/29, alignment 15/ 0, fail:	344.017
+Length  203/29, alignment 15/ 3, found:	200.341
+Length  203/29, alignment 15/ 3, fail:	341.427
+Length  203/29, alignment 15/ 9, found:	201.175
+Length  203/29, alignment 15/ 9, fail:	341.636
+Length  203/29, alignment 15/15, found:	202.836
+Length  203/29, alignment 15/15, fail:	341.629
+Length  120/30, alignment  0/ 0, found:	162.36
+Length  120/30, alignment  0/ 0, fail:	217.642
+Length  120/30, alignment  0/ 3, found:	162.224
+Length  120/30, alignment  0/ 3, fail:	220.3
+Length  120/30, alignment  0/ 9, found:	159.39
+Length  120/30, alignment  0/ 9, fail:	220.507
+Length  120/30, alignment  0/15, found:	161.108
+Length  120/30, alignment  0/15, fail:	219.384
+Length  120/30, alignment  3/ 0, found:	162.185
+Length  120/30, alignment  3/ 0, fail:	219.065
+Length  120/30, alignment  3/ 3, found:	160.456
+Length  120/30, alignment  3/ 3, fail:	220.416
+Length  120/30, alignment  3/ 9, found:	159.221
+Length  120/30, alignment  3/ 9, fail:	220.584
+Length  120/30, alignment  3/15, found:	160.945
+Length  120/30, alignment  3/15, fail:	219.402
+Length  120/30, alignment  9/ 0, found:	162.289
+Length  120/30, alignment  9/ 0, fail:	219.124
+Length  120/30, alignment  9/ 3, found:	160.468
+Length  120/30, alignment  9/ 3, fail:	220.542
+Length  120/30, alignment  9/ 9, found:	159.171
+Length  120/30, alignment  9/ 9, fail:	220.362
+Length  120/30, alignment  9/15, found:	160.875
+Length  120/30, alignment  9/15, fail:	218.973
+Length  120/30, alignment 15/ 0, found:	163.046
+Length  120/30, alignment 15/ 0, fail:	219.286
+Length  120/30, alignment 15/ 3, found:	160.811
+Length  120/30, alignment 15/ 3, fail:	226.15
+Length  120/30, alignment 15/ 9, found:	159.184
+Length  120/30, alignment 15/ 9, fail:	220.82
+Length  120/30, alignment 15/15, found:	160.995
+Length  120/30, alignment 15/15, fail:	218.93
+Length  150/30, alignment  0/ 0, found:	177.92
+Length  150/30, alignment  0/ 0, fail:	251.71
+Length  150/30, alignment  0/ 3, found:	174.234
+Length  150/30, alignment  0/ 3, fail:	264.676
+Length  150/30, alignment  0/ 9, found:	178.373
+Length  150/30, alignment  0/ 9, fail:	250.21
+Length  150/30, alignment  0/15, found:	176.853
+Length  150/30, alignment  0/15, fail:	251.461
+Length  150/30, alignment  3/ 0, found:	175.872
+Length  150/30, alignment  3/ 0, fail:	251.332
+Length  150/30, alignment  3/ 3, found:	175.414
+Length  150/30, alignment  3/ 3, fail:	251.195
+Length  150/30, alignment  3/ 9, found:	175.799
+Length  150/30, alignment  3/ 9, fail:	249.624
+Length  150/30, alignment  3/15, found:	177.874
+Length  150/30, alignment  3/15, fail:	251.269
+Length  150/30, alignment  9/ 0, found:	174.123
+Length  150/30, alignment  9/ 0, fail:	252.312
+Length  150/30, alignment  9/ 3, found:	177.303
+Length  150/30, alignment  9/ 3, fail:	250.042
+Length  150/30, alignment  9/ 9, found:	175.441
+Length  150/30, alignment  9/ 9, fail:	251.847
+Length  150/30, alignment  9/15, found:	175.795
+Length  150/30, alignment  9/15, fail:	249.621
+Length  150/30, alignment 15/ 0, found:	177.174
+Length  150/30, alignment 15/ 0, fail:	252.996
+Length  150/30, alignment 15/ 3, found:	174.615
+Length  150/30, alignment 15/ 3, fail:	252.863
+Length  150/30, alignment 15/ 9, found:	195.363
+Length  150/30, alignment 15/ 9, fail:	260.385
+Length  150/30, alignment 15/15, found:	174.263
+Length  150/30, alignment 15/15, fail:	255.763
+Length  180/30, alignment  0/ 0, found:	196.161
+Length  180/30, alignment  0/ 0, fail:	287.943
+Length  180/30, alignment  0/ 3, found:	192.666
+Length  180/30, alignment  0/ 3, fail:	286.845
+Length  180/30, alignment  0/ 9, found:	197.889
+Length  180/30, alignment  0/ 9, fail:	283.171
+Length  180/30, alignment  0/15, found:	196.958
+Length  180/30, alignment  0/15, fail:	284.998
+Length  180/30, alignment  3/ 0, found:	191.751
+Length  180/30, alignment  3/ 0, fail:	281.503
+Length  180/30, alignment  3/ 3, found:	192.301
+Length  180/30, alignment  3/ 3, fail:	280.317
+Length  180/30, alignment  3/ 9, found:	189.126
+Length  180/30, alignment  3/ 9, fail:	281.294
+Length  180/30, alignment  3/15, found:	192.93
+Length  180/30, alignment  3/15, fail:	281.574
+Length  180/30, alignment  9/ 0, found:	189.16
+Length  180/30, alignment  9/ 0, fail:	281.324
+Length  180/30, alignment  9/ 3, found:	192.182
+Length  180/30, alignment  9/ 3, fail:	281.367
+Length  180/30, alignment  9/ 9, found:	190.967
+Length  180/30, alignment  9/ 9, fail:	282.14
+Length  180/30, alignment  9/15, found:	190.472
+Length  180/30, alignment  9/15, fail:	281.544
+Length  180/30, alignment 15/ 0, found:	192.261
+Length  180/30, alignment 15/ 0, fail:	279.943
+Length  180/30, alignment 15/ 3, found:	190.518
+Length  180/30, alignment 15/ 3, fail:	281.33
+Length  180/30, alignment 15/ 9, found:	192.87
+Length  180/30, alignment 15/ 9, fail:	281.635
+Length  180/30, alignment 15/15, found:	189.127
+Length  180/30, alignment 15/15, fail:	281.546
+Length  210/30, alignment  0/ 0, found:	208.448
+Length  210/30, alignment  0/ 0, fail:	348.01
+Length  210/30, alignment  0/ 3, found:	209.227
+Length  210/30, alignment  0/ 3, fail:	350.5
+Length  210/30, alignment  0/ 9, found:	207.068
+Length  210/30, alignment  0/ 9, fail:	350.655
+Length  210/30, alignment  0/15, found:	235.327
+Length  210/30, alignment  0/15, fail:	352.145
+Length  210/30, alignment  3/ 0, found:	234.354
+Length  210/30, alignment  3/ 0, fail:	351.604
+Length  210/30, alignment  3/ 3, found:	235.123
+Length  210/30, alignment  3/ 3, fail:	350.999
+Length  210/30, alignment  3/ 9, found:	233.417
+Length  210/30, alignment  3/ 9, fail:	357.366
+Length  210/30, alignment  3/15, found:	235.235
+Length  210/30, alignment  3/15, fail:	351.824
+Length  210/30, alignment  9/ 0, found:	234.894
+Length  210/30, alignment  9/ 0, fail:	350.765
+Length  210/30, alignment  9/ 3, found:	234.789
+Length  210/30, alignment  9/ 3, fail:	349.904
+Length  210/30, alignment  9/ 9, found:	237.798
+Length  210/30, alignment  9/ 9, fail:	350.487
+Length  210/30, alignment  9/15, found:	236.947
+Length  210/30, alignment  9/15, fail:	349.072
+Length  210/30, alignment 15/ 0, found:	236.469
+Length  210/30, alignment 15/ 0, fail:	348.473
+Length  210/30, alignment 15/ 3, found:	235.531
+Length  210/30, alignment 15/ 3, fail:	350.356
+Length  210/30, alignment 15/ 9, found:	235.048
+Length  210/30, alignment 15/ 9, fail:	349.918
+Length  210/30, alignment 15/15, found:	235.797
+Length  210/30, alignment 15/15, fail:	349.883
+Length  124/31, alignment  0/ 0, found:	164.891
+Length  124/31, alignment  0/ 0, fail:	225.685
+Length  124/31, alignment  0/ 3, found:	166.445
+Length  124/31, alignment  0/ 3, fail:	225.386
+Length  124/31, alignment  0/ 9, found:	165.152
+Length  124/31, alignment  0/ 9, fail:	227.11
+Length  124/31, alignment  0/15, found:	163.098
+Length  124/31, alignment  0/15, fail:	227.053
+Length  124/31, alignment  3/ 0, found:	167.125
+Length  124/31, alignment  3/ 0, fail:	225.694
+Length  124/31, alignment  3/ 3, found:	164.787
+Length  124/31, alignment  3/ 3, fail:	227.06
+Length  124/31, alignment  3/ 9, found:	163.254
+Length  124/31, alignment  3/ 9, fail:	226.618
+Length  124/31, alignment  3/15, found:	165.948
+Length  124/31, alignment  3/15, fail:	225.33
+Length  124/31, alignment  9/ 0, found:	166.188
+Length  124/31, alignment  9/ 0, fail:	225.215
+Length  124/31, alignment  9/ 3, found:	164.5
+Length  124/31, alignment  9/ 3, fail:	225.912
+Length  124/31, alignment  9/ 9, found:	165.107
+Length  124/31, alignment  9/ 9, fail:	235.322
+Length  124/31, alignment  9/15, found:	167.18
+Length  124/31, alignment  9/15, fail:	225.722
+Length  124/31, alignment 15/ 0, found:	164.539
+Length  124/31, alignment 15/ 0, fail:	226.934
+Length  124/31, alignment 15/ 3, found:	163.185
+Length  124/31, alignment 15/ 3, fail:	227.598
+Length  124/31, alignment 15/ 9, found:	166.964
+Length  124/31, alignment 15/ 9, fail:	225.699
+Length  124/31, alignment 15/15, found:	164.672
+Length  124/31, alignment 15/15, fail:	226.161
+Length  155/31, alignment  0/ 0, found:	179.1
+Length  155/31, alignment  0/ 0, fail:	258.945
+Length  155/31, alignment  0/ 3, found:	181.979
+Length  155/31, alignment  0/ 3, fail:	257.331
+Length  155/31, alignment  0/ 9, found:	180.937
+Length  155/31, alignment  0/ 9, fail:	259.628
+Length  155/31, alignment  0/15, found:	181.899
+Length  155/31, alignment  0/15, fail:	257.69
+Length  155/31, alignment  3/ 0, found:	180.271
+Length  155/31, alignment  3/ 0, fail:	258.938
+Length  155/31, alignment  3/ 3, found:	180.659
+Length  155/31, alignment  3/ 3, fail:	259.215
+Length  155/31, alignment  3/ 9, found:	180.818
+Length  155/31, alignment  3/ 9, fail:	259.053
+Length  155/31, alignment  3/15, found:	180.606
+Length  155/31, alignment  3/15, fail:	257.384
+Length  155/31, alignment  9/ 0, found:	181.938
+Length  155/31, alignment  9/ 0, fail:	259.035
+Length  155/31, alignment  9/ 3, found:	179.012
+Length  155/31, alignment  9/ 3, fail:	259.723
+Length  155/31, alignment  9/ 9, found:	182.065
+Length  155/31, alignment  9/ 9, fail:	259.177
+Length  155/31, alignment  9/15, found:	178.959
+Length  155/31, alignment  9/15, fail:	258.881
+Length  155/31, alignment 15/ 0, found:	181.778
+Length  155/31, alignment 15/ 0, fail:	257.607
+Length  155/31, alignment 15/ 3, found:	180.84
+Length  155/31, alignment 15/ 3, fail:	258.914
+Length  155/31, alignment 15/ 9, found:	181.911
+Length  155/31, alignment 15/ 9, fail:	258.474
+Length  155/31, alignment 15/15, found:	180.591
+Length  155/31, alignment 15/15, fail:	258.93
+Length  186/31, alignment  0/ 0, found:	198.818
+Length  186/31, alignment  0/ 0, fail:	288.748
+Length  186/31, alignment  0/ 3, found:	196.152
+Length  186/31, alignment  0/ 3, fail:	296.944
+Length  186/31, alignment  0/ 9, found:	199.423
+Length  186/31, alignment  0/ 9, fail:	290.061
+Length  186/31, alignment  0/15, found:	196.991
+Length  186/31, alignment  0/15, fail:	290.156
+Length  186/31, alignment  3/ 0, found:	197.164
+Length  186/31, alignment  3/ 0, fail:	290.444
+Length  186/31, alignment  3/ 3, found:	198.447
+Length  186/31, alignment  3/ 3, fail:	291.116
+Length  186/31, alignment  3/ 9, found:	195.068
+Length  186/31, alignment  3/ 9, fail:	290.525
+Length  186/31, alignment  3/15, found:	199.076
+Length  186/31, alignment  3/15, fail:	289.834
+Length  186/31, alignment  9/ 0, found:	197.928
+Length  186/31, alignment  9/ 0, fail:	291.099
+Length  186/31, alignment  9/ 3, found:	196.435
+Length  186/31, alignment  9/ 3, fail:	290.591
+Length  186/31, alignment  9/ 9, found:	198.71
+Length  186/31, alignment  9/ 9, fail:	289.861
+Length  186/31, alignment  9/15, found:	195.047
+Length  186/31, alignment  9/15, fail:	289.92
+Length  186/31, alignment 15/ 0, found:	197.95
+Length  186/31, alignment 15/ 0, fail:	289.846
+Length  186/31, alignment 15/ 3, found:	196.751
+Length  186/31, alignment 15/ 3, fail:	290.698
+Length  186/31, alignment 15/ 9, found:	196.499
+Length  186/31, alignment 15/ 9, fail:	291.355
+Length  186/31, alignment 15/15, found:	198.692
+Length  186/31, alignment 15/15, fail:	289.856
+Length  217/31, alignment  0/ 0, found:	211.277
+Length  217/31, alignment  0/ 0, fail:	319.993
+Length  217/31, alignment  0/ 3, found:	211.5
+Length  217/31, alignment  0/ 3, fail:	319.598
+Length  217/31, alignment  0/ 9, found:	212.556
+Length  217/31, alignment  0/ 9, fail:	319.722
+Length  217/31, alignment  0/15, found:	213.675
+Length  217/31, alignment  0/15, fail:	320.657
+Length  217/31, alignment  3/ 0, found:	211.381
+Length  217/31, alignment  3/ 0, fail:	320.596
+Length  217/31, alignment  3/ 3, found:	213.01
+Length  217/31, alignment  3/ 3, fail:	319.786
+Length  217/31, alignment  3/ 9, found:	212.44
+Length  217/31, alignment  3/ 9, fail:	320.502
+Length  217/31, alignment  3/15, found:	212.543
+Length  217/31, alignment  3/15, fail:	319.698
+Length  217/31, alignment  9/ 0, found:	211.613
+Length  217/31, alignment  9/ 0, fail:	321.103
+Length  217/31, alignment  9/ 3, found:	209.762
+Length  217/31, alignment  9/ 3, fail:	320.219
+Length  217/31, alignment  9/ 9, found:	212.524
+Length  217/31, alignment  9/ 9, fail:	319.564
+Length  217/31, alignment  9/15, found:	212.615
+Length  217/31, alignment  9/15, fail:	319.476
+Length  217/31, alignment 15/ 0, found:	211.331
+Length  217/31, alignment 15/ 0, fail:	321.283
+Length  217/31, alignment 15/ 3, found:	209.602
+Length  217/31, alignment 15/ 3, fail:	321.21
+Length  217/31, alignment 15/ 9, found:	210.962
+Length  217/31, alignment 15/ 9, fail:	319.421
+Length  217/31, alignment 15/15, found:	212.469
+Length  217/31, alignment 15/15, fail:	320.294
+Length 8191/16, alignment  0/ 0, found:	4259.57
+Length 8191/16, alignment  0/ 0, fail:	8401.52

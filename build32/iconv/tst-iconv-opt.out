@@ -1,0 +1,3 @@
+error: xsetlocale.c:28: error: setlocale (6, "en_US.UTF-8")
+
+error: 1 test failures

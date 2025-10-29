@@ -1,0 +1,2 @@
+error: tst-bz13988.c:32: setlocale (LC_ALL, "fa_IR.UTF-8")
+error: 1 test failures

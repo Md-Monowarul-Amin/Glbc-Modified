@@ -6,7 +6,7 @@ release = development
 
 # Installation prefixes.
 install_root = $(DESTDIR)
-prefix = /home/saraj/glibc-custom-32
+prefix = /opt/glibc-custom
 exec_prefix = ${prefix}
 datadir = ${datarootdir}
 libdir = ${exec_prefix}/lib
@@ -47,10 +47,10 @@ defines =
 sysheaders = 
 sysincludes = 
 c++-sysincludes = 
-c++-cstdlib-header = 
-c++-cmath-header = 
-c++-bits-std_abs-h = 
-enable-werror = no
+c++-cstdlib-header = /usr/include/c++/12/cstdlib
+c++-cmath-header = /usr/include/c++/12/cmath
+c++-bits-std_abs-h = /usr/include/c++/12/bits/std_abs.h
+enable-werror = yes
 
 have-z-execstack = yes
 have-no-error-execstack = no
@@ -71,7 +71,7 @@ have-libaudit =
 have-libcap = 
 have-cc-with-libunwind = no
 bind-now = no
-have-cxx-thread_local = no
+have-cxx-thread_local = yes
 have-loop-to-function = yes
 have-textrel_ifunc = yes
 
@@ -96,7 +96,7 @@ man-pages-version = 6.9.1
 
 # Build tools.
 CC = gcc-12 -m32
-CXX = 
+CXX = g++-12 -m32
 BUILD_CC = 
 CFLAGS = -g -O2
 CPPFLAGS-config = 
@@ -165,9 +165,9 @@ have-test-cc-trampoline = yes
 test-config-cflags-wno-restrict = -Wno-restrict
 test-config-cflags-wno-fortify-source = -Wno-fortify-source
 test-config-cflags-finput-charset-ascii = -finput-charset=ascii
-test-config-cxxflags-finput-charset-ascii = 
-have-test-stb-gnu-unique = no
-supported-fortify = 2
+test-config-cxxflags-finput-charset-ascii = -finput-charset=ascii
+have-test-stb-gnu-unique = yes
+supported-fortify = 3
 no-file-offset-bits-source = 
 no-time-bits-source = 
 aligned-65536 = yes
@@ -189,5 +189,5 @@ have-test-cc-gcs = no
 have-ld-gcs = no
 build-pie-default = yes
 enable-static-pie = yes
-have-libgcc_s = no
+have-libgcc_s = yes
 enable-gsframe = no

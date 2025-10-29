@@ -1,0 +1,8 @@
+new locale: C
+n = -1, errno = 84 (Invalid or incomplete multibyte or wide character)
+
+could not set locale "de_DE.ISO-8859-1"
+could not set locale "de_DE.UTF-8"
+could not set locale "en_US.ANSI_X3.4-1968"
+could not set locale "ja_JP.EUC-JP"
+could not set locale "hr_HR.ISO-8859-2"

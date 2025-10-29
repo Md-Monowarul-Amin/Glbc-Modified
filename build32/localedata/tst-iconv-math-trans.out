@@ -1,0 +1,2 @@
+error: tst-iconv-math-trans.c:61: setlocale failed
+error: 1 test failures

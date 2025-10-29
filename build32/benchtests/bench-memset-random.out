@@ -1,0 +1,34 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "memset": {
+   "bench-variant": "random",
+   "ifuncs": ["__memset_sse2_rep", "__memset_sse2", "__memset_ia32"],
+   "results": [
+    {
+     "length": 32768,
+     "timings": [813371, 789713, 969692]
+    },
+    {
+     "length": 65536,
+     "timings": [781435, 772811, 951321]
+    },
+    {
+     "length": 131072,
+     "timings": [777663, 789213, 925240]
+    },
+    {
+     "length": 262144,
+     "timings": [746027, 781136, 975049]
+    },
+    {
+     "length": 524288,
+     "timings": [805824, 806563, 959404]
+    },
+    {
+     "length": 1048576,
+     "timings": [763143, 782722, 993282]
+    }]
+  }
+ }
+}

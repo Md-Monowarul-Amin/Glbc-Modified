@@ -1,0 +1,162 @@
+:: langinfo.h
+::::
+:::: #define _FORTIFY_SOURCE 1
+:::: #define _FORTIFY_SOURCE 2
+:::: #define _FORTIFY_SOURCE 3
+:::: -D_DEFAULT_SOURCE=1
+:::: -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -D_GNU_SOURCE=1
+:::: -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -D_XOPEN_SOURCE=700
+:::: -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=c++98
+:::: -std=c++98 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 #define _FORTIFY_SOURCE 3
+:::: -std=c++98 -D_DEFAULT_SOURCE=1
+:::: -std=c++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++98 -D_GNU_SOURCE=1
+:::: -std=c++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++98 -D_XOPEN_SOURCE=700
+:::: -std=c++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98
+:::: -std=gnu++98 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98 -D_GNU_SOURCE=1
+:::: -std=gnu++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=c++11
+:::: -std=c++11 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 #define _FORTIFY_SOURCE 3
+:::: -std=c++11 -D_DEFAULT_SOURCE=1
+:::: -std=c++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++11 -D_GNU_SOURCE=1
+:::: -std=c++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++11 -D_XOPEN_SOURCE=700
+:::: -std=c++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11
+:::: -std=gnu++11 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11 -D_GNU_SOURCE=1
+:::: -std=gnu++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:: locale.h
+::::
+:::: #define _FORTIFY_SOURCE 1
+:::: #define _FORTIFY_SOURCE 2
+:::: #define _FORTIFY_SOURCE 3
+:::: -D_DEFAULT_SOURCE=1
+:::: -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -D_GNU_SOURCE=1
+:::: -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -D_XOPEN_SOURCE=700
+:::: -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=c++98
+:::: -std=c++98 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 #define _FORTIFY_SOURCE 3
+:::: -std=c++98 -D_DEFAULT_SOURCE=1
+:::: -std=c++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++98 -D_GNU_SOURCE=1
+:::: -std=c++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++98 -D_XOPEN_SOURCE=700
+:::: -std=c++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=c++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=c++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98
+:::: -std=gnu++98 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98 -D_GNU_SOURCE=1
+:::: -std=gnu++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++98 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=c++11
+:::: -std=c++11 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 #define _FORTIFY_SOURCE 3
+:::: -std=c++11 -D_DEFAULT_SOURCE=1
+:::: -std=c++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++11 -D_GNU_SOURCE=1
+:::: -std=c++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=c++11 -D_XOPEN_SOURCE=700
+:::: -std=c++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=c++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=c++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11
+:::: -std=gnu++11 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 -D_DEFAULT_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11 -D_GNU_SOURCE=1
+:::: -std=gnu++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 -D_GNU_SOURCE=1 #define _FORTIFY_SOURCE 3
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 1
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 2
+:::: -std=gnu++11 -D_XOPEN_SOURCE=700 #define _FORTIFY_SOURCE 3

@@ -341,10 +341,11 @@ typedef struct malloc_state *mstate;
    larger pages provide less entropy, although the pointer mangling
    still works.  */
 #define PROTECT_PTR(pos, ptr) \
-    ({ \
-    fprintf(stdout, "You are inside PROTECT_PTR\n"); \
+({ \
+    /* Debug print: disabled for now */ \
+    /* fprintf(stdout, "You are inside PROTECT_PTR\n"); */ \
     (__typeof__(ptr)) ((((size_t)(pos)) >> 12) ^ ((size_t)(ptr))); \
-  })
+})
 #define REVEAL_PTR(ptr)  PROTECT_PTR (&ptr, ptr)
 
 /*
@@ -3302,7 +3303,7 @@ static __always_inline void
 tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
 {
   tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
-  trie_insert_address(trie_av, e->next);
+  trie_insert_address(trie_av, (uintptr_t) e->next);
   /* Mark this chunk as "in the tcache" so the test in __libc_free will
      detect a double free.  */
   e->key = tcache_key;
@@ -3317,7 +3318,7 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
       e->next = PROTECT_PTR (&e->next, REVEAL_PTR (*ep));
       *ep = PROTECT_PTR (ep, e);
     }
-  trie_insert_address(trie_av, e->next);
+  trie_insert_address(trie_av, (uintptr_t)e->next);
   --(tcache->num_slots[tc_idx]);
 }
 

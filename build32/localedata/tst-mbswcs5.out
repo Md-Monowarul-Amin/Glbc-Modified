@@ -1,0 +1,6 @@
+used locale: "C"
+wcrtomb (dst, *src++, &state) -> 1, dst = buf+1
+wcrtomb (dst, *src++, &state) -> 4294967295, dst = buf+0, expected 3 and buf+4
+wcrtomb (dst, *src++, &state) -> 4294967295, dst = buf+-1, expected 2 and buf+6
+wcrtomb (dst, *src, &state) -> 1, dst = buf+0, expected 1 and buf+7
+wrong results

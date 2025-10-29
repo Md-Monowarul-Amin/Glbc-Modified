@@ -1,0 +1,100 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "memset": {
+   "bench-variant": "large",
+   "ifuncs": ["generic_memset", "__memset_sse2_rep", "__memset_sse2", "__memset_ia32"],
+   "results": [
+    {
+     "length": 65536,
+     "alignment": 0,
+     "timings": [19460.7, 4266.48, 5665.82, 4153.69]
+    },
+    {
+     "length": 65536,
+     "alignment": 3,
+     "timings": [18246.1, 4930.85, 5248.76, 4965.86]
+    },
+    {
+     "length": 131072,
+     "alignment": 0,
+     "timings": [37162.2, 8752.14, 11126.7, 8309.44]
+    },
+    {
+     "length": 131072,
+     "alignment": 3,
+     "timings": [38143.1, 9932.62, 10820.2, 9721.36]
+    },
+    {
+     "length": 262144,
+     "alignment": 0,
+     "timings": [77801.3, 18192, 23360.6, 18278.3]
+    },
+    {
+     "length": 262144,
+     "alignment": 3,
+     "timings": [78347.1, 19723, 23734, 20282.4]
+    },
+    {
+     "length": 524288,
+     "alignment": 0,
+     "timings": [158498, 36410, 50299.4, 37139.1]
+    },
+    {
+     "length": 524288,
+     "alignment": 3,
+     "timings": [158742, 40868.7, 51061.1, 40315.2]
+    },
+    {
+     "length": 1048576,
+     "alignment": 0,
+     "timings": [319567, 76368.6, 101169, 75020.2]
+    },
+    {
+     "length": 1048576,
+     "alignment": 3,
+     "timings": [324051, 85087, 103847, 82168.3]
+    },
+    {
+     "length": 2097152,
+     "alignment": 0,
+     "timings": [638611, 156579, 206650, 152230]
+    },
+    {
+     "length": 2097152,
+     "alignment": 3,
+     "timings": [636556, 167724, 201702, 169128]
+    },
+    {
+     "length": 4194304,
+     "alignment": 0,
+     "timings": [1.2831e+06, 311087, 401230, 318264]
+    },
+    {
+     "length": 4194304,
+     "alignment": 3,
+     "timings": [1.28469e+06, 344448, 403370, 347184]
+    },
+    {
+     "length": 8388608,
+     "alignment": 0,
+     "timings": [2.71087e+06, 1.02955e+06, 1.17137e+06, 1.01715e+06]
+    },
+    {
+     "length": 8388608,
+     "alignment": 3,
+     "timings": [2.64682e+06, 1.10854e+06, 1.15759e+06, 1.10049e+06]
+    },
+    {
+     "length": 16777216,
+     "alignment": 0,
+     "timings": [5.48487e+06, 2.49671e+06, 2.98242e+06, 2.4994e+06]
+    },
+    {
+     "length": 16777216,
+     "alignment": 3,
+     "timings": [5.4294e+06, 2.65821e+06, 2.94219e+06, 2.65832e+06]
+    }]
+  }
+ }
+}

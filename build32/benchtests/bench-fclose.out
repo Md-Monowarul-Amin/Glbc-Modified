@@ -2,16 +2,9 @@
  "timing_type": "hp_timing",
  "functions": {
   "fclose": {
-You are inside PROTECT_PTR
-You are inside PROTECT_PTR
-You are inside PROTECT_PTR
-You are inside PROTECT_PTR
-You are inside PROTECT_PTR
-You are inside PROTECT_PTR
-You are inside PROTECT_PTR
    "number of FILEs": 1000000,
    "number of fclose calls": 100,
-   "duration": 96576
+   "duration": 95410
   }
  }
 }

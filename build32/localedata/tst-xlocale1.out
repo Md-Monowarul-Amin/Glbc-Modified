@@ -1,0 +1,6 @@
+
+strcasecmp_l ("TRANSLIT", "translit", loc)
+cannot set locale "de_DE.ISO-8859-1": No such file or directory
+cannot set locale "de_DE.ISO-8859-1": No such file or directory
+cannot set locale "de_DE.UTF-8": No such file or directory
+cannot set locale "de_DE.ISO-8859-1": No such file or directory

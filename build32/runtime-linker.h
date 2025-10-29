@@ -1,1 +1,1 @@
-#define RUNTIME_LINKER "/home/saraj/glibc-custom-32/lib/ld-linux.so.2"
+#define RUNTIME_LINKER "/opt/glibc-custom/lib/ld-linux.so.2"

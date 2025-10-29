@@ -1,0 +1,2 @@
+error: tst-iconv-emojis-trans.c:74: setlocale failed
+error: 1 test failures

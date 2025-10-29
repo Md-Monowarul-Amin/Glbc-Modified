@@ -1,0 +1,72 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "wcrtomb": {
+   "ar_SA.UTF-8": {
+    "max": 620230,
+    "min": 7848,
+    "mean": 8136
+   },
+   "cs_CZ.UTF-8": {
+    "max": 90330,
+    "min": 10080,
+    "mean": 10672
+   },
+   "el_GR.UTF-8": {
+    "max": 59810,
+    "min": 6738,
+    "mean": 6853
+   },
+   "en_GB.UTF-8": {
+    "max": 78534,
+    "min": 10318,
+    "mean": 10553
+   },
+   "fr_FR.UTF-8": {
+    "max": 65984,
+    "min": 8844,
+    "mean": 9029
+   },
+   "he_IL.UTF-8": {
+    "max": 74332,
+    "min": 4972,
+    "mean": 5077
+   },
+   "hi_IN.UTF-8": {
+    "max": 87984,
+    "min": 9204,
+    "mean": 9420
+   },
+   "ja_JP.UTF-8": {
+    "max": 65344,
+    "min": 6388,
+    "mean": 6580
+   },
+   "ru_RU.UTF-8": {
+    "max": 90976,
+    "min": 9132,
+    "mean": 9308
+   },
+   "sr_RS.UTF-8": {
+    "max": 77074,
+    "min": 7516,
+    "mean": 7692
+   },
+   "sv_SE.UTF-8": {
+    "max": 434274,
+    "min": 7962,
+    "mean": 8171
+   },
+   "zh_CN.UTF-8": {
+    "max": 74438,
+    "min": 5520,
+    "mean": 5657
+   },
+   "en_US.UTF-8": {
+    "max": 55042,
+    "min": 4358,
+    "mean": 4555
+   }
+  }
+ }
+}

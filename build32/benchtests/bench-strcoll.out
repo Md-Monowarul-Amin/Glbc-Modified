@@ -1,0 +1,8 @@
+  "strcoll": {
+   "filelist#C": {
+    "duration": 4.18157e+08,
+    "iterations": 16,
+    "mean": 2.61348e+07
+   }Failed to set locale #en_US.UTF-8, aborting!
+
+  }

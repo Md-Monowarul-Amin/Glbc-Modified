@@ -73,3 +73,160 @@ these additional notices to be distributed.  License copyright years may be
 listed using range notation, e.g., 1996-2015, indicating that every year in
 the range, inclusive, is a copyrightable year that would otherwise be listed
 individually.
+
+
+# 🧠 Secure Malloc Enhancement using Trie-based Forward Pointer Validation
+
+## 🔍 Overview
+This project presents a **security-enhanced version of glibc’s malloc implementation**, designed to defend against **heap exploitation attacks** such as **Use-After-Free (UAF)** and **Unsafe Unlinking**.  
+
+In this modified implementation, every **forward pointer (FD)** in freed chunks is **validated using a trie-based lookup** before being dereferenced.  
+The trie acts as a **fast, memory-efficient verification structure** that ensures only legitimate chunk addresses are used, effectively **blocking arbitrary control flow hijacks** that exploit corrupted heap metadata.
+
+---
+
+## ⚙️ Key Idea
+
+In standard glibc, freed chunks are linked together through **forward (FD)** and **backward (BK)** pointers.  
+Attackers can sometimes **overwrite these pointers** to redirect execution flow, gaining arbitrary code execution.
+
+This project introduces a **Trie-based Forward Pointer Validation (TFPV)** mechanism:
+
+1. Every time a chunk is freed, its **address (FD)** is **inserted into a trie** structure.  
+2. When malloc attempts to reuse a freed chunk, the FD is **looked up in the trie**.  
+3. If the FD **does not exist** in the trie, it is treated as **invalid or malicious**, and allocation is blocked.
+
+This ensures that **only valid and previously tracked freed chunks** are reused — offering **strong runtime validation** with minimal overhead.
+
+---
+
+## 🧩 Implementation Details
+
+- The project modifies `malloc.c` inside **glibc’s malloc subsystem**.  
+- A **Trie data structure** efficiently stores and queries valid forward pointers.  
+- Each trie node corresponds to one byte of the pointer address.  
+- A **static bump allocator** manages trie nodes — avoiding recursive malloc calls.  
+- A boolean flag `is_end` marks the end of valid pointer entries.  
+- The validation logic is integrated into `sysmalloc()` and free list manipulation logic.  
+
+---
+
+## 🧠 Trie Validation Flow (Visualization)
+
+```mermaid
+flowchart TD
+    A[Free a chunk] --> B[Extract FD (Forward Pointer)]
+    B --> C[Insert FD into Trie]
+    C --> D[Trie node created for each byte of FD]
+    D --> E[Mark is_end = true at final node]
+    E --> F[Later, malloc tries to reuse a freed chunk]
+    F --> G[Check FD in Trie]
+    G -->|Found| H[✔ Valid FD → proceed safely]
+    G -->|Not Found| I[❌ Invalid FD → block allocation and raise warning]
+
+## 📁 Project Structure
+glibc_modified/
+│
+├── malloc/
+│   ├── malloc.c               # Modified malloc implementation
+│   ├── trie.c                 # Trie data structure for address validation
+│   ├── trie.h                 # Header for trie operations
+│   └── ...
+│
+├── benchtests/                # Benchmark tests for malloc/free
+│   ├── bench-malloc-simple.c
+│   ├── bench-malloc-thread.c
+│   └── ...
+│
+├── build32/ or build64/       # Compiled binaries and benchmark results
+│
+└── README.md                  # This documentation
+
+
+
+🚀 How to Build:
+
+
+#################### BUILD FOR 32 BIT Binary  ###################################
+
+A. Build your modified 32-bit glibc
+
+    Ensure multilib support is installed:
+
+sudo apt update
+sudo apt install gcc-12-multilib g++-12-multilib libc6-dev-i386
+
+Create a separate install prefix for the 32-bit glibc, e.g.:
+
+export PREFIX32=$HOME/glibc-custom-32
+
+Clean / prepare build directory:
+
+cd ~/Desktop/glibc_modified
+rm -rf build32
+mkdir build32
+cd build32
+rm -rf $HOME/glibc-custom-32
+
+
+Set environment to use 32-bit compilation and your toolchain:
+
+export PATH=$HOME/binutils-2.41/bin:$PATH
+export CC="gcc-12 -m32"
+export CXX="g++-12 -m32"
+
+Configure for 32-bit:
+
+rm -f config.cache
+glibc_cv_ld_version_ok=yes \
+  ../configure --prefix=$PREFIX32 --disable-werror
+
+Build & install:
+
+make -j$(nproc)
+make install
+
+After this you should have the 32-bit loader at:
+
+    $PREFIX32/lib/ld-linux.so.2
+
+    and the matching libc.so.6 there.
+
+
+
+
+################################## Compile for 32 bit binary ##############################
+B. Compile a 32-bit test binary that uses your custom 32-bit glibc
+
+Assuming test.c is your source:
+
+gcc-12 -m32 test.c -o test32 \
+  -Wl,--dynamic-linker=$HOME/glibc-custom-32/lib/ld-linux.so.2 \
+  -L$HOME/glibc-custom-32/lib -Wl,-rpath=$HOME/glibc-custom-32/lib
+
+This embeds:
+
+    Your custom interpreter (ld-linux.so.2)
+
+    Runtime search path so it picks up your 32-bit libc.so.6
+
+Now just run:
+
+./test32
+
+You should see your debug printf from PROTECT_PTR and the normal output.
+
+######################### Run BenchMarks ###########################
+
+inside /Desktop/glibc_modified/build32$ 
+run
+ make all
+ make bench
+
+
+ 👨‍💻 Author
+
+Md. Monowarul Amin
+Islamic University of Technology (IUT)
+email: monowarul@iut-dhaka.edu
+github-link: https://github.com/Md-Monowarul-Amin

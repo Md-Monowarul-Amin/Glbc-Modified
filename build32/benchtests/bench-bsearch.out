@@ -10,7 +10,7 @@
      "key-pattern": "descending",
      "contained": "no",
      "simple": "yes",
-     "timing": 278.148
+     "timing": 275
     },
     {
      "array-size": 100000,
@@ -18,5 +18,5 @@
      "key-pattern": "descending",
      "contained": "yes",
      "simple": "yes"Timed out: killed the child process
-Termination time: 2025-11-22T05:10:53.086103304
-Last write to standard output: 2025-11-22T05:10:44.229696959
+Termination time: 2025-11-22T06:34:17.826460751
+Last write to standard output: 2025-11-22T06:34:08.844296921

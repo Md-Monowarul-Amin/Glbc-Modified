@@ -1,8 +1,8 @@
-$(common-objpfx)benchtests/json-lib.o: \
+/home/saraj/Desktop/glibc_modified/build32/benchtests/json-lib.o: \
  json-lib.c ../include/stdc-predef.h \
- $(common-objpfx)libc-modules.h \
+ /home/saraj/Desktop/glibc_modified/build32/libc-modules.h \
  ../include/libc-symbols.h ../include/libc-misc.h \
- $(common-objpfx)config.h ../include/string.h \
+ /home/saraj/Desktop/glibc_modified/build32/config.h ../include/string.h \
  ../string/string.h ../bits/libc-header-start.h ../include/features.h \
  ../include/features-time64.h \
  ../sysdeps/unix/sysv/linux/features-time64.h \
@@ -32,10 +32,10 @@ $(common-objpfx)benchtests/json-lib.o: \
  ../sysdeps/unix/sysv/linux/bits/stdio_lim.h ../include/bits/stdio.h \
  ../libio/bits/stdio.h
 ../include/stdc-predef.h:
-$(common-objpfx)libc-modules.h:
+/home/saraj/Desktop/glibc_modified/build32/libc-modules.h:
 ../include/libc-symbols.h:
 ../include/libc-misc.h:
-$(common-objpfx)config.h:
+/home/saraj/Desktop/glibc_modified/build32/config.h:
 ../include/string.h:
 ../string/string.h:
 ../bits/libc-header-start.h:

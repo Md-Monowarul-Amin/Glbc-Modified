@@ -8,92 +8,92 @@
     {
      "length": 65536,
      "alignment": 0,
-     "timings": [4549.67, 4369.09]
+     "timings": [4664.52, 4528.28]
     },
     {
      "length": 65536,
      "alignment": 3,
-     "timings": [4867.68, 4797.73]
+     "timings": [5003.02, 4971.66]
     },
     {
      "length": 131072,
      "alignment": 0,
-     "timings": [9053.15, 9045.48]
+     "timings": [9444.29, 9405.63]
     },
     {
      "length": 131072,
      "alignment": 3,
-     "timings": [10153.7, 10198.1]
+     "timings": [10226, 10128.1]
     },
     {
      "length": 262144,
      "alignment": 0,
-     "timings": [19296.1, 18946.9]
+     "timings": [18521.9, 18480.1]
     },
     {
      "length": 262144,
      "alignment": 3,
-     "timings": [20637.6, 20660.1]
+     "timings": [21224.4, 20860.3]
     },
     {
      "length": 524288,
      "alignment": 0,
-     "timings": [38664.4, 38672]
+     "timings": [38594.7, 38255.6]
     },
     {
      "length": 524288,
      "alignment": 3,
-     "timings": [42224.7, 42539.9]
+     "timings": [41601.4, 41839.7]
     },
     {
      "length": 1048576,
      "alignment": 0,
-     "timings": [78904.6, 78093.7]
+     "timings": [78247.3, 78044.4]
     },
     {
      "length": 1048576,
      "alignment": 3,
-     "timings": [84915.9, 84870.8]
+     "timings": [84485.6, 84299.1]
     },
     {
      "length": 2097152,
      "alignment": 0,
-     "timings": [159433, 157997]
+     "timings": [158434, 155941]
     },
     {
      "length": 2097152,
      "alignment": 3,
-     "timings": [175891, 170391]
+     "timings": [169375, 169564]
     },
     {
      "length": 4194304,
      "alignment": 0,
-     "timings": [323955, 313922]
+     "timings": [323671, 326660]
     },
     {
      "length": 4194304,
      "alignment": 3,
-     "timings": [352916, 344170]
+     "timings": [340518, 339458]
     },
     {
      "length": 8388608,
      "alignment": 0,
-     "timings": [1.0599e+06, 1.01804e+06]
+     "timings": [1.29044e+06, 1.25358e+06]
     },
     {
      "length": 8388608,
      "alignment": 3,
-     "timings": [1.10651e+06, 1.10299e+06]
+     "timings": [1.34602e+06, 1.36594e+06]
     },
     {
      "length": 16777216,
      "alignment": 0,
-     "timings": [2.76826e+06, 2.62502e+06]
+     "timings": [3.2824e+06, 3.1341e+06]
     },
     {
      "length": 16777216,
      "alignment": 3,
-     "timings": [2.83065e+06, 2.78873e+06]
+     "timings": [3.32026e+06, 3.32975e+06]
     }]
   }
  }

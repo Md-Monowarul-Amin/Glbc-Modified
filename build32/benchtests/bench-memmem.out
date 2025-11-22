@@ -8,2098 +8,2098 @@
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [21.2031, 117.445, 89.6953]
+     "timings": [28.9219, 121.945, 130.266]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [34.2344, 37.8594, 152.18]
+     "timings": [41.4297, 59.9141, 226.297]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [38.8203, 37.3906, 134.805]
+     "timings": [55.5625, 60.2969, 203.938]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [44.9375, 41.7344, 121.734]
+     "timings": [70.3594, 67.4375, 176.727]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [52.2891, 41.0781, 107.75]
+     "timings": [83.7578, 65.8281, 158.094]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [114.078, 43.6562, 165.758]
+     "timings": [149.547, 68.8516, 391.805]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [66.4531, 42.4297, 163.172]
+     "timings": [113.172, 69.9375, 226.641]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [73.8281, 45.0703, 142.531]
+     "timings": [127.5, 69.7812, 204.289]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [80.4609, 44.3594, 113.859]
+     "timings": [142.008, 70.1328, 179.953]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [87.6484, 43.7969, 187.461]
+     "timings": [155.789, 70.1641, 288.906]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [156.531, 46.1562, 181.391]
+     "timings": [221.086, 71.9297, 260.781]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [161.914, 45.3906, 179.656]
+     "timings": [234.492, 73.4219, 236.406]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [108.547, 47.1719, 131.578]
+     "timings": [198.961, 76.5938, 217.141]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [115.445, 45.7812, 195.484]
+     "timings": [213.398, 75.7266, 315.469]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [174.914, 48.0234, 177.164]
+     "timings": [258.469, 80.2969, 288.922]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [180.531, 47.1094, 161.93]
+     "timings": [272.367, 77.0859, 264.031]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [355.602, 70.3203, 368.523]
+     "timings": [286.5, 80.4609, 357.906]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497523,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765099,
      "fail": 0,
-     "timings": [306.352, 81.7812, 428.758]
+     "timings": [302.32, 81.1016, 341.898]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [38.625, 66.5391, 141.523]
+     "timings": [36.2734, 64.2422, 158.672]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [53.9375, 62.1094, 144.242]
+     "timings": [51.2188, 59.4453, 157.375]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [68.1719, 52.9844, 150.984]
+     "timings": [69.2969, 52.0547, 154.188]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [80.8672, 63.25, 138.422]
+     "timings": [81.1641, 61.2812, 151.93]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [120.07, 42.2578, 102.469]
+     "timings": [137.781, 56.4531, 154.688]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [64.3125, 42.1094, 104.5]
+     "timings": [112.602, 66.5938, 163.055]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [71.0938, 42.6484, 107.891]
+     "timings": [160.469, 67.3438, 167.32]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [78.7266, 43.25, 111]
+     "timings": [169.867, 59.4844, 168.547]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [134.445, 43.2344, 112.438]
+     "timings": [182.844, 72.2109, 179.5]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [140.492, 43.3047, 128.758]
+     "timings": [197.766, 70.3047, 195.164]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [165.625, 45.8203, 133.492]
+     "timings": [211.984, 70.5, 184.297]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [176.445, 44.4375, 137.922]
+     "timings": [220.047, 63.3047, 197.727]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [113.109, 47.6953, 122]
+     "timings": [213.797, 75.9844, 203.75]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [120.5, 47.8203, 144.883]
+     "timings": [230.039, 72.9062, 200.383]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [158.742, 47.1094, 150.43]
+     "timings": [264.211, 67.2031, 332.844]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [271.922, 46.3906, 162.609]
+     "timings": [282.789, 76.5547, 230.875]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [175.711, 48.4219, 151.711]
+     "timings": [298.164, 78.4375, 214.445]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765303,
      "fail": 0,
-     "timings": [181.312, 47.3516, 151.734]
+     "timings": [310.984, 78.7266, 237.773]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [29.75, 38.2891, 102.844]
+     "timings": [47.0234, 61.9375, 155.172]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [43.2109, 37.4844, 112.18]
+     "timings": [60.7188, 62.1484, 158.641]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [47.0312, 37.875, 113.695]
+     "timings": [75.1641, 55.375, 141.406]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [54.3125, 40.9062, 116.164]
+     "timings": [89.5547, 68.1953, 167.43]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [124.602, 41.0625, 117.453]
+     "timings": [147.789, 67.2891, 170.133]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [67.8203, 43.3047, 117.156]
+     "timings": [120.281, 70.0078, 172.094]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [75.1953, 42.6562, 118.141]
+     "timings": [129.703, 59.1641, 159.398]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [82.5078, 44.2656, 124.234]
+     "timings": [149.023, 71.5469, 178.844]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [89.2344, 44.0078, 121.055]
+     "timings": [281.469, 71.4453, 186.391]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [96.4375, 43.4141, 116.461]
+     "timings": [176.969, 68.9219, 148.812]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [175.797, 62.0703, 175.586]
+     "timings": [235.219, 73.375, 190.93]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [262.148, 218.422, 193.742]
+     "timings": [250.148, 73.5391, 197.508]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [227.258, 79.1953, 192.672]
+     "timings": [220.555, 68.5156, 168.297]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [340.312, 79.1328, 178.695]
+     "timings": [236.664, 75.5391, 296.352]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [277.141, 52.5703, 130.594]
+     "timings": [270.766, 62.8828, 162.617]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [172.281, 47.7422, 131.945]
+     "timings": [297.445, 72.5859, 171]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [176.867, 49.8516, 134.602]
+     "timings": [281.156, 51.6641, 135.133]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497736,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765312,
      "fail": 0,
-     "timings": [182.781, 49.7031, 137.773]
+     "timings": [313.234, 75.2969, 191.266]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [41.4141, 41.1328, 118.945]
+     "timings": [64.5703, 59.3672, 164.867]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [54.3281, 39.2812, 135.18]
+     "timings": [82.9531, 58.6562, 196.484]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [58.6094, 39.4844, 192.344]
+     "timings": [93.7422, 56.1094, 191.438]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [64.9062, 43.8281, 162.477]
+     "timings": [132.281, 44.2734, 163.852]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [72.5312, 42.5, 184.211]
+     "timings": [72.3828, 43.2188, 185.031]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [79.6484, 44.75, 151.367]
+     "timings": [79.5859, 45.0547, 152.945]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [86.1484, 43.9844, 203.211]
+     "timings": [137.391, 44.3125, 164.461]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [174.664, 81.1719, 230.305]
+     "timings": [162.672, 45.7656, 138.547]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [227.969, 74.4766, 231.555]
+     "timings": [209.391, 59.5078, 296.664]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [244.797, 75.0312, 296.719]
+     "timings": [216.234, 70.7266, 193.43]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [245.312, 55.1953, 185.688]
+     "timings": [235.938, 71.5625, 223.852]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [123.406, 46.4844, 167.078]
+     "timings": [124.125, 46.7734, 158.938]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [128.477, 49.1797, 170.438]
+     "timings": [129.102, 49.5859, 171.781]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [135.305, 48.0625, 143.195]
+     "timings": [136.43, 48.3047, 143.383]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [173.93, 49.4688, 159.773]
+     "timings": [175.695, 49.8203, 159.641]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [184.656, 48.8438, 132.867]
+     "timings": [238.375, 50.6562, 134.227]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [188.906, 50.2266, 145.461]
+     "timings": [190.375, 50.4141, 145]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497747,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765323,
      "fail": 0,
-     "timings": [195.68, 50.1719, 209.633]
+     "timings": [197.312, 50.1953, 213.562]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [49.25, 37.6094, 127.031]
+     "timings": [50.2734, 39.1172, 143.086]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [62.6094, 36.9609, 170.211]
+     "timings": [64.4219, 37.2734, 173.391]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [66.6797, 36.7344, 143.961]
+     "timings": [68.8516, 37.1094, 145]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [73.0781, 41.6719, 156.164]
+     "timings": [72.9688, 41.9141, 157.641]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [80.1719, 41.0625, 285.859]
+     "timings": [80.4453, 41.0703, 272.961]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [87.7422, 44.6172, 171.008]
+     "timings": [87.6328, 44.5312, 173.883]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [94.4922, 42.3828, 146.211]
+     "timings": [94.4844, 42.8516, 144.055]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [194.359, 45.8125, 160.664]
+     "timings": [102.727, 45.7969, 160.875]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [108.25, 45.2578, 206.328]
+     "timings": [108.578, 46.1016, 206.836]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [165.625, 44.9375, 171.695]
+     "timings": [168.133, 45.0625, 168.891]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [122.211, 46.4375, 191.039]
+     "timings": [122.516, 47.5469, 194.555]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [129.758, 45.6328, 146.797]
+     "timings": [129.953, 46.1875, 152.523]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [136.547, 49.2812, 194.836]
+     "timings": [136.484, 48.3594, 451.281]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [143.281, 47.6328, 160.688]
+     "timings": [145.68, 49.3516, 161.844]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [181.453, 47.6484, 180.914]
+     "timings": [181.703, 48.7812, 180.336]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [187.453, 47.3359, 146.508]
+     "timings": [191.445, 47.7734, 146.445]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [197.609, 49.25, 194.875]
+     "timings": [197.344, 49.6719, 199.727]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497764,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765340,
      "fail": 0,
-     "timings": [203.859, 48.6328, 151.555]
+     "timings": [204.617, 49.0781, 154.492]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [51.4922, 39.2031, 141.109]
+     "timings": [51.5859, 39.6562, 130.102]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [64.5625, 38.4297, 142.477]
+     "timings": [65.0781, 38.6641, 231.844]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [110.211, 56.9844, 210.602]
+     "timings": [68.75, 39.0938, 161.43]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [128.164, 61.4688, 192.273]
+     "timings": [76.6641, 43.0859, 147.469]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [82.625, 44.2969, 153.023]
+     "timings": [82.4922, 42.4297, 152.977]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [89.3047, 44.8047, 156.102]
+     "timings": [89.3594, 45.6797, 157.07]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [96.4531, 43.6328, 148.289]
+     "timings": [98.3906, 44.7891, 147.547]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [103.273, 46.1094, 149.188]
+     "timings": [103.094, 46.7969, 150.328]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [110.031, 45.5469, 163.484]
+     "timings": [110.07, 45.8516, 166.984]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [164.062, 45.1953, 157.625]
+     "timings": [166.508, 46.125, 156.883]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [124.297, 47.1875, 150.148]
+     "timings": [127.281, 48.7344, 151.117]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [130.992, 46.5234, 159.477]
+     "timings": [133.367, 46.7812, 160.195]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [138.039, 49.8438, 151.742]
+     "timings": [138.484, 49.5156, 150.195]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [144.828, 48.5859, 164.914]
+     "timings": [145.25, 48.9609, 165.422]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [184.82, 49.3906, 164.672]
+     "timings": [187.258, 51.1094, 165.141]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [192.742, 49.0938, 152.859]
+     "timings": [191.898, 49.1484, 153.82]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [197.531, 50.3047, 167.875]
+     "timings": [198.484, 50.4688, 167.242]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497785,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765361,
      "fail": 0,
-     "timings": [462.398, 51.2969, 167.352]
+     "timings": [300.523, 50.6016, 171.734]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [25.6406, 51.7969, 114.602]
+     "timings": [19.0078, 37.5078, 86.8672]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [42.1016, 137.836, 144.109]
+     "timings": [30.3828, 35.4453, 101.617]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [55.7422, 53.7734, 125.867]
+     "timings": [36.1172, 35.6484, 104.492]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [41.6094, 40.7031, 98.5938]
+     "timings": [41.9766, 40.5703, 98.1406]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [130.305, 39.7812, 115.258]
+     "timings": [132.367, 39.3828, 114.992]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [115.914, 41.8125, 117.164]
+     "timings": [113.992, 42.0781, 119.055]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [62.5859, 41.6562, 112.438]
+     "timings": [62.8516, 41.9297, 115.828]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [69.7109, 43.3828, 127.531]
+     "timings": [70.7734, 42.6953, 127.242]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [77.5547, 42.6719, 132.188]
+     "timings": [77.1094, 42.8906, 264.688]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [84.3125, 42.3125, 131.453]
+     "timings": [84.2188, 43.1797, 131.688]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [151.656, 44.3203, 140.828]
+     "timings": [149.57, 45.0781, 143.125]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [162.125, 44.5312, 147.953]
+     "timings": [160.203, 44.0781, 149.648]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [105.188, 45.4688, 144.555]
+     "timings": [105.188, 45.9453, 144.891]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [111.836, 45.0938, 178.602]
+     "timings": [111.844, 44.4219, 222.031]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [173.922, 46.0625, 182.641]
+     "timings": [173.742, 45.7969, 184.664]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [179.836, 45.1719, 307.055]
+     "timings": [178.742, 46.1406, 215.906]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [187.836, 47.2656, 192.508]
+     "timings": [280.25, 49.8672, 250.289]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497816,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765392,
      "fail": 0,
-     "timings": [192.898, 46.6094, 195.172]
+     "timings": [195.031, 47.0312, 204.352]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [21.1172, 38.6953, 87.5234]
+     "timings": [20.7422, 38.2578, 86.8359]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [34.6953, 37.1172, 133.336]
+     "timings": [34.5234, 37.2969, 131.18]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [39.1328, 36.9297, 118.945]
+     "timings": [38.2344, 37.3203, 123.016]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [45.5703, 41.9297, 106.633]
+     "timings": [45.9688, 41.8438, 114.641]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [52.4844, 42.2031, 100.82]
+     "timings": [52.7734, 41.3672, 114.289]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [113.844, 44.0156, 151.508]
+     "timings": [115.984, 44.0156, 151.062]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [66.3359, 43.0781, 133.195]
+     "timings": [68.1172, 45.2031, 131.906]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [73.7734, 44.5859, 120.211]
+     "timings": [88.9609, 45.75, 119.711]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [80.2891, 43.5859, 113.914]
+     "timings": [81.1719, 44.9219, 114.141]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [87.3281, 44.5938, 166.242]
+     "timings": [89.2734, 45.0859, 176.195]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [153.469, 46.0312, 170]
+     "timings": [152.633, 45.3047, 147.195]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [160.875, 45.1875, 134.188]
+     "timings": [160.891, 45.6406, 134.789]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [108.547, 46.5469, 131.227]
+     "timings": [109.344, 47.9141, 131.852]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [115.398, 46.5, 172.641]
+     "timings": [116.016, 46.4766, 175.133]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [173.477, 47.7109, 161.086]
+     "timings": [175.594, 49.4844, 163.094]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [181.234, 47.5, 151.125]
+     "timings": [180.727, 48.2422, 197.227]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [188.062, 49.0625, 147.531]
+     "timings": [188.547, 49.8281, 147.156]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497807,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765383,
      "fail": 0,
-     "timings": [265.43, 49.0625, 188.805]
+     "timings": [194.344, 49.2422, 189.977]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [25.0391, 40.7969, 104.328]
+     "timings": [24.7891, 40.8672, 91.8438]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [48.1094, 60.625, 164.398]
+     "timings": [38.3906, 40.7656, 107.531]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [63.8359, 56.9453, 134.172]
+     "timings": [40.4062, 41.1797, 107.711]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [49.5469, 45.1094, 111.836]
+     "timings": [48.8984, 44.7109, 111.453]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [56.7031, 44.2969, 129.586]
+     "timings": [54.6094, 44.0078, 128.266]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [62.9453, 45.625, 131.852]
+     "timings": [62.2812, 45.8359, 128.531]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [69.6797, 45.8906, 105.867]
+     "timings": [71.5625, 46.6172, 108.727]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [77.7812, 46.0859, 121.336]
+     "timings": [77.6875, 47.875, 121.641]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [83.6562, 45.8281, 120.945]
+     "timings": [85.3125, 46.7188, 125.898]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [90.6562, 45.9375, 129.992]
+     "timings": [91.1562, 46.8672, 133.211]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [153.469, 47.3203, 153.641]
+     "timings": [151.367, 48, 142.32]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [153.977, 47.125, 157.258]
+     "timings": [154.961, 47.2812, 141.984]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [111.844, 48.9297, 149.742]
+     "timings": [111.312, 49.3281, 122.438]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [118.328, 48.8125, 289.141]
+     "timings": [118.906, 50.0703, 174.172]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [163.523, 51.4453, 158.445]
+     "timings": [162.633, 50.3359, 163.125]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [168.383, 49.7422, 159.914]
+     "timings": [171.148, 51.6016, 175.797]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [174.5, 51.8516, 174.023]
+     "timings": [179.539, 52.6562, 194.484]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3915497813,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4126765389,
      "fail": 0,
-     "timings": [182.016, 51.2031, 176.164]
+     "timings": [188.633, 55.1406, 182.797]
     },
     {
      "len_haystack": 163840,
      "len_needle": 24,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913026173,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293757,
      "fail": 0,
-     "timings": [6108.68, 678.328, 694.586]
+     "timings": [6328.11, 672.273, 616.875]
     },
     {
      "len_haystack": 163840,
      "len_needle": 30,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913103386,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124370970,
      "fail": 0,
-     "timings": [213913, 112191, 13282.4]
+     "timings": [223772, 113724, 13250.1]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [191776, 14101.7, 81233.9]
+     "timings": [166651, 11854.5, 79201.1]
     },
     {
      "len_haystack": 163840,
      "len_needle": 30,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024567,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292151,
      "fail": 0,
-     "timings": [2322.02, 569.719, 318.898]
+     "timings": [2271.23, 563.984, 282.742]
     },
     {
      "len_haystack": 163840,
      "len_needle": 26,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024487,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292071,
      "fail": 0,
-     "timings": [2556.24, 1149.18, 291.289]
+     "timings": [2331.65, 1051.92, 289.969]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [169230, 12178.2, 80389.6]
+     "timings": [170930, 11818.8, 78986.8]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024295,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291879,
      "fail": 0,
-     "timings": [869.297, 80.3438, 408.992]
+     "timings": [869.289, 80.1797, 410.07]
     },
     {
      "len_haystack": 163840,
      "len_needle": 31,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913042120,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124309704,
      "fail": 0,
-     "timings": [47795.5, 2747.21, 2361.93]
+     "timings": [45142.5, 1765.12, 2299.84]
     },
     {
      "len_haystack": 163840,
      "len_needle": 25,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913026219,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293803,
      "fail": 0,
-     "timings": [8444.66, 3420.06, 851.172]
+     "timings": [6683.05, 2529.14, 520.148]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [176050, 12337.3, 80691.5]
+     "timings": [166792, 11862.1, 80091.8]
     },
     {
      "len_haystack": 163840,
      "len_needle": 31,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023625,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291209,
      "fail": 0,
-     "timings": [279.289, 61.5391, 206.367]
+     "timings": [245.836, 60.8672, 192.719]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024869,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292453,
      "fail": 0,
-     "timings": [3128.65, 314.469, 525.312]
+     "timings": [2927.36, 313.43, 515.219]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913072789,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124340373,
      "fail": 0,
-     "timings": [51028.4, 3673.11, 46288.1]
+     "timings": [50076.6, 3627.52, 45991.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024419,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292003,
      "fail": 0,
-     "timings": [1535.87, 936.773, 265.727]
+     "timings": [1651.96, 854.078, 266.141]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [169147, 12454.9, 83500.9]
+     "timings": [166096, 11808.9, 78976.4]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [170041, 12326.8, 80572.5]
+     "timings": [166227, 11749.3, 81691.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 15,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913030937,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124298521,
      "fail": 0,
-     "timings": [7873.73, 558.359, 1696.09]
+     "timings": [9430, 557.828, 1822.13]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023635,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291219,
      "fail": 0,
-     "timings": [280.414, 323.094, 143.164]
+     "timings": [302.891, 1111.02, 212.852]
     },
     {
      "len_haystack": 163840,
      "len_needle": 17,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913027263,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124294847,
      "fail": 0,
-     "timings": [8943.18, 552.93, 814.68]
+     "timings": [8873.55, 551.539, 861.055]
     },
     {
      "len_haystack": 163840,
      "len_needle": 6,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913027946,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124295530,
      "fail": 0,
-     "timings": [11072.7, 3971.3, 2678.55]
+     "timings": [10991.9, 3800.23, 2941.14]
     },
     {
      "len_haystack": 163840,
      "len_needle": 9,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913115137,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124382721,
      "fail": 0,
-     "timings": [234877, 7288.07, 37012.8]
+     "timings": [238245, 11614.5, 45945.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025654,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293238,
      "fail": 0,
-     "timings": [2231.34, 202.688, 1089.74]
+     "timings": [2233.53, 202.148, 1163.82]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913032872,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124300456,
      "fail": 0,
-     "timings": [9833.27, 670.266, 8746.95]
+     "timings": [10438.3, 1107.62, 15529.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 13,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913035089,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124302673,
      "fail": 0,
-     "timings": [28856.7, 1017.17, 3012.66]
+     "timings": [31360.6, 1034.21, 2996.75]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [167976, 12233.5, 90884]
+     "timings": [169824, 11793.8, 79024.1]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [190648, 12033.5, 88778]
+     "timings": [167849, 11770.6, 78916.7]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025243,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292827,
      "fail": 0,
-     "timings": [3983.66, 1291.55, 619.109]
+     "timings": [3584.38, 1290.84, 694.484]
     },
     {
      "len_haystack": 163840,
      "len_needle": 30,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024198,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291782,
      "fail": 0,
-     "timings": [1419.17, 816.875, 262.93]
+     "timings": [1441.16, 814.625, 263.984]
     },
     {
      "len_haystack": 163840,
      "len_needle": 17,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913026223,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293807,
      "fail": 0,
-     "timings": [6646.38, 2329.94, 613.344]
+     "timings": [6569.52, 2337.8, 615.445]
     },
     {
      "len_haystack": 163840,
      "len_needle": 2,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913041727,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124309311,
      "fail": 0,
-     "timings": [52985.4, 1291.67, 50320.4]
+     "timings": [46892.8, 1288.52, 48531]
     },
     {
      "len_haystack": 163840,
      "len_needle": 13,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025991,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293575,
      "fail": 0,
-     "timings": [7104.34, 413.133, 704.25]
+     "timings": [5574.75, 424.078, 707.141]
     },
     {
      "len_haystack": 163840,
      "len_needle": 15,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913034756,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124302340,
      "fail": 0,
-     "timings": [11587.7, 793.203, 2814.17]
+     "timings": [11486.1, 792.805, 2428.45]
     },
     {
      "len_haystack": 163840,
      "len_needle": 2,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913046093,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124313677,
      "fail": 0,
-     "timings": [62557.1, 1563.95, 63961.2]
+     "timings": [59645.6, 1556.87, 60243]
     },
     {
      "len_haystack": 163840,
      "len_needle": 28,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024212,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291796,
      "fail": 0,
-     "timings": [1491.68, 1207.45, 225.633]
+     "timings": [1435.01, 1201.88, 221.211]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024099,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291683,
      "fail": 0,
-     "timings": [672.789, 68.0547, 319.398]
+     "timings": [673.648, 137.305, 315.828]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913064957,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124332541,
      "fail": 0,
-     "timings": [47667.2, 4836.41, 33895.8]
+     "timings": [42042.9, 3091.93, 29987.8]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913027326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124294910,
      "fail": 0,
-     "timings": [10845.3, 430.352, 1837.55]
+     "timings": [9857.93, 422.508, 1777.7]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913083301,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124350885,
      "fail": 0,
-     "timings": [161141, 70185.3, 31171.6]
+     "timings": [155340, 64732.4, 28165.4]
     },
     {
      "len_haystack": 163840,
      "len_needle": 26,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025881,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293465,
      "fail": 0,
-     "timings": [2614.56, 201.922, 509.734]
+     "timings": [2543.47, 201.516, 502.836]
     },
     {
      "len_haystack": 163840,
      "len_needle": 12,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913066581,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124334165,
      "fail": 0,
-     "timings": [118272, 3349.27, 14127.7]
+     "timings": [114421, 3416.7, 13151.1]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025449,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293033,
      "fail": 0,
-     "timings": [4026.58, 279.438, 963.969]
+     "timings": [4149.98, 278.617, 1074.41]
     },
     {
      "len_haystack": 163840,
      "len_needle": 9,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913028794,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124296378,
      "fail": 0,
-     "timings": [13359.7, 528.547, 2035.78]
+     "timings": [15039.4, 970.844, 3560.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 12,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913028977,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124296561,
      "fail": 0,
-     "timings": [12664.5, 639.805, 1503.52]
+     "timings": [17663.5, 1048.67, 2206.52]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913026565,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124294149,
      "fail": 0,
-     "timings": [5032.12, 318.711, 1934.95]
+     "timings": [3590.02, 242.312, 1271.38]
     },
     {
      "len_haystack": 163840,
      "len_needle": 3,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024329,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291913,
      "fail": 0,
-     "timings": [2800.88, 280.016, 1442.05]
+     "timings": [2590, 263.445, 1910.82]
     },
     {
      "len_haystack": 163840,
      "len_needle": 26,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913030291,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124297875,
      "fail": 0,
-     "timings": [17659.6, 6855.56, 1137.43]
+     "timings": [17882.9, 5933.38, 1184.53]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [188306, 12634, 87908.2]
+     "timings": [186286, 11822.5, 78963.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [192323, 12057.8, 93139.1]
+     "timings": [166129, 11762.1, 78892.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 15,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024601,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292185,
      "fail": 0,
-     "timings": [3216.5, 1706.96, 704.555]
+     "timings": [2377.06, 1279.02, 387.289]
     },
     {
      "len_haystack": 163840,
      "len_needle": 3,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913029150,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124296734,
      "fail": 0,
-     "timings": [13806.2, 466.219, 8668.42]
+     "timings": [12987.4, 464.539, 7512.1]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913108435,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124376019,
      "fail": 0,
-     "timings": [233653, 119696, 38360.1]
+     "timings": [220102, 109905, 32834]
     },
     {
      "len_haystack": 163840,
      "len_needle": 10,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024943,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292527,
      "fail": 0,
-     "timings": [3149.88, 1749.85, 531.609]
+     "timings": [3013.33, 1675.36, 534.141]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [196091, 16257.5, 92723.2]
+     "timings": [166095, 11881.2, 81087.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913142782,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124410366,
      "fail": 0,
-     "timings": [326341, 226480, 68811.6]
+     "timings": [305705, 195769, 63281.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 26,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913033483,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124301067,
      "fail": 0,
-     "timings": [23836.6, 9321.68, 1622.05]
+     "timings": [24019, 8948.54, 1626.52]
     },
     {
      "len_haystack": 163840,
      "len_needle": 27,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913070453,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124338037,
      "fail": 0,
-     "timings": [139349, 4805.23, 8345.42]
+     "timings": [122103, 3985.34, 8326.04]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [174670, 13253.2, 87941.5]
+     "timings": [208787, 11918.8, 79108]
     },
     {
      "len_haystack": 163840,
      "len_needle": 25,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024666,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292250,
      "fail": 0,
-     "timings": [1307.78, 127.438, 305.453]
+     "timings": [1307.45, 129.18, 305.914]
     },
     {
      "len_haystack": 163840,
      "len_needle": 22,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913094925,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124362509,
      "fail": 0,
-     "timings": [80755.4, 5375.97, 15270.4]
+     "timings": [72487.8, 5277.69, 14280.5]
     },
     {
      "len_haystack": 163840,
      "len_needle": 5,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024914,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292498,
      "fail": 0,
-     "timings": [1620.53, 136.156, 1052.3]
+     "timings": [1515.43, 135.023, 1042.89]
     },
     {
      "len_haystack": 163840,
      "len_needle": 3,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913028238,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124295822,
      "fail": 0,
-     "timings": [5217.62, 627.648, 7152.27]
+     "timings": [4888.48, 377.789, 6324.38]
     },
     {
      "len_haystack": 163840,
      "len_needle": 15,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023708,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291292,
      "fail": 0,
-     "timings": [348.422, 307.148, 154.219]
+     "timings": [397.531, 305.938, 153.688]
     },
     {
      "len_haystack": 163840,
      "len_needle": 12,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024537,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292121,
      "fail": 0,
-     "timings": [2459.3, 417.242, 344.961]
+     "timings": [2211.11, 312.859, 347.422]
     },
     {
      "len_haystack": 163840,
      "len_needle": 24,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913027345,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124294929,
      "fail": 0,
-     "timings": [9778.33, 3794.52, 859.555]
+     "timings": [9004.99, 3727.27, 708.789]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913075356,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124342940,
      "fail": 0,
-     "timings": [139233, 4688.36, 11838.1]
+     "timings": [132517, 4147.61, 10851.6]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913068593,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124336177,
      "fail": 0,
-     "timings": [50806.6, 3482.02, 23696.2]
+     "timings": [45820.2, 3316.78, 21794.9]
     },
     {
      "len_haystack": 163840,
      "len_needle": 18,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913113928,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124381512,
      "fail": 0,
-     "timings": [244577, 128090, 22635.3]
+     "timings": [230383, 121537, 20823]
     },
     {
      "len_haystack": 163840,
      "len_needle": 7,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025477,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124293061,
      "fail": 0,
-     "timings": [4898.01, 429.359, 1161.17]
+     "timings": [4500.19, 291.742, 1013.88]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [187483, 13008.3, 87209.9]
+     "timings": [166951, 11849.3, 80861.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 31,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913052473,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124320057,
      "fail": 0,
-     "timings": [73352.7, 26757.7, 4140.52]
+     "timings": [69311.2, 25018.4, 3680.75]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [189772, 13151.7, 87118.3]
+     "timings": [169378, 11840, 83917.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 2,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023622,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291206,
      "fail": 0,
-     "timings": [198.531, 101.703, 402.977]
+     "timings": [197.898, 104.148, 401.016]
     },
     {
      "len_haystack": 163840,
      "len_needle": 29,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913177576,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124445160,
      "fail": 0,
-     "timings": [411781, 260237, 29881.7]
+     "timings": [413109, 243902, 27917.9]
     },
     {
      "len_haystack": 163840,
      "len_needle": 13,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913103982,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124371566,
      "fail": 0,
-     "timings": [215914, 89102.4, 26577.8]
+     "timings": [204361, 84991.7, 25227.4]
     },
     {
      "len_haystack": 163840,
      "len_needle": 15,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024100,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291684,
      "fail": 0,
-     "timings": [1231.55, 578.578, 250.43]
+     "timings": [1315.29, 578.57, 247.758]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [185874, 15260.4, 85423.4]
+     "timings": [166725, 11888.3, 79951.4]
     },
     {
      "len_haystack": 163840,
      "len_needle": 14,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913037630,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124305214,
      "fail": 0,
-     "timings": [34179.4, 1218.98, 3532.7]
+     "timings": [33480.7, 1229.34, 3643.12]
     },
     {
      "len_haystack": 163840,
      "len_needle": 27,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913108650,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124376234,
      "fail": 0,
-     "timings": [213264, 6686.24, 15051.3]
+     "timings": [216257, 8707, 16437.5]
     },
     {
      "len_haystack": 163840,
      "len_needle": 16,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023772,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291356,
      "fail": 0,
-     "timings": [478.391, 363.781, 181.648]
+     "timings": [446.227, 369.891, 180.859]
     },
     {
      "len_haystack": 163840,
      "len_needle": 3,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913029164,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124296748,
      "fail": 0,
-     "timings": [6245.24, 399.047, 7856.49]
+     "timings": [5878.67, 397.906, 8401.6]
     },
     {
      "len_haystack": 163840,
      "len_needle": 31,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913039067,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124306651,
      "fail": 0,
-     "timings": [38184.4, 1528.88, 2034.28]
+     "timings": [38267.7, 1529.34, 1983.8]
     },
     {
      "len_haystack": 163840,
      "len_needle": 4,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023791,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291375,
      "fail": 0,
-     "timings": [503.312, 143.758, 342.656]
+     "timings": [503.609, 141.75, 342.398]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913162055,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124429639,
      "fail": 0,
-     "timings": [150351, 10340.5, 32122.8]
+     "timings": [141535, 10032.8, 31271.3]
     },
     {
      "len_haystack": 163840,
      "len_needle": 13,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913081707,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124349291,
      "fail": 0,
-     "timings": [59884.4, 4205.66, 17061.2]
+     "timings": [59079.1, 4268.16, 17691.5]
     },
     {
      "len_haystack": 163840,
      "len_needle": 2,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913044372,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124311956,
      "fail": 0,
-     "timings": [55562, 1448.05, 55988.8]
+     "timings": [55197.8, 1449.43, 55538.7]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [169007, 13498.6, 88342.2]
+     "timings": [170197, 11824.9, 86529.7]
     },
     {
      "len_haystack": 163840,
      "len_needle": 3,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023680,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291264,
      "fail": 0,
-     "timings": [405.359, 123.742, 336.656]
+     "timings": [382.656, 127.32, 333.914]
     },
     {
      "len_haystack": 163840,
      "len_needle": 26,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913168304,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124435888,
      "fail": 0,
-     "timings": [389703, 237109, 28588.9]
+     "timings": [382613, 234853, 28896.1]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [166182, 11995.7, 79057.9]
+     "timings": [175809, 11896, 84840.8]
     },
     {
      "len_haystack": 163840,
      "len_needle": 15,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913120892,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124388476,
      "fail": 0,
-     "timings": [245929, 136943, 27466.5]
+     "timings": [248762, 139596, 27155.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 17,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023628,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291212,
      "fail": 0,
-     "timings": [360.766, 316.75, 165.125]
+     "timings": [301.195, 314.25, 165.758]
     },
     {
      "len_haystack": 163840,
      "len_needle": 1,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913187326,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124454910,
      "fail": 0,
-     "timings": [166196, 12077.2, 79046.9]
+     "timings": [168941, 11772, 79056.9]
     },
     {
      "len_haystack": 163840,
      "len_needle": 21,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913183962,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124451546,
      "fail": 0,
-     "timings": [404253, 12281.9, 36026.1]
+     "timings": [408218, 12253.2, 36167.2]
     },
     {
      "len_haystack": 163840,
      "len_needle": 27,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913042894,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124310478,
      "fail": 0,
-     "timings": [45257.1, 1719.95, 2674.36]
+     "timings": [45459.9, 1720.7, 2744.52]
     },
     {
      "len_haystack": 163840,
      "len_needle": 23,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913048359,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124315943,
      "fail": 0,
-     "timings": [63200.6, 2002.91, 4069.23]
+     "timings": [73726.6, 2008.16, 4184.82]
     },
     {
      "len_haystack": 163840,
      "len_needle": 20,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913023942,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291526,
      "fail": 0,
-     "timings": [803.984, 378.156, 212.492]
+     "timings": [802.047, 380.391, 215.93]
     },
     {
      "len_haystack": 163840,
      "len_needle": 22,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913025296,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292880,
      "fail": 0,
-     "timings": [4153.84, 496.297, 396.859]
+     "timings": [4687.59, 736.625, 644.547]
     },
     {
      "len_haystack": 163840,
      "len_needle": 8,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024428,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124292012,
      "fail": 0,
-     "timings": [1004.98, 105.148, 444.734]
+     "timings": [2134.39, 178.391, 791.766]
     },
     {
      "len_haystack": 163840,
      "len_needle": 3,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913024062,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124291646,
      "fail": 0,
-     "timings": [647, 78.7188, 783.219]
+     "timings": [1267.12, 135.602, 1332.5]
     },
     {
      "len_haystack": 163840,
      "len_needle": 6,
-     "haystack_ptr": 3913023488,
-     "needle_ptr": 3913031245,
+     "haystack_ptr": 4124291072,
+     "needle_ptr": 4124298829,
      "fail": 0,
-     "timings": [7991.34, 570.242, 4466.47]
+     "timings": [16769, 575.391, 5114.95]
     }]
   }
  }

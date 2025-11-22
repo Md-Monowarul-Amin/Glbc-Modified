@@ -1,8 +1,8 @@
-$(common-objpfx)benchtests/bench-timing-type.o: \
+/home/saraj/Desktop/glibc_modified/build32/benchtests/bench-timing-type.o: \
  bench-timing-type.c ../include/stdc-predef.h \
- $(common-objpfx)libc-modules.h \
+ /home/saraj/Desktop/glibc_modified/build32/libc-modules.h \
  ../include/libc-symbols.h ../include/libc-misc.h \
- $(common-objpfx)config.h bench-timing.h \
+ /home/saraj/Desktop/glibc_modified/build32/config.h bench-timing.h \
  ../sysdeps/x86/hp-timing.h ../sysdeps/i386/i686/isa.h \
  ../sysdeps/generic/hp-timing-common.h ../include/string.h \
  ../string/string.h ../bits/libc-header-start.h ../include/features.h \
@@ -92,10 +92,10 @@ $(common-objpfx)benchtests/bench-timing-type.o: \
  ../sysdeps/unix/sysv/linux/bits/stdio_lim.h ../include/bits/stdio.h \
  ../libio/bits/stdio.h
 ../include/stdc-predef.h:
-$(common-objpfx)libc-modules.h:
+/home/saraj/Desktop/glibc_modified/build32/libc-modules.h:
 ../include/libc-symbols.h:
 ../include/libc-misc.h:
-$(common-objpfx)config.h:
+/home/saraj/Desktop/glibc_modified/build32/config.h:
 bench-timing.h:
 ../sysdeps/x86/hp-timing.h:
 ../sysdeps/i386/i686/isa.h:

@@ -3,11 +3,11 @@
  "functions": {
   "random": {
    "bench-variant": "single-threaded",
-   "results": [23.8089]
+   "results": [23.1639]
   },
   "random": {
    "bench-variant": "multi-threaded",
-   "results": [62.1982]
+   "results": [61.8784]
   }
  }
 }

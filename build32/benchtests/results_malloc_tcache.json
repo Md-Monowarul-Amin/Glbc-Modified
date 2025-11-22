@@ -1,0 +1,19 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "malloc": {
+   "simple": {
+    "alloc_size": 1024,
+    "duration": 6.41805e+09,
+    "iterations": 5.18291e+07,
+    "time_per_iteration": 123.831
+   },
+   "optimized": {
+    "alloc_size": 1024,
+    "duration": 6.43561e+09,
+    "iterations": 5.9956e+07,
+    "time_per_iteration": 107.339
+   }
+  }
+ }
+}

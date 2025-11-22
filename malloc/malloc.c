@@ -2414,7 +2414,7 @@ do_check_malloc_state (mstate av)
 
 
 /* -------------------- Trie ------------------------- */
-#define MAX_TRIE_NODES 1024
+#define MAX_TRIE_NODES 4096
 
 // Trie node structure for byte-based trie
 struct trieNode {

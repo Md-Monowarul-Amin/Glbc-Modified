@@ -6,7 +6,7 @@
    "ifuncs": ["memchr_strlen", "__strlen_sse2_bsf", "__strlen_sse2", "__strlen_ia32"],
    "results": [
     {
-     "timings": [2.4518e+06, 2.14173e+06, 3.93087e+06, 3.80627e+06]
+     "timings": [2.39987e+06, 2.12324e+06, 3.93265e+06, 3.79486e+06]
     }]
   }
  }

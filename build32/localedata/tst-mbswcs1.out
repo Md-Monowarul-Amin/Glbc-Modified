@@ -1,7 +1,0 @@
-used locale: "C"
-mbrtowc (&wc, (const char *) buf + 0, 1, &state) -> 1, wc = 37
-mbrtowc (&wc, (const char *) buf + 1, 1, &state) -> 4294967295, wc = 37, expected 4294967294 and 37
-mbrtowc (&wc, (const char *) buf + 2, 3, &state) -> 4294967295, wc = 37, expected 2 and 8364
-mbrtowc (&wc, (const char *) buf + 4, 1, &state) -> 4294967295, wc = 37, expected 4294967294 and 8364
-mbrtowc (&wc, (const char *) buf + 5, 1, &state) -> 4294967295, wc = 37, expected 1 and 955
-mbrtowc (&wc, (const char *) buf + 5, 1, &state) -> 4294967295, wc = 37, expected 4294967295 and 955

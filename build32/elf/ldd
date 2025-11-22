@@ -24,9 +24,9 @@
 
 # We should be able to find the translation right at the beginning.
 TEXTDOMAIN=libc
-TEXTDOMAINDIR=/opt/glibc-custom/share/locale
+TEXTDOMAINDIR=/home/saraj/glibc-custom-32/share/locale
 
-RTLDLIST=/opt/glibc-custom/lib/ld-linux.so.2
+RTLDLIST=/home/saraj/glibc-custom-32/lib/ld-linux.so.2
 warn=
 bind_now=
 verbose=

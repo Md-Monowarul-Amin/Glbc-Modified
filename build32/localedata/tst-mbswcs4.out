@@ -1,4 +1,0 @@
-used locale: "C"
-mbsrtowcs (&wc, &src, 1, &state) -> 1, wc = 37, src = buf+1
-mbsrtowcs (&wc, &src, 1, &state) -> 4294967295, wc = 37, src = buf+1, expected 1 and 8364 and buf+4
-mbsrtowcs (&wc, &src, 1, &state) -> 4294967295, wc = 37, src = buf+1, expected 1 and 955 and buf+6

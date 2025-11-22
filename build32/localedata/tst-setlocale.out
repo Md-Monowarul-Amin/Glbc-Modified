@@ -1,3 +1,0 @@
-after setlocale (LC_ALL, ""): C
-after setlocale (LC_NUMERIC, "de_DE.UTF-8"): C
-after overwriting string: C

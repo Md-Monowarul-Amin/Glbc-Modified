@@ -39,7 +39,7 @@ set -f
 
 # Specify default values for environment variables if they are unset.
 : ${AWK=awk}
-: ${TZDIR=/opt/glibc-custom/share/zoneinfo}
+: ${TZDIR=/home/saraj/glibc-custom-32/share/zoneinfo}
 
 # Output one argument as-is to standard output, with trailing newline.
 # Safer than 'echo', which can mishandle '\' or leading '-'.

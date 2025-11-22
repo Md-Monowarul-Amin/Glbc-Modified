@@ -6,7 +6,7 @@ release = development
 
 # Installation prefixes.
 install_root = $(DESTDIR)
-prefix = /opt/glibc-custom
+prefix = /home/saraj/glibc-custom-32
 exec_prefix = ${prefix}
 datadir = ${datarootdir}
 libdir = ${exec_prefix}/lib
@@ -50,7 +50,7 @@ c++-sysincludes =
 c++-cstdlib-header = /usr/include/c++/12/cstdlib
 c++-cmath-header = /usr/include/c++/12/cmath
 c++-bits-std_abs-h = /usr/include/c++/12/bits/std_abs.h
-enable-werror = yes
+enable-werror = no
 
 have-z-execstack = yes
 have-no-error-execstack = no

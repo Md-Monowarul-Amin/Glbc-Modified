@@ -1,9 +1,0 @@
-error: subprocess failed: execv
-error:   expected exit status: 0
-error:   actual exit status: 1 [0x100]
-error: subprocess failed: execv
-error:   unexpected output from subprocess
-error: test-container.c:724: execv: No such file or directory
-
-
-running post-clean rsync

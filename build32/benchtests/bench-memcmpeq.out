@@ -10,91 +10,91 @@
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [9.082]
+     "timings": [9.08191]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [9.332]
+     "timings": [9.30354]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [9.00703]
+     "timings": [9.00716]
     },
     {
      "length": 1,
      "align1": 1,
      "align2": 1,
      "result": 0,
-     "timings": [8.00647]
+     "timings": [8.58211]
     },
     {
      "length": 1,
      "align1": 1,
      "align2": 1,
      "result": 1,
-     "timings": [8.33981]
+     "timings": [8.34012]
     },
     {
      "length": 1,
      "align1": 1,
      "align2": 1,
      "result": 18446744073709551615,
-     "timings": [8.49478]
+     "timings": [8.46736]
     },
     {
      "length": 2,
      "align1": 2,
      "align2": 2,
      "result": 0,
-     "timings": [8.13977]
+     "timings": [8.56705]
     },
     {
      "length": 2,
      "align1": 2,
      "align2": 2,
      "result": 1,
-     "timings": [9.12151]
+     "timings": [9.1628]
     },
     {
      "length": 2,
      "align1": 2,
      "align2": 2,
      "result": 18446744073709551615,
-     "timings": [8.69147]
+     "timings": [8.84541]
     },
     {
      "length": 3,
      "align1": 3,
      "align2": 3,
      "result": 0,
-     "timings": [9.31699]
+     "timings": [9.32225]
     },
     {
      "length": 3,
      "align1": 3,
      "align2": 3,
      "result": 1,
-     "timings": [9.95715]
+     "timings": [9.3692]
     },
     {
      "length": 3,
      "align1": 3,
      "align2": 3,
      "result": 18446744073709551615,
-     "timings": [9.74866]
+     "timings": [9.47136]
     },
     {
      "length": 4,
      "align1": 4,
      "align2": 4,
      "result": 0,
-     "timings": [10.5482]
+     "timings": [10.5437]
     },
     {
      "length": 4,
@@ -108,3339 +108,3339 @@
      "align1": 4,
      "align2": 4,
      "result": 18446744073709551615,
-     "timings": [10.7302]
+     "timings": [10.6995]
     },
     {
      "length": 5,
      "align1": 5,
      "align2": 5,
      "result": 0,
-     "timings": [11.7758]
+     "timings": [11.7382]
     },
     {
      "length": 5,
      "align1": 5,
      "align2": 5,
      "result": 1,
-     "timings": [57.5746]
+     "timings": [11.6571]
     },
     {
      "length": 5,
      "align1": 5,
      "align2": 5,
      "result": 18446744073709551615,
-     "timings": [12.2437]
+     "timings": [12.1465]
     },
     {
      "length": 6,
      "align1": 6,
      "align2": 6,
      "result": 0,
-     "timings": [13.0736]
+     "timings": [13.1062]
     },
     {
      "length": 6,
      "align1": 6,
      "align2": 6,
      "result": 1,
-     "timings": [13.1141]
+     "timings": [13.2127]
     },
     {
      "length": 6,
      "align1": 6,
      "align2": 6,
      "result": 18446744073709551615,
-     "timings": [15.8982]
+     "timings": [15.0779]
     },
     {
      "length": 7,
      "align1": 7,
      "align2": 7,
      "result": 0,
-     "timings": [15.5852]
+     "timings": [16.2523]
     },
     {
      "length": 7,
      "align1": 7,
      "align2": 7,
      "result": 1,
-     "timings": [14.5787]
+     "timings": [14.6066]
     },
     {
      "length": 7,
      "align1": 7,
      "align2": 7,
      "result": 18446744073709551615,
-     "timings": [15.0028]
+     "timings": [15.0358]
     },
     {
      "length": 8,
      "align1": 8,
      "align2": 8,
      "result": 0,
-     "timings": [12.1914]
+     "timings": [12.3935]
     },
     {
      "length": 8,
      "align1": 8,
      "align2": 8,
      "result": 1,
-     "timings": [14.2595]
+     "timings": [14.1264]
     },
     {
      "length": 8,
      "align1": 8,
      "align2": 8,
      "result": 18446744073709551615,
-     "timings": [14.1998]
+     "timings": [14.2105]
     },
     {
      "length": 9,
      "align1": 9,
      "align2": 9,
      "result": 0,
-     "timings": [12.3581]
+     "timings": [12.3754]
     },
     {
      "length": 9,
      "align1": 9,
      "align2": 9,
      "result": 1,
-     "timings": [14.2257]
+     "timings": [14.3307]
     },
     {
      "length": 9,
      "align1": 9,
      "align2": 9,
      "result": 18446744073709551615,
-     "timings": [14.221]
+     "timings": [14.1055]
     },
     {
      "length": 10,
      "align1": 10,
      "align2": 10,
      "result": 0,
-     "timings": [12.1242]
+     "timings": [12.1189]
     },
     {
      "length": 10,
      "align1": 10,
      "align2": 10,
      "result": 1,
-     "timings": [14.2269]
+     "timings": [14.2217]
     },
     {
      "length": 10,
      "align1": 10,
      "align2": 10,
      "result": 18446744073709551615,
-     "timings": [14.126]
+     "timings": [14.1605]
     },
     {
      "length": 11,
      "align1": 11,
      "align2": 11,
      "result": 0,
-     "timings": [12.2633]
+     "timings": [12.2529]
     },
     {
      "length": 11,
      "align1": 11,
      "align2": 11,
      "result": 1,
-     "timings": [14.1433]
+     "timings": [14.1767]
     },
     {
      "length": 11,
      "align1": 11,
      "align2": 11,
      "result": 18446744073709551615,
-     "timings": [14.3133]
+     "timings": [14.3246]
     },
     {
      "length": 12,
      "align1": 12,
      "align2": 12,
      "result": 0,
-     "timings": [12.1914]
+     "timings": [12.1633]
     },
     {
      "length": 12,
      "align1": 12,
      "align2": 12,
      "result": 1,
-     "timings": [14.5186]
+     "timings": [14.181]
     },
     {
      "length": 12,
      "align1": 12,
      "align2": 12,
      "result": 18446744073709551615,
-     "timings": [14.5117]
+     "timings": [14.245]
     },
     {
      "length": 13,
      "align1": 13,
      "align2": 13,
      "result": 0,
-     "timings": [12.7968]
+     "timings": [12.7197]
     },
     {
      "length": 13,
      "align1": 13,
      "align2": 13,
      "result": 1,
-     "timings": [14.1986]
+     "timings": [14.134]
     },
     {
      "length": 13,
      "align1": 13,
      "align2": 13,
      "result": 18446744073709551615,
-     "timings": [14.3125]
+     "timings": [14.1761]
     },
     {
      "length": 14,
      "align1": 14,
      "align2": 14,
      "result": 0,
-     "timings": [13.1888]
+     "timings": [13.1941]
     },
     {
      "length": 14,
      "align1": 14,
      "align2": 14,
      "result": 1,
-     "timings": [15.2492]
+     "timings": [15.2181]
     },
     {
      "length": 14,
      "align1": 14,
      "align2": 14,
      "result": 18446744073709551615,
-     "timings": [15.2173]
+     "timings": [15.1361]
     },
     {
      "length": 15,
      "align1": 15,
      "align2": 15,
      "result": 0,
-     "timings": [14.6951]
+     "timings": [14.6359]
     },
     {
      "length": 15,
      "align1": 15,
      "align2": 15,
      "result": 1,
-     "timings": [15.0092]
+     "timings": [14.9418]
     },
     {
      "length": 15,
      "align1": 15,
      "align2": 15,
      "result": 18446744073709551615,
-     "timings": [14.8743]
+     "timings": [14.9802]
     },
     {
      "length": 16,
      "align1": 16,
      "align2": 16,
      "result": 0,
-     "timings": [12.2297]
+     "timings": [12.2842]
     },
     {
      "length": 16,
      "align1": 16,
      "align2": 16,
      "result": 1,
-     "timings": [15.2835]
+     "timings": [15.1292]
     },
     {
      "length": 16,
      "align1": 16,
      "align2": 16,
      "result": 18446744073709551615,
-     "timings": [14.956]
+     "timings": [14.7899]
     },
     {
      "length": 17,
      "align1": 17,
      "align2": 17,
      "result": 0,
-     "timings": [14.6343]
+     "timings": [14.4897]
     },
     {
      "length": 17,
      "align1": 17,
      "align2": 17,
      "result": 1,
-     "timings": [15.0253]
+     "timings": [14.9529]
     },
     {
      "length": 17,
      "align1": 17,
      "align2": 17,
      "result": 18446744073709551615,
-     "timings": [15.2926]
+     "timings": [15.0233]
     },
     {
      "length": 18,
      "align1": 18,
      "align2": 18,
      "result": 0,
-     "timings": [14.9385]
+     "timings": [14.7942]
     },
     {
      "length": 18,
      "align1": 18,
      "align2": 18,
      "result": 1,
-     "timings": [15.2808]
+     "timings": [16.2543]
     },
     {
      "length": 18,
      "align1": 18,
      "align2": 18,
      "result": 18446744073709551615,
-     "timings": [15.4263]
+     "timings": [15.6251]
     },
     {
      "length": 19,
      "align1": 19,
      "align2": 19,
      "result": 0,
-     "timings": [15.4174]
+     "timings": [15.2538]
     },
     {
      "length": 19,
      "align1": 19,
      "align2": 19,
      "result": 1,
-     "timings": [15.6581]
+     "timings": [15.6585]
     },
     {
      "length": 19,
      "align1": 19,
      "align2": 19,
      "result": 18446744073709551615,
-     "timings": [15.7882]
+     "timings": [15.7238]
     },
     {
      "length": 20,
      "align1": 20,
      "align2": 20,
      "result": 0,
-     "timings": [12.2256]
+     "timings": [12.1835]
     },
     {
      "length": 20,
      "align1": 20,
      "align2": 20,
      "result": 1,
-     "timings": [14.4793]
+     "timings": [14.4734]
     },
     {
      "length": 20,
      "align1": 20,
      "align2": 20,
      "result": 18446744073709551615,
-     "timings": [14.4744]
+     "timings": [14.7751]
     },
     {
      "length": 21,
      "align1": 21,
      "align2": 21,
      "result": 0,
-     "timings": [12.6627]
+     "timings": [12.7782]
     },
     {
      "length": 21,
      "align1": 21,
      "align2": 21,
      "result": 1,
-     "timings": [14.3024]
+     "timings": [14.1755]
     },
     {
      "length": 21,
      "align1": 21,
      "align2": 21,
      "result": 18446744073709551615,
-     "timings": [14.3818]
+     "timings": [14.1912]
     },
     {
      "length": 22,
      "align1": 22,
      "align2": 22,
      "result": 0,
-     "timings": [13.2368]
+     "timings": [13.1856]
     },
     {
      "length": 22,
      "align1": 22,
      "align2": 22,
      "result": 1,
-     "timings": [14.3487]
+     "timings": [14.2623]
     },
     {
      "length": 22,
      "align1": 22,
      "align2": 22,
      "result": 18446744073709551615,
-     "timings": [14.188]
+     "timings": [14.1527]
     },
     {
      "length": 23,
      "align1": 23,
      "align2": 23,
      "result": 0,
-     "timings": [13.6124]
+     "timings": [13.2786]
     },
     {
      "length": 23,
      "align1": 23,
      "align2": 23,
      "result": 1,
-     "timings": [15.18]
+     "timings": [15.1574]
     },
     {
      "length": 23,
      "align1": 23,
      "align2": 23,
      "result": 18446744073709551615,
-     "timings": [15.3086]
+     "timings": [15.2506]
     },
     {
      "length": 24,
      "align1": 24,
      "align2": 24,
      "result": 0,
-     "timings": [12.9689]
+     "timings": [12.9264]
     },
     {
      "length": 24,
      "align1": 24,
      "align2": 24,
      "result": 1,
-     "timings": [15.3106]
+     "timings": [15.2608]
     },
     {
      "length": 24,
      "align1": 24,
      "align2": 24,
      "result": 18446744073709551615,
-     "timings": [16.5612]
+     "timings": [15.1557]
     },
     {
      "length": 25,
      "align1": 25,
      "align2": 25,
      "result": 0,
-     "timings": [18.4077]
+     "timings": [13.6165]
     },
     {
      "length": 25,
      "align1": 25,
      "align2": 25,
      "result": 1,
-     "timings": [22.0904]
+     "timings": [14.3118]
     },
     {
      "length": 25,
      "align1": 25,
      "align2": 25,
      "result": 18446744073709551615,
-     "timings": [14.7163]
+     "timings": [14.1785]
     },
     {
      "length": 26,
      "align1": 26,
      "align2": 26,
      "result": 0,
-     "timings": [13.9255]
+     "timings": [13.9262]
     },
     {
      "length": 26,
      "align1": 26,
      "align2": 26,
      "result": 1,
-     "timings": [15.356]
+     "timings": [15.167]
     },
     {
      "length": 26,
      "align1": 26,
      "align2": 26,
      "result": 18446744073709551615,
-     "timings": [15.4384]
+     "timings": [15.2509]
     },
     {
      "length": 27,
      "align1": 27,
      "align2": 27,
      "result": 0,
-     "timings": [14.6095]
+     "timings": [14.2843]
     },
     {
      "length": 27,
      "align1": 27,
      "align2": 27,
      "result": 1,
-     "timings": [15.8022]
+     "timings": [15.1705]
     },
     {
      "length": 27,
      "align1": 27,
      "align2": 27,
      "result": 18446744073709551615,
-     "timings": [15.4793]
+     "timings": [15.2503]
     },
     {
      "length": 28,
      "align1": 28,
      "align2": 28,
      "result": 0,
-     "timings": [13.6018]
+     "timings": [13.3371]
     },
     {
      "length": 28,
      "align1": 28,
      "align2": 28,
      "result": 1,
-     "timings": [16.4589]
+     "timings": [16.2764]
     },
     {
      "length": 28,
      "align1": 28,
      "align2": 28,
      "result": 18446744073709551615,
-     "timings": [16.0535]
+     "timings": [15.8042]
     },
     {
      "length": 29,
      "align1": 29,
      "align2": 29,
      "result": 0,
-     "timings": [14.8794]
+     "timings": [14.6877]
     },
     {
      "length": 29,
      "align1": 29,
      "align2": 29,
      "result": 1,
-     "timings": [15.3819]
+     "timings": [15.3499]
     },
     {
      "length": 29,
      "align1": 29,
      "align2": 29,
      "result": 18446744073709551615,
-     "timings": [18.0767]
+     "timings": [15.2664]
     },
     {
      "length": 30,
      "align1": 30,
      "align2": 30,
      "result": 0,
-     "timings": [19.3011]
+     "timings": [15.097]
     },
     {
      "length": 30,
      "align1": 30,
      "align2": 30,
      "result": 1,
-     "timings": [16.8285]
+     "timings": [15.265]
     },
     {
      "length": 30,
      "align1": 30,
      "align2": 30,
      "result": 18446744073709551615,
-     "timings": [16.6426]
+     "timings": [15.3282]
     },
     {
      "length": 31,
      "align1": 31,
      "align2": 31,
      "result": 0,
-     "timings": [15.5857]
+     "timings": [15.3901]
     },
     {
      "length": 31,
      "align1": 31,
      "align2": 31,
      "result": 1,
-     "timings": [16.1324]
+     "timings": [16.2791]
     },
     {
      "length": 31,
      "align1": 31,
      "align2": 31,
      "result": 18446744073709551615,
-     "timings": [16.3263]
+     "timings": [16.1603]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [9.16945]
+     "timings": [9.11641]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [9.20842]
+     "timings": [9.14015]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [9.15137]
+     "timings": [9.12062]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [9.149]
+     "timings": [9.09967]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [9.41135]
+     "timings": [9.11386]
     },
     {
      "length": 0,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [9.17149]
+     "timings": [9.09262]
     },
     {
      "length": 1,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [8.52893]
+     "timings": [8.46046]
     },
     {
      "length": 1,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [8.49966]
+     "timings": [8.34038]
     },
     {
      "length": 1,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [8.63678]
+     "timings": [8.55682]
     },
     {
      "length": 1,
      "align1": 4095,
      "align2": 0,
      "result": 0,
-     "timings": [8.73706]
+     "timings": [8.00687]
     },
     {
      "length": 1,
      "align1": 4095,
      "align2": 0,
      "result": 1,
-     "timings": [8.54253]
+     "timings": [8.51242]
     },
     {
      "length": 1,
      "align1": 4095,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [8.43892]
+     "timings": [8.45917]
     },
     {
      "length": 2,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [8.14166]
+     "timings": [8.13023]
     },
     {
      "length": 2,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [9.13329]
+     "timings": [9.15398]
     },
     {
      "length": 2,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [8.57085]
+     "timings": [8.53278]
     },
     {
      "length": 2,
      "align1": 4094,
      "align2": 0,
      "result": 0,
-     "timings": [8.101]
+     "timings": [8.11667]
     },
     {
      "length": 2,
      "align1": 4094,
      "align2": 0,
      "result": 1,
-     "timings": [9.18141]
+     "timings": [9.11086]
     },
     {
      "length": 2,
      "align1": 4094,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [8.59895]
+     "timings": [8.54689]
     },
     {
      "length": 3,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [9.3622]
+     "timings": [9.31329]
     },
     {
      "length": 3,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [9.36842]
+     "timings": [9.38216]
     },
     {
      "length": 3,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [9.49939]
+     "timings": [9.49196]
     },
     {
      "length": 3,
      "align1": 4093,
      "align2": 0,
      "result": 0,
-     "timings": [9.31833]
+     "timings": [9.33768]
     },
     {
      "length": 3,
      "align1": 4093,
      "align2": 0,
      "result": 1,
-     "timings": [9.38774]
+     "timings": [10.9252]
     },
     {
      "length": 3,
      "align1": 4093,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [9.49872]
+     "timings": [10.4464]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [10.5286]
+     "timings": [10.7569]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [10.5688]
+     "timings": [10.6056]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [10.6839]
+     "timings": [11.3516]
     },
     {
      "length": 4,
      "align1": 4092,
      "align2": 0,
      "result": 0,
-     "timings": [10.7733]
+     "timings": [12.4839]
     },
     {
      "length": 4,
      "align1": 4092,
      "align2": 0,
      "result": 1,
-     "timings": [10.593]
+     "timings": [18.3111]
     },
     {
      "length": 4,
      "align1": 4092,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [10.7625]
+     "timings": [18.382]
     },
     {
      "length": 5,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [11.7123]
+     "timings": [20.08]
     },
     {
      "length": 5,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [11.9672]
+     "timings": [19.9257]
     },
     {
      "length": 5,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [12.0131]
+     "timings": [19.8309]
     },
     {
      "length": 5,
      "align1": 4091,
      "align2": 0,
      "result": 0,
-     "timings": [11.7162]
+     "timings": [19.7904]
     },
     {
      "length": 5,
      "align1": 4091,
      "align2": 0,
      "result": 1,
-     "timings": [11.5036]
+     "timings": [19.659]
     },
     {
      "length": 5,
      "align1": 4091,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [12.2084]
+     "timings": [19.7986]
     },
     {
      "length": 6,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.0986]
+     "timings": [21.7196]
     },
     {
      "length": 6,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [13.1284]
+     "timings": [22.1365]
     },
     {
      "length": 6,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.1716]
+     "timings": [22.8]
     },
     {
      "length": 6,
      "align1": 4090,
      "align2": 0,
      "result": 0,
-     "timings": [13.2661]
+     "timings": [21.7488]
     },
     {
      "length": 6,
      "align1": 4090,
      "align2": 0,
      "result": 1,
-     "timings": [13.1201]
+     "timings": [22.4194]
     },
     {
      "length": 6,
      "align1": 4090,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.1162]
+     "timings": [23.1044]
     },
     {
      "length": 7,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.6966]
+     "timings": [23.8402]
     },
     {
      "length": 7,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.744]
+     "timings": [24.4262]
     },
     {
      "length": 7,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.8857]
+     "timings": [24.5398]
     },
     {
      "length": 7,
      "align1": 4089,
      "align2": 0,
      "result": 0,
-     "timings": [13.2941]
+     "timings": [23.6199]
     },
     {
      "length": 7,
      "align1": 4089,
      "align2": 0,
      "result": 1,
-     "timings": [14.6529]
+     "timings": [24.4031]
     },
     {
      "length": 7,
      "align1": 4089,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.0036]
+     "timings": [24.5785]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.1503]
+     "timings": [20.2565]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.2946]
+     "timings": [25.1886]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2152]
+     "timings": [24.8977]
     },
     {
      "length": 8,
      "align1": 4088,
      "align2": 0,
      "result": 0,
-     "timings": [12.2694]
+     "timings": [20.3766]
     },
     {
      "length": 8,
      "align1": 4088,
      "align2": 0,
      "result": 1,
-     "timings": [14.1478]
+     "timings": [24.9698]
     },
     {
      "length": 8,
      "align1": 4088,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.3027]
+     "timings": [25.0548]
     },
     {
      "length": 9,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.2669]
+     "timings": [22.2769]
     },
     {
      "length": 9,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.293]
+     "timings": [23.4766]
     },
     {
      "length": 9,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.1338]
+     "timings": [25.9008]
     },
     {
      "length": 9,
      "align1": 4087,
      "align2": 0,
      "result": 0,
-     "timings": [12.2646]
+     "timings": [22.3501]
     },
     {
      "length": 9,
      "align1": 4087,
      "align2": 0,
      "result": 1,
-     "timings": [14.1573]
+     "timings": [24.4242]
     },
     {
      "length": 9,
      "align1": 4087,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2179]
+     "timings": [23.4003]
     },
     {
      "length": 10,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.101]
+     "timings": [21.7039]
     },
     {
      "length": 10,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.1218]
+     "timings": [22.3284]
     },
     {
      "length": 10,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.218]
+     "timings": [23.2951]
     },
     {
      "length": 10,
      "align1": 4086,
      "align2": 0,
      "result": 0,
-     "timings": [12.1406]
+     "timings": [21.6094]
     },
     {
      "length": 10,
      "align1": 4086,
      "align2": 0,
      "result": 1,
-     "timings": [14.2139]
+     "timings": [23.2174]
     },
     {
      "length": 10,
      "align1": 4086,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.1265]
+     "timings": [24.2234]
     },
     {
      "length": 11,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.2302]
+     "timings": [22.8425]
     },
     {
      "length": 11,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.1446]
+     "timings": [23.6743]
     },
     {
      "length": 11,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2963]
+     "timings": [24.8468]
     },
     {
      "length": 11,
      "align1": 4085,
      "align2": 0,
      "result": 0,
-     "timings": [12.1349]
+     "timings": [12.7532]
     },
     {
      "length": 11,
      "align1": 4085,
      "align2": 0,
      "result": 1,
-     "timings": [14.2684]
+     "timings": [14.2008]
     },
     {
      "length": 11,
      "align1": 4085,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2193]
+     "timings": [14.2366]
     },
     {
      "length": 12,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.1909]
+     "timings": [12.2009]
     },
     {
      "length": 12,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.2464]
+     "timings": [14.3537]
     },
     {
      "length": 12,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.3287]
+     "timings": [14.3429]
     },
     {
      "length": 12,
      "align1": 4084,
      "align2": 0,
      "result": 0,
-     "timings": [12.3979]
+     "timings": [12.2308]
     },
     {
      "length": 12,
      "align1": 4084,
      "align2": 0,
      "result": 1,
-     "timings": [14.2282]
+     "timings": [14.4285]
     },
     {
      "length": 12,
      "align1": 4084,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2505]
+     "timings": [14.5036]
     },
     {
      "length": 13,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.5784]
+     "timings": [12.4306]
     },
     {
      "length": 13,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.1454]
+     "timings": [14.1816]
     },
     {
      "length": 13,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [19.5431]
+     "timings": [14.3634]
     },
     {
      "length": 13,
      "align1": 4083,
      "align2": 0,
      "result": 0,
-     "timings": [16.2246]
+     "timings": [12.2619]
     },
     {
      "length": 13,
      "align1": 4083,
      "align2": 0,
      "result": 1,
-     "timings": [18.3323]
+     "timings": [14.2158]
     },
     {
      "length": 13,
      "align1": 4083,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.6472]
+     "timings": [14.1925]
     },
     {
      "length": 14,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.3994]
+     "timings": [13.3442]
     },
     {
      "length": 14,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.2829]
+     "timings": [15.3205]
     },
     {
      "length": 14,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.1708]
+     "timings": [15.2168]
     },
     {
      "length": 14,
      "align1": 4082,
      "align2": 0,
      "result": 0,
-     "timings": [13.7388]
+     "timings": [13.3885]
     },
     {
      "length": 14,
      "align1": 4082,
      "align2": 0,
      "result": 1,
-     "timings": [15.2466]
+     "timings": [15.2469]
     },
     {
      "length": 14,
      "align1": 4082,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.4931]
+     "timings": [15.3576]
     },
     {
      "length": 15,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.9876]
+     "timings": [14.8332]
     },
     {
      "length": 15,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.9978]
+     "timings": [15.037]
     },
     {
      "length": 15,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.1918]
+     "timings": [15.1689]
     },
     {
      "length": 15,
      "align1": 4081,
      "align2": 0,
      "result": 0,
-     "timings": [15.4646]
+     "timings": [14.582]
     },
     {
      "length": 15,
      "align1": 4081,
      "align2": 0,
      "result": 1,
-     "timings": [15.9067]
+     "timings": [15.0528]
     },
     {
      "length": 15,
      "align1": 4081,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.0906]
+     "timings": [15.1019]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.6393]
+     "timings": [12.2218]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.3437]
+     "timings": [15.278]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.514]
+     "timings": [14.849]
     },
     {
      "length": 16,
      "align1": 4080,
      "align2": 0,
      "result": 0,
-     "timings": [12.4573]
+     "timings": [12.2875]
     },
     {
      "length": 16,
      "align1": 4080,
      "align2": 0,
      "result": 1,
-     "timings": [15.5615]
+     "timings": [15.1901]
     },
     {
      "length": 16,
      "align1": 4080,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.4169]
+     "timings": [14.9204]
     },
     {
      "length": 17,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [15.3432]
+     "timings": [14.5248]
     },
     {
      "length": 17,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.9509]
+     "timings": [15.0713]
     },
     {
      "length": 17,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.0847]
+     "timings": [15.0573]
     },
     {
      "length": 17,
      "align1": 4079,
      "align2": 0,
      "result": 0,
-     "timings": [14.5298]
+     "timings": [14.4803]
     },
     {
      "length": 17,
      "align1": 4079,
      "align2": 0,
      "result": 1,
-     "timings": [15.065]
+     "timings": [14.959]
     },
     {
      "length": 17,
      "align1": 4079,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.0685]
+     "timings": [15.4505]
     },
     {
      "length": 18,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.8153]
+     "timings": [15.0607]
     },
     {
      "length": 18,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.3953]
+     "timings": [15.3675]
     },
     {
      "length": 18,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.2722]
+     "timings": [15.3827]
     },
     {
      "length": 18,
      "align1": 4078,
      "align2": 0,
      "result": 0,
-     "timings": [14.8557]
+     "timings": [14.8962]
     },
     {
      "length": 18,
      "align1": 4078,
      "align2": 0,
      "result": 1,
-     "timings": [15.2511]
+     "timings": [15.3505]
     },
     {
      "length": 18,
      "align1": 4078,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.4042]
+     "timings": [15.2161]
     },
     {
      "length": 19,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [15.31]
+     "timings": [15.5748]
     },
     {
      "length": 19,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.718]
+     "timings": [15.7361]
     },
     {
      "length": 19,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.6405]
+     "timings": [15.9729]
     },
     {
      "length": 19,
      "align1": 4077,
      "align2": 0,
      "result": 0,
-     "timings": [15.2936]
+     "timings": [15.4222]
     },
     {
      "length": 19,
      "align1": 4077,
      "align2": 0,
      "result": 1,
-     "timings": [15.6277]
+     "timings": [15.7101]
     },
     {
      "length": 19,
      "align1": 4077,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.753]
+     "timings": [15.9033]
     },
     {
      "length": 20,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.2049]
+     "timings": [12.266]
     },
     {
      "length": 20,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.4759]
+     "timings": [14.6379]
     },
     {
      "length": 20,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.7209]
+     "timings": [14.6572]
     },
     {
      "length": 20,
      "align1": 4076,
      "align2": 0,
      "result": 0,
-     "timings": [12.1863]
+     "timings": [12.283]
     },
     {
      "length": 20,
      "align1": 4076,
      "align2": 0,
      "result": 1,
-     "timings": [14.7654]
+     "timings": [14.6624]
     },
     {
      "length": 20,
      "align1": 4076,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.697]
+     "timings": [14.7661]
     },
     {
      "length": 21,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.6527]
+     "timings": [12.7225]
     },
     {
      "length": 21,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.405]
+     "timings": [14.4342]
     },
     {
      "length": 21,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2428]
+     "timings": [14.3068]
     },
     {
      "length": 21,
      "align1": 4075,
      "align2": 0,
      "result": 0,
-     "timings": [12.6597]
+     "timings": [12.8426]
     },
     {
      "length": 21,
      "align1": 4075,
      "align2": 0,
      "result": 1,
-     "timings": [14.6874]
+     "timings": [14.2666]
     },
     {
      "length": 21,
      "align1": 4075,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.391]
+     "timings": [14.4236]
     },
     {
      "length": 22,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.1781]
+     "timings": [13.3944]
     },
     {
      "length": 22,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.2499]
+     "timings": [14.4099]
     },
     {
      "length": 22,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.1627]
+     "timings": [14.2411]
     },
     {
      "length": 22,
      "align1": 4074,
      "align2": 0,
      "result": 0,
-     "timings": [13.3273]
+     "timings": [13.274]
     },
     {
      "length": 22,
      "align1": 4074,
      "align2": 0,
      "result": 1,
-     "timings": [14.1324]
+     "timings": [14.259]
     },
     {
      "length": 22,
      "align1": 4074,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2196]
+     "timings": [14.4048]
     },
     {
      "length": 23,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.276]
+     "timings": [13.6968]
     },
     {
      "length": 23,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.2477]
+     "timings": [15.2133]
     },
     {
      "length": 23,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.174]
+     "timings": [15.3977]
     },
     {
      "length": 23,
      "align1": 4073,
      "align2": 0,
      "result": 0,
-     "timings": [13.3682]
+     "timings": [13.5936]
     },
     {
      "length": 23,
      "align1": 4073,
      "align2": 0,
      "result": 1,
-     "timings": [15.1731]
+     "timings": [15.3702]
     },
     {
      "length": 23,
      "align1": 4073,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.7024]
+     "timings": [15.4331]
     },
     {
      "length": 24,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.1038]
+     "timings": [14.3909]
     },
     {
      "length": 24,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.1902]
+     "timings": [15.4155]
     },
     {
      "length": 24,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.222]
+     "timings": [15.412]
     },
     {
      "length": 24,
      "align1": 4072,
      "align2": 0,
      "result": 0,
-     "timings": [12.957]
+     "timings": [13.1557]
     },
     {
      "length": 24,
      "align1": 4072,
      "align2": 0,
      "result": 1,
-     "timings": [15.3792]
+     "timings": [15.3602]
     },
     {
      "length": 24,
      "align1": 4072,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.2589]
+     "timings": [15.1889]
     },
     {
      "length": 25,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.5113]
+     "timings": [13.7777]
     },
     {
      "length": 25,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.2637]
+     "timings": [14.201]
     },
     {
      "length": 25,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2036]
+     "timings": [14.3348]
     },
     {
      "length": 25,
      "align1": 4071,
      "align2": 0,
      "result": 0,
-     "timings": [13.6258]
+     "timings": [13.5276]
     },
     {
      "length": 25,
      "align1": 4071,
      "align2": 0,
      "result": 1,
-     "timings": [14.1834]
+     "timings": [14.2747]
     },
     {
      "length": 25,
      "align1": 4071,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.4038]
+     "timings": [14.2069]
     },
     {
      "length": 26,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.9291]
+     "timings": [13.9982]
     },
     {
      "length": 26,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.2861]
+     "timings": [15.3008]
     },
     {
      "length": 26,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.2831]
+     "timings": [15.1568]
     },
     {
      "length": 26,
      "align1": 4070,
      "align2": 0,
      "result": 0,
-     "timings": [13.8352]
+     "timings": [13.9498]
     },
     {
      "length": 26,
      "align1": 4070,
      "align2": 0,
      "result": 1,
-     "timings": [15.2465]
+     "timings": [15.1679]
     },
     {
      "length": 26,
      "align1": 4070,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.1782]
+     "timings": [15.307]
     },
     {
      "length": 27,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.6693]
+     "timings": [14.6735]
     },
     {
      "length": 27,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.2478]
+     "timings": [15.1951]
     },
     {
      "length": 27,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.122]
+     "timings": [15.2275]
     },
     {
      "length": 27,
      "align1": 4069,
      "align2": 0,
      "result": 0,
-     "timings": [14.6383]
+     "timings": [14.5532]
     },
     {
      "length": 27,
      "align1": 4069,
      "align2": 0,
      "result": 1,
-     "timings": [15.1625]
+     "timings": [15.837]
     },
     {
      "length": 27,
      "align1": 4069,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.2494]
+     "timings": [16.656]
     },
     {
      "length": 28,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [13.9151]
+     "timings": [13.9191]
     },
     {
      "length": 28,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [16.1282]
+     "timings": [16.2101]
     },
     {
      "length": 28,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.9139]
+     "timings": [15.9969]
     },
     {
      "length": 28,
      "align1": 4068,
      "align2": 0,
      "result": 0,
-     "timings": [13.5636]
+     "timings": [13.5498]
     },
     {
      "length": 28,
      "align1": 4068,
      "align2": 0,
      "result": 1,
-     "timings": [16.1263]
+     "timings": [16.2548]
     },
     {
      "length": 28,
      "align1": 4068,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.8894]
+     "timings": [15.9081]
     },
     {
      "length": 29,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.8113]
+     "timings": [14.8349]
     },
     {
      "length": 29,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.1747]
+     "timings": [15.2023]
     },
     {
      "length": 29,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.3494]
+     "timings": [15.355]
     },
     {
      "length": 29,
      "align1": 4067,
      "align2": 0,
      "result": 0,
-     "timings": [14.7206]
+     "timings": [14.7248]
     },
     {
      "length": 29,
      "align1": 4067,
      "align2": 0,
      "result": 1,
-     "timings": [15.3285]
+     "timings": [15.2812]
     },
     {
      "length": 29,
      "align1": 4067,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.3746]
+     "timings": [15.4266]
     },
     {
      "length": 30,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [15.0614]
+     "timings": [15.1033]
     },
     {
      "length": 30,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.1936]
+     "timings": [15.2124]
     },
     {
      "length": 30,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.6597]
+     "timings": [15.4971]
     },
     {
      "length": 30,
      "align1": 4066,
      "align2": 0,
      "result": 0,
-     "timings": [15.1044]
+     "timings": [14.8954]
     },
     {
      "length": 30,
      "align1": 4066,
      "align2": 0,
      "result": 1,
-     "timings": [15.2811]
+     "timings": [15.3217]
     },
     {
      "length": 30,
      "align1": 4066,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [15.3864]
+     "timings": [18.023]
     },
     {
      "length": 31,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [15.3744]
+     "timings": [15.82]
     },
     {
      "length": 31,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [16.2509]
+     "timings": [16.4897]
     },
     {
      "length": 31,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.154]
+     "timings": [16.2574]
     },
     {
      "length": 31,
      "align1": 4065,
      "align2": 0,
      "result": 0,
-     "timings": [15.3938]
+     "timings": [16.7183]
     },
     {
      "length": 31,
      "align1": 4065,
      "align2": 0,
      "result": 1,
-     "timings": [16.1235]
+     "timings": [16.9081]
     },
     {
      "length": 31,
      "align1": 4065,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.1528]
+     "timings": [16.1315]
     },
     {
      "length": 33,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [15.5072]
+     "timings": [15.4951]
     },
     {
      "length": 33,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [16.2534]
+     "timings": [16.3167]
     },
     {
      "length": 33,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.0164]
+     "timings": [16.2196]
     },
     {
      "length": 33,
      "align1": 33,
      "align2": 0,
      "result": 0,
-     "timings": [15.5554]
+     "timings": [15.6235]
     },
     {
      "length": 33,
      "align1": 0,
      "align2": 33,
      "result": 1,
-     "timings": [16.2966]
+     "timings": [16.2164]
     },
     {
      "length": 33,
      "align1": 33,
      "align2": 33,
      "result": 18446744073709551615,
-     "timings": [16.0831]
+     "timings": [16.1753]
     },
     {
      "length": 65,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [17.9426]
+     "timings": [17.9893]
     },
     {
      "length": 65,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [19.2989]
+     "timings": [20.0473]
     },
     {
      "length": 65,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [18.9083]
+     "timings": [26.3854]
     },
     {
      "length": 65,
      "align1": 65,
      "align2": 0,
      "result": 0,
-     "timings": [18.2474]
+     "timings": [18.3884]
     },
     {
      "length": 65,
      "align1": 0,
      "align2": 65,
      "result": 1,
-     "timings": [19.2725]
+     "timings": [26.8613]
     },
     {
      "length": 65,
      "align1": 65,
      "align2": 65,
      "result": 18446744073709551615,
-     "timings": [19.181]
+     "timings": [30.2416]
     },
     {
      "length": 97,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [23.6026]
+     "timings": [39.0096]
     },
     {
      "length": 97,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [24.3969]
+     "timings": [25.2115]
     },
     {
      "length": 97,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [24.4943]
+     "timings": [27.3464]
     },
     {
      "length": 97,
      "align1": 97,
      "align2": 0,
      "result": 0,
-     "timings": [23.8655]
+     "timings": [24.2086]
     },
     {
      "length": 97,
      "align1": 0,
      "align2": 97,
      "result": 1,
-     "timings": [24.6074]
+     "timings": [25.4311]
     },
     {
      "length": 97,
      "align1": 97,
      "align2": 97,
      "result": 18446744073709551615,
-     "timings": [24.7411]
+     "timings": [25.7271]
     },
     {
      "length": 129,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [28.1156]
+     "timings": [30.8333]
     },
     {
      "length": 129,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [28.232]
+     "timings": [31.7217]
     },
     {
      "length": 129,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [28.6124]
+     "timings": [30.9756]
     },
     {
      "length": 129,
      "align1": 129,
      "align2": 0,
      "result": 0,
-     "timings": [27.8526]
+     "timings": [28.159]
     },
     {
      "length": 129,
      "align1": 0,
      "align2": 129,
      "result": 1,
-     "timings": [28.5512]
+     "timings": [28.7689]
     },
     {
      "length": 129,
      "align1": 129,
      "align2": 129,
      "result": 18446744073709551615,
-     "timings": [29.0885]
+     "timings": [29.3051]
     },
     {
      "length": 161,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [32.8239]
+     "timings": [32.876]
     },
     {
      "length": 161,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [33.1281]
+     "timings": [33.1854]
     },
     {
      "length": 161,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [32.5598]
+     "timings": [32.4998]
     },
     {
      "length": 161,
      "align1": 161,
      "align2": 0,
      "result": 0,
-     "timings": [33.6888]
+     "timings": [34.5558]
     },
     {
      "length": 161,
      "align1": 0,
      "align2": 161,
      "result": 1,
-     "timings": [34.6273]
+     "timings": [34.599]
     },
     {
      "length": 161,
      "align1": 161,
      "align2": 161,
      "result": 18446744073709551615,
-     "timings": [34.3468]
+     "timings": [34.1777]
     },
     {
      "length": 193,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [37.5648]
+     "timings": [37.6434]
     },
     {
      "length": 193,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [37.7442]
+     "timings": [37.939]
     },
     {
      "length": 193,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [39.4284]
+     "timings": [39.1831]
     },
     {
      "length": 193,
      "align1": 193,
      "align2": 0,
      "result": 0,
-     "timings": [38.9912]
+     "timings": [39.2699]
     },
     {
      "length": 193,
      "align1": 0,
      "align2": 193,
      "result": 1,
-     "timings": [39.3654]
+     "timings": [39.3248]
     },
     {
      "length": 193,
      "align1": 193,
      "align2": 193,
      "result": 18446744073709551615,
-     "timings": [41.1153]
+     "timings": [41.0147]
     },
     {
      "length": 225,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [39.683]
+     "timings": [40.1516]
     },
     {
      "length": 225,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [40.1772]
+     "timings": [40.201]
     },
     {
      "length": 225,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [40.8551]
+     "timings": [40.8002]
     },
     {
      "length": 225,
      "align1": 225,
      "align2": 0,
      "result": 0,
-     "timings": [41.6122]
+     "timings": [41.2596]
     },
     {
      "length": 225,
      "align1": 0,
      "align2": 225,
      "result": 1,
-     "timings": [41.8281]
+     "timings": [41.856]
     },
     {
      "length": 225,
      "align1": 225,
      "align2": 225,
      "result": 18446744073709551615,
-     "timings": [43.6524]
+     "timings": [42.483]
     },
     {
      "length": 257,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [49.0385]
+     "timings": [44.1542]
     },
     {
      "length": 257,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [45.1302]
+     "timings": [44.3483]
     },
     {
      "length": 257,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [44.5199]
+     "timings": [44.2096]
     },
     {
      "length": 257,
      "align1": 257,
      "align2": 0,
      "result": 0,
-     "timings": [46.4489]
+     "timings": [46.1452]
     },
     {
      "length": 257,
      "align1": 0,
      "align2": 257,
      "result": 1,
-     "timings": [46.6888]
+     "timings": [46.91]
     },
     {
      "length": 257,
      "align1": 257,
      "align2": 257,
      "result": 18446744073709551615,
-     "timings": [48.0867]
+     "timings": [47.4232]
     },
     {
      "length": 289,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [46.647]
+     "timings": [46.4087]
     },
     {
      "length": 289,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [46.5834]
+     "timings": [46.5883]
     },
     {
      "length": 289,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [47.0526]
+     "timings": [47.3558]
     },
     {
      "length": 289,
      "align1": 289,
      "align2": 0,
      "result": 0,
-     "timings": [48.6266]
+     "timings": [53.3088]
     },
     {
      "length": 289,
      "align1": 0,
      "align2": 289,
      "result": 1,
-     "timings": [48.5896]
+     "timings": [51.9088]
     },
     {
      "length": 289,
      "align1": 289,
      "align2": 289,
      "result": 18446744073709551615,
-     "timings": [49.4187]
+     "timings": [49.5198]
     },
     {
      "length": 321,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [50.2314]
+     "timings": [50.9833]
     },
     {
      "length": 321,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [51.5523]
+     "timings": [54.1682]
     },
     {
      "length": 321,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [51.6248]
+     "timings": [66.0101]
     },
     {
      "length": 321,
      "align1": 321,
      "align2": 0,
      "result": 0,
-     "timings": [52.611]
+     "timings": [53.8125]
     },
     {
      "length": 321,
      "align1": 0,
      "align2": 321,
      "result": 1,
-     "timings": [53.5507]
+     "timings": [54.2113]
     },
     {
      "length": 321,
      "align1": 321,
      "align2": 321,
      "result": 18446744073709551615,
-     "timings": [53.4212]
+     "timings": [54.148]
     },
     {
      "length": 353,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [53.5031]
+     "timings": [59.2861]
     },
     {
      "length": 353,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [53.6516]
+     "timings": [62.1376]
     },
     {
      "length": 353,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [54.0748]
+     "timings": [83.7523]
     },
     {
      "length": 353,
      "align1": 353,
      "align2": 0,
      "result": 0,
-     "timings": [55.7285]
+     "timings": [58.6946]
     },
     {
      "length": 353,
      "align1": 0,
      "align2": 353,
      "result": 1,
-     "timings": [56.1299]
+     "timings": [57.2796]
     },
     {
      "length": 353,
      "align1": 353,
      "align2": 353,
      "result": 18446744073709551615,
-     "timings": [56.6591]
+     "timings": [57.7088]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [10.5202]
+     "timings": [10.8329]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [10.6845]
+     "timings": [10.4895]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [10.7523]
+     "timings": [11.4557]
     },
     {
      "length": 32,
      "align1": 7,
      "align2": 2,
      "result": 0,
-     "timings": [14.6859]
+     "timings": [14.9347]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.8053]
+     "timings": [14.7166]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [17.2463]
+     "timings": [17.245]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.8824]
+     "timings": [16.9134]
     },
     {
      "length": 4,
      "align1": 1,
      "align2": 0,
      "result": 0,
-     "timings": [10.5045]
+     "timings": [10.546]
     },
     {
      "length": 4,
      "align1": 0,
      "align2": 1,
      "result": 1,
-     "timings": [10.6449]
+     "timings": [10.6087]
     },
     {
      "length": 4,
      "align1": 1,
      "align2": 1,
      "result": 18446744073709551615,
-     "timings": [10.7604]
+     "timings": [10.774]
     },
     {
      "length": 32,
      "align1": 1,
      "align2": 0,
      "result": 0,
-     "timings": [14.7806]
+     "timings": [14.8897]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 1,
      "result": 1,
-     "timings": [17.2622]
+     "timings": [17.2377]
     },
     {
      "length": 32,
      "align1": 1,
      "align2": 1,
      "result": 18446744073709551615,
-     "timings": [16.7924]
+     "timings": [17.0554]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.2643]
+     "timings": [12.1591]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [14.1268]
+     "timings": [14.1801]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.2906]
+     "timings": [14.3839]
     },
     {
      "length": 64,
      "align1": 6,
      "align2": 4,
      "result": 0,
-     "timings": [18.2156]
+     "timings": [18.2547]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [18.2645]
+     "timings": [18.242]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [20.2966]
+     "timings": [21.1949]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [20.9007]
+     "timings": [20.5529]
     },
     {
      "length": 8,
      "align1": 2,
      "align2": 0,
      "result": 0,
-     "timings": [12.1756]
+     "timings": [12.293]
     },
     {
      "length": 8,
      "align1": 0,
      "align2": 2,
      "result": 1,
-     "timings": [14.4541]
+     "timings": [14.1819]
     },
     {
      "length": 8,
      "align1": 2,
      "align2": 2,
      "result": 18446744073709551615,
-     "timings": [14.3671]
+     "timings": [14.3301]
     },
     {
      "length": 64,
      "align1": 2,
      "align2": 0,
      "result": 0,
-     "timings": [18.2924]
+     "timings": [18.2344]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 2,
      "result": 1,
-     "timings": [20.5089]
+     "timings": [20.5047]
     },
     {
      "length": 64,
      "align1": 2,
      "align2": 2,
      "result": 18446744073709551615,
-     "timings": [20.3957]
+     "timings": [20.3452]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [12.2435]
+     "timings": [12.1345]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [15.2306]
+     "timings": [15.2747]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [14.8477]
+     "timings": [15.2953]
     },
     {
      "length": 128,
      "align1": 5,
      "align2": 6,
      "result": 0,
-     "timings": [26.8101]
+     "timings": [26.945]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [26.4668]
+     "timings": [26.5183]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [29.2656]
+     "timings": [29.1477]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [30.3453]
+     "timings": [29.3057]
     },
     {
      "length": 16,
      "align1": 3,
      "align2": 0,
      "result": 0,
-     "timings": [12.1288]
+     "timings": [12.1058]
     },
     {
      "length": 16,
      "align1": 0,
      "align2": 3,
      "result": 1,
-     "timings": [15.617]
+     "timings": [15.2141]
     },
     {
      "length": 16,
      "align1": 3,
      "align2": 3,
      "result": 18446744073709551615,
-     "timings": [14.866]
+     "timings": [14.7876]
     },
     {
      "length": 128,
      "align1": 3,
      "align2": 0,
      "result": 0,
-     "timings": [27.0741]
+     "timings": [27.0599]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 3,
      "result": 1,
-     "timings": [29.4415]
+     "timings": [29.4099]
     },
     {
      "length": 128,
      "align1": 3,
      "align2": 3,
      "result": 18446744073709551615,
-     "timings": [31.0584]
+     "timings": [30.9634]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [14.7081]
+     "timings": [14.6739]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [17.2124]
+     "timings": [17.2587]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [16.9809]
+     "timings": [16.8855]
     },
     {
      "length": 256,
      "align1": 4,
      "align2": 8,
      "result": 0,
-     "timings": [46.0547]
+     "timings": [46.3525]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [43.2601]
+     "timings": [43.2863]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [42.2924]
+     "timings": [42.1684]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [42.5313]
+     "timings": [43.0334]
     },
     {
      "length": 32,
      "align1": 4,
      "align2": 0,
      "result": 0,
-     "timings": [14.8049]
+     "timings": [14.6824]
     },
     {
      "length": 32,
      "align1": 0,
      "align2": 4,
      "result": 1,
-     "timings": [17.2277]
+     "timings": [17.2094]
     },
     {
      "length": 32,
      "align1": 4,
      "align2": 4,
      "result": 18446744073709551615,
-     "timings": [16.9471]
+     "timings": [16.8739]
     },
     {
      "length": 256,
      "align1": 4,
      "align2": 0,
      "result": 0,
-     "timings": [45.3911]
+     "timings": [45.5452]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 4,
      "result": 1,
-     "timings": [44.3398]
+     "timings": [44.3284]
     },
     {
      "length": 256,
      "align1": 4,
      "align2": 4,
      "result": 18446744073709551615,
-     "timings": [45.2028]
+     "timings": [45.5422]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [18.2229]
+     "timings": [18.2664]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [20.2354]
+     "timings": [20.3122]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [20.3103]
+     "timings": [20.6494]
     },
     {
      "length": 512,
      "align1": 3,
      "align2": 10,
      "result": 0,
-     "timings": [72.7229]
+     "timings": [78.9755]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [70.987]
+     "timings": [70.7047]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [70.955]
+     "timings": [70.5057]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [69.9856]
+     "timings": [71.0737]
     },
     {
      "length": 64,
      "align1": 5,
      "align2": 0,
      "result": 0,
-     "timings": [18.2398]
+     "timings": [18.2181]
     },
     {
      "length": 64,
      "align1": 0,
      "align2": 5,
      "result": 1,
-     "timings": [20.3234]
+     "timings": [20.3022]
     },
     {
      "length": 64,
      "align1": 5,
      "align2": 5,
      "result": 18446744073709551615,
-     "timings": [20.284]
+     "timings": [20.3958]
     },
     {
      "length": 512,
      "align1": 5,
      "align2": 0,
      "result": 0,
-     "timings": [72.2503]
+     "timings": [71.4253]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 5,
      "result": 1,
-     "timings": [72.0493]
+     "timings": [72.592]
     },
     {
      "length": 512,
      "align1": 5,
      "align2": 5,
      "result": 18446744073709551615,
-     "timings": [73.4526]
+     "timings": [73.6159]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [26.4148]
+     "timings": [26.4125]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [29.2926]
+     "timings": [29.4254]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [30.2583]
+     "timings": [30.0146]
     },
     {
      "length": 1024,
      "align1": 2,
      "align2": 12,
      "result": 0,
-     "timings": [129.35]
+     "timings": [201.251]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [125.236]
+     "timings": [219.415]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [125.741]
+     "timings": [226.502]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [126.116]
+     "timings": [188.621]
     },
     {
      "length": 128,
      "align1": 6,
      "align2": 0,
      "result": 0,
-     "timings": [27.0503]
+     "timings": [27.1501]
     },
     {
      "length": 128,
      "align1": 0,
      "align2": 6,
      "result": 1,
-     "timings": [29.056]
+     "timings": [29.06]
     },
     {
      "length": 128,
      "align1": 6,
      "align2": 6,
      "result": 18446744073709551615,
-     "timings": [30.7248]
+     "timings": [30.6535]
     },
     {
      "length": 1024,
      "align1": 6,
      "align2": 0,
      "result": 0,
-     "timings": [128.471]
+     "timings": [128.672]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 6,
      "result": 1,
-     "timings": [128.798]
+     "timings": [129.503]
     },
     {
      "length": 1024,
      "align1": 6,
      "align2": 6,
      "result": 18446744073709551615,
-     "timings": [129.292]
+     "timings": [130.522]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [42.9436]
+     "timings": [42.6828]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [42.1105]
+     "timings": [41.646]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [42.516]
+     "timings": [41.8998]
     },
     {
      "length": 2048,
      "align1": 1,
      "align2": 14,
      "result": 0,
-     "timings": [241.592]
+     "timings": [240.809]
     },
     {
      "length": 2048,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [235.826]
+     "timings": [236.38]
     },
     {
      "length": 2048,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [236.4]
+     "timings": [236.132]
     },
     {
      "length": 2048,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [236.375]
+     "timings": [236.533]
     },
     {
      "length": 256,
      "align1": 7,
      "align2": 0,
      "result": 0,
-     "timings": [45.5158]
+     "timings": [45.433]
     },
     {
      "length": 256,
      "align1": 0,
      "align2": 7,
      "result": 1,
-     "timings": [44.8428]
+     "timings": [44.3721]
     },
     {
      "length": 256,
      "align1": 7,
      "align2": 7,
      "result": 18446744073709551615,
-     "timings": [44.9191]
+     "timings": [45.2494]
     },
     {
      "length": 2048,
      "align1": 7,
      "align2": 0,
      "result": 0,
-     "timings": [240.112]
+     "timings": [241.081]
     },
     {
      "length": 2048,
      "align1": 0,
      "align2": 7,
      "result": 1,
-     "timings": [241.179]
+     "timings": [241.279]
     },
     {
      "length": 2048,
      "align1": 7,
      "align2": 7,
      "result": 18446744073709551615,
-     "timings": [241.364]
+     "timings": [242.22]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [70.5879]
+     "timings": [70.6238]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [70.0611]
+     "timings": [70.3506]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [71.1212]
+     "timings": [71.2496]
     },
     {
      "length": 4096,
      "align1": 0,
      "align2": 16,
      "result": 0,
-     "timings": [457.077]
+     "timings": [460.438]
     },
     {
      "length": 4096,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [458.303]
+     "timings": [460.232]
     },
     {
      "length": 4096,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [457.972]
+     "timings": [457.494]
     },
     {
      "length": 4096,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [451.435]
+     "timings": [455.397]
     },
     {
      "length": 512,
      "align1": 8,
      "align2": 0,
      "result": 0,
-     "timings": [71.2364]
+     "timings": [71.8889]
     },
     {
      "length": 512,
      "align1": 0,
      "align2": 8,
      "result": 1,
-     "timings": [71.4839]
+     "timings": [71.8895]
     },
     {
      "length": 512,
      "align1": 8,
      "align2": 8,
      "result": 18446744073709551615,
-     "timings": [71.7651]
+     "timings": [73.4468]
     },
     {
      "length": 4096,
      "align1": 8,
      "align2": 0,
      "result": 0,
-     "timings": [457.692]
+     "timings": [464.208]
     },
     {
      "length": 4096,
      "align1": 0,
      "align2": 8,
      "result": 1,
-     "timings": [461.662]
+     "timings": [464.64]
     },
     {
      "length": 4096,
      "align1": 8,
      "align2": 8,
      "result": 18446744073709551615,
-     "timings": [466.33]
+     "timings": [470.346]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 0,
      "result": 0,
-     "timings": [123.941]
+     "timings": [124.857]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 0,
      "result": 1,
-     "timings": [152.736]
+     "timings": [125.84]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 0,
      "result": 18446744073709551615,
-     "timings": [126.486]
+     "timings": [149.915]
     },
     {
      "length": 1024,
      "align1": 9,
      "align2": 0,
      "result": 0,
-     "timings": [128.062]
+     "timings": [128.414]
     },
     {
      "length": 1024,
      "align1": 0,
      "align2": 9,
      "result": 1,
-     "timings": [160.47]
+     "timings": [130.02]
     },
     {
      "length": 1024,
      "align1": 9,
      "align2": 9,
      "result": 18446744073709551615,
-     "timings": [129.736]
+     "timings": [159.237]
     },
     {
      "length": 16,
      "align1": 1,
      "align2": 2,
      "result": 0,
-     "timings": [12.1097]
+     "timings": [12.1386]
     },
     {
      "length": 16,
      "align1": 1,
      "align2": 2,
      "result": 1,
-     "timings": [15.208]
+     "timings": [15.1358]
     },
     {
      "length": 16,
      "align1": 1,
      "align2": 2,
      "result": 18446744073709551615,
-     "timings": [14.7657]
+     "timings": [14.8816]
     },
     {
      "length": 32,
      "align1": 2,
      "align2": 4,
      "result": 0,
-     "timings": [14.7812]
+     "timings": [14.7852]
     },
     {
      "length": 32,
      "align1": 2,
      "align2": 4,
      "result": 1,
-     "timings": [17.2138]
+     "timings": [17.0999]
     },
     {
      "length": 32,
      "align1": 2,
      "align2": 4,
      "result": 18446744073709551615,
-     "timings": [16.9011]
+     "timings": [16.8735]
     },
     {
      "length": 64,
      "align1": 3,
      "align2": 6,
      "result": 0,
-     "timings": [18.2689]
+     "timings": [18.2812]
     },
     {
      "length": 64,
      "align1": 3,
      "align2": 6,
      "result": 1,
-     "timings": [20.6099]
+     "timings": [20.39]
     },
     {
      "length": 64,
      "align1": 3,
      "align2": 6,
      "result": 18446744073709551615,
-     "timings": [20.7516]
+     "timings": [20.8622]
     },
     {
      "length": 128,
      "align1": 4,
      "align2": 8,
      "result": 0,
-     "timings": [26.8414]
+     "timings": [26.7767]
     },
     {
      "length": 128,
      "align1": 4,
      "align2": 8,
      "result": 1,
-     "timings": [29.5855]
+     "timings": [29.6713]
     },
     {
      "length": 128,
      "align1": 4,
      "align2": 8,
      "result": 18446744073709551615,
-     "timings": [30.4992]
+     "timings": [31.0585]
     },
     {
      "length": 256,
      "align1": 5,
      "align2": 10,
      "result": 0,
-     "timings": [46.0824]
+     "timings": [46.134]
     },
     {
      "length": 256,
      "align1": 5,
      "align2": 10,
      "result": 1,
-     "timings": [44.7653]
+     "timings": [44.5615]
     },
     {
      "length": 256,
      "align1": 5,
      "align2": 10,
      "result": 18446744073709551615,
-     "timings": [45.0479]
+     "timings": [45.1317]
     },
     {
      "length": 512,
      "align1": 6,
      "align2": 12,
      "result": 0,
-     "timings": [72.6786]
+     "timings": [72.759]
     },
     {
      "length": 512,
      "align1": 6,
      "align2": 12,
      "result": 1,
-     "timings": [72.2163]
+     "timings": [72.2379]
     },
     {
      "length": 512,
      "align1": 6,
      "align2": 12,
      "result": 18446744073709551615,
-     "timings": [73.5357]
+     "timings": [73.2871]
     },
     {
      "length": 1024,
      "align1": 7,
      "align2": 14,
      "result": 0,
-     "timings": [129.475]
+     "timings": [130.536]
     },
     {
      "length": 1024,
      "align1": 7,
      "align2": 14,
      "result": 1,
-     "timings": [162.738]
+     "timings": [130.276]
     },
     {
      "length": 1024,
      "align1": 7,
      "align2": 14,
      "result": 18446744073709551615,
-     "timings": [134.338]
+     "timings": [167.867]
     },
     {
      "length": 2048,
      "align1": 8,
      "align2": 16,
      "result": 0,
-     "timings": [244.59]
+     "timings": [249.261]
     },
     {
      "length": 2048,
      "align1": 8,
      "align2": 16,
      "result": 1,
-     "timings": [239.38]
+     "timings": [259.779]
     },
     {
      "length": 2048,
      "align1": 8,
      "align2": 16,
      "result": 18446744073709551615,
-     "timings": [242.079]
+     "timings": [251.763]
     },
     {
      "length": 4096,
      "align1": 9,
      "align2": 18,
      "result": 0,
-     "timings": [487.099]
+     "timings": [535.414]
     },
     {
      "length": 4096,
      "align1": 9,
      "align2": 18,
      "result": 1,
-     "timings": [481.927]
+     "timings": [502.989]
     },
     {
      "length": 4096,
      "align1": 9,
      "align2": 18,
      "result": 18446744073709551615,
-     "timings": [485.414]
+     "timings": [488.875]
     }]
   }
  }

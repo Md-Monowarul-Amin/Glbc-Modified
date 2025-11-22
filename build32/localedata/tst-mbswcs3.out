@@ -1,6 +1,0 @@
-used locale: "C"
-wcsrtombs (dst, &src, 1, &state) -> 1, src = srcbuf+1, dst = buf+1
-wcsrtombs (dst, &src, 1, &state) -> 4294967295, src = srcbuf+1, dst = buf+0, expected 0 and srcbuf+1 and buf+1
-wcsrtombs (dst, &src, 4, &state) -> 4294967295, src = srcbuf+1, dst = buf+-1, expected 3 and srcbuf+2 and buf+4
-wcsrtombs (dst, &src, 2, &state) -> 4294967295, src = srcbuf+1, dst = buf+-2, expected 2 and srcbuf+3 and buf+6
-wrong results

@@ -131,3 +131,15 @@ inside /Desktop/glibc_modified/build32$
 run
  make all
  make bench
+
+bench source files exist:
+/home/saraj/Desktop/glibc_modified/benchtests
+
+To run benchmarks:
+~/Desktop/glibc_modified/build32/benchtests$
+
+################### Befor Run BenchMarks ##########################
+
+sudo mkdir -p /opt/glibc-custom/lib
+sudo cp -r ~/glibc-custom-32/lib/* /opt/glibc-custom/lib/
+

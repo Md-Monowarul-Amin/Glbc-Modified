@@ -1,0 +1,296 @@
+  "math-inlines": {
+   "__isnan": {
+    "inf/nan": {
+     "duration": 1.22017e+09,
+     "iterations": 2048,
+     "mean": 595783
+    }
+   },
+   "__isnan_inl": {
+    "inf/nan": {
+     "duration": 1.20828e+09,
+     "iterations": 2048,
+     "mean": 589979
+    }
+   },
+   "__isnan_builtin": {
+    "inf/nan": {
+     "duration": 1.186e+09,
+     "iterations": 2048,
+     "mean": 579103
+    }
+   },
+   "isnan": {
+    "inf/nan": {
+     "duration": 1.18989e+09,
+     "iterations": 2048,
+     "mean": 581000
+    }
+   },
+   "__isinf": {
+    "inf/nan": {
+     "duration": 1.24231e+09,
+     "iterations": 2048,
+     "mean": 606597
+    }
+   },
+   "__isinf_ns2": {
+    "inf/nan": {
+     "duration": 1.22529e+09,
+     "iterations": 2048,
+     "mean": 598286
+    }
+   },
+   "__isinf_ns_builtin": {
+    "inf/nan": {
+     "duration": 1.20897e+09,
+     "iterations": 2048,
+     "mean": 590315
+    }
+   },
+   "__isinf_builtin": {
+    "inf/nan": {
+     "duration": 1.21367e+09,
+     "iterations": 2048,
+     "mean": 592613
+    }
+   },
+   "isinf": {
+    "inf/nan": {
+     "duration": 1.20668e+09,
+     "iterations": 2048,
+     "mean": 589200
+    }
+   },
+   "__finite": {
+    "inf/nan": {
+     "duration": 7.94827e+08,
+     "iterations": 2048,
+     "mean": 388099
+    }
+   },
+   "__finite_inl": {
+    "inf/nan": {
+     "duration": 7.79713e+08,
+     "iterations": 2048,
+     "mean": 380719
+    }
+   },
+   "__isfinite_builtin": {
+    "inf/nan": {
+     "duration": 7.85461e+08,
+     "iterations": 2048,
+     "mean": 383525
+    }
+   },
+   "isfinite": {
+    "inf/nan": {
+     "duration": 7.86394e+08,
+     "iterations": 2048,
+     "mean": 383981
+    }
+   },
+   "__isnormal_inl": {
+    "inf/nan": {
+     "duration": 8.07814e+08,
+     "iterations": 2048,
+     "mean": 394440
+    }
+   },
+   "__isnormal_builtin": {
+    "inf/nan": {
+     "duration": 7.87059e+08,
+     "iterations": 2048,
+     "mean": 384306
+    }
+   },
+   "isnormal": {
+    "inf/nan": {
+     "duration": 7.86443e+08,
+     "iterations": 2048,
+     "mean": 384005
+    }
+   },
+   "__fpclassify": {
+    "inf/nan": {
+     "duration": 8.0029e+08,
+     "iterations": 2048,
+     "mean": 390766
+    }
+   },
+   "__fpclassify_builtin": {
+    "inf/nan": {
+     "duration": 7.99419e+08,
+     "iterations": 2048,
+     "mean": 390341
+    }
+   },
+   "fpclassify": {
+    "inf/nan": {
+     "duration": 8.01668e+08,
+     "iterations": 2048,
+     "mean": 391439
+    }
+   },
+   "remainder_test1": {
+    "inf/nan": {
+     "duration": 3.00536e+09,
+     "iterations": 2048,
+     "mean": 1.46746e+06
+    }
+   },
+   "remainder_test2": {
+    "inf/nan": {
+     "duration": 2.98588e+09,
+     "iterations": 2048,
+     "mean": 1.45795e+06
+    }
+   },
+   "__isnan": {
+    "normal": {
+     "duration": 4.43527e+07,
+     "iterations": 2048,
+     "mean": 21656
+    }
+   },
+   "__isnan_inl": {
+    "normal": {
+     "duration": 3.35694e+07,
+     "iterations": 2048,
+     "mean": 16391
+    }
+   },
+   "__isnan_builtin": {
+    "normal": {
+     "duration": 2.71878e+07,
+     "iterations": 2048,
+     "mean": 13275
+    }
+   },
+   "isnan": {
+    "normal": {
+     "duration": 2.80552e+07,
+     "iterations": 2048,
+     "mean": 13698
+    }
+   },
+   "__isinf": {
+    "normal": {
+     "duration": 5.0166e+07,
+     "iterations": 2048,
+     "mean": 24495
+    }
+   },
+   "__isinf_ns2": {
+    "normal": {
+     "duration": 3.36711e+07,
+     "iterations": 2048,
+     "mean": 16440
+    }
+   },
+   "__isinf_ns_builtin": {
+    "normal": {
+     "duration": 3.45859e+07,
+     "iterations": 2048,
+     "mean": 16887
+    }
+   },
+   "__isinf_builtin": {
+    "normal": {
+     "duration": 3.45923e+07,
+     "iterations": 2048,
+     "mean": 16890
+    }
+   },
+   "isinf": {
+    "normal": {
+     "duration": 3.46181e+07,
+     "iterations": 2048,
+     "mean": 16903
+    }
+   },
+   "__finite": {
+    "normal": {
+     "duration": 5.01966e+07,
+     "iterations": 2048,
+     "mean": 24510
+    }
+   },
+   "__finite_inl": {
+    "normal": {
+     "duration": 3.79153e+07,
+     "iterations": 2048,
+     "mean": 18513
+    }
+   },
+   "__isfinite_builtin": {
+    "normal": {
+     "duration": 4.34903e+07,
+     "iterations": 2048,
+     "mean": 21235
+    }
+   },
+   "isfinite": {
+    "normal": {
+     "duration": 4.39277e+07,
+     "iterations": 2048,
+     "mean": 21449
+    }
+   },
+   "__isnormal_inl": {
+    "normal": {
+     "duration": 6.29657e+07,
+     "iterations": 2048,
+     "mean": 30744
+    }
+   },
+   "__isnormal_builtin": {
+    "normal": {
+     "duration": 5.01455e+07,
+     "iterations": 2048,
+     "mean": 24485
+    }
+   },
+   "isnormal": {
+    "normal": {
+     "duration": 5.0271e+07,
+     "iterations": 2048,
+     "mean": 24546
+    }
+   },
+   "__fpclassify": {
+    "normal": {
+     "duration": 5.37876e+07,
+     "iterations": 2048,
+     "mean": 26263
+    }
+   },
+   "__fpclassify_builtin": {
+    "normal": {
+     "duration": 4.54835e+07,
+     "iterations": 2048,
+     "mean": 22208
+    }
+   },
+   "fpclassify": {
+    "normal": {
+     "duration": 4.44831e+07,
+     "iterations": 2048,
+     "mean": 21720
+    }
+   },
+   "remainder_test1": {
+    "normal": {
+     "duration": 2.37274e+08,
+     "iterations": 2048,
+     "mean": 115856
+    }
+   },
+   "remainder_test2": {
+    "normal": {
+     "duration": 1.69267e+08,
+     "iterations": 2048,
+     "mean": 82649
+    }
+   }
+  }

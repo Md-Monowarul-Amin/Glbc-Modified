@@ -1,0 +1,13 @@
+{
+ "timing_type": "hp_timing",
+ "functions": {
+  "strlen": {
+   "bench-variant": "random",
+   "ifuncs": ["memchr_strlen", "__strlen_sse2_bsf", "__strlen_sse2", "__strlen_ia32"],
+   "results": [
+    {
+     "timings": [2.44083e+06, 2.08741e+06, 3.85969e+06, 3.83274e+06]
+    }]
+  }
+ }
+}

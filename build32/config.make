@@ -85,7 +85,7 @@ memory-tagging = no
 build-shared = yes
 build-profile = no
 build-static-nss = no
-cross-compiling = no
+cross-compiling = yes
 force-install = yes
 build-nscd = yes
 use-nscd = yes
@@ -97,7 +97,7 @@ man-pages-version = 6.9.1
 # Build tools.
 CC = gcc-12 -m32
 CXX = g++-12 -m32
-BUILD_CC = 
+BUILD_CC = gcc
 CFLAGS = -g -O2
 CPPFLAGS-config = 
 extra-nonshared-cflags = 

@@ -2507,6 +2507,52 @@ int trie_lookup_address(uintptr_t addr) {
     return node->is_end; // 1 if exact address found, 0 otherwise
 }
 
+int trie_remove_address(uintptr_t addr) {
+    if (!trie_initialized || !trie_node_pool)
+        return 0;
+
+    struct trieNode *node = trie_node_pool;
+    struct trieNode *stack[sizeof(addr)];
+    unsigned char path[sizeof(addr)];
+
+    unsigned char *bytes = (unsigned char *)&addr;
+
+    /* Traverse and record path */
+    for (size_t i = 0; i < sizeof(addr); i++) {
+        if (!node->children[bytes[i]])
+            return 0; // Address not present
+
+        stack[i] = node;
+        path[i] = bytes[i];
+        node = node->children[bytes[i]];
+    }
+
+    /* Address exists? */
+    if (!node->is_end)
+        return 0;
+
+    /* Logical delete */
+    node->is_end = 0;
+
+    /*
+     * Optional pruning:
+     * Walk backward and remove child pointers
+     * only if node has no children and is not end of another address.
+     */
+    // for (ssize_t i = sizeof(addr) - 1; i >= 0; i--) {
+    //     if (trie_has_children(node) || node->is_end)
+    //         break;
+
+    //     struct trieNode *parent = stack[i];
+    //     parent->children[path[i]] = NULL;
+    //     node = parent;
+    // }
+
+    return 1;
+}
+
+
+
 
 /*.........................................................................................*/
 
@@ -3303,7 +3349,11 @@ static __always_inline void
 tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
 {
   tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
-  trie_insert_address(trie_av, (uintptr_t) e->next);
+
+  if (trie_initialized){
+    trie_insert_address(trie_av, (uintptr_t) e->next);
+  }
+  
   /* Mark this chunk as "in the tcache" so the test in __libc_free will
      detect a double free.  */
   e->key = tcache_key;
@@ -3318,7 +3368,9 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
       e->next = PROTECT_PTR (&e->next, REVEAL_PTR (*ep));
       *ep = PROTECT_PTR (ep, e);
     }
-  trie_insert_address(trie_av, (uintptr_t)e->next);
+  if (trie_initialized){
+    trie_insert_address(trie_av, (uintptr_t) e->next);
+  }
   --(tcache->num_slots[tc_idx]);
 }
 
@@ -3334,8 +3386,13 @@ tcache_get_n (size_t tc_idx, tcache_entry **ep, bool mangled)
   else
     e = REVEAL_PTR (*ep);
 
-  if (trie_lookup_address(e->next) != 1){
+  if (is_trie_initialized() && trie_lookup_address((uintptr_t)e -> next) != 1) {
     malloc_printerr ("malloc(): Invalid trie_lookup_address");
+  }
+
+  /* Only remove from trie if it's initialized */
+  if (is_trie_initialized()) {
+    int remove = trie_remove_address((uintptr_t)e); // Logical Delete
   }
 
   if (__glibc_unlikely (misaligned_mem (e)))
@@ -3528,6 +3585,14 @@ tcache_init (void)
       memset (tcache, 0, bytes);
       for (int i = 0; i < TCACHE_MAX_BINS; i++)
 	tcache->num_slots[i] = mp_.tcache_count;
+
+      /* Initialize trie for this thread's tcache */
+      if (!is_trie_initialized()) {
+        arena_get(trie_av, bytes);
+        init_trie_pool(trie_av);
+        if (trie_av != NULL)
+          __libc_lock_unlock(trie_av->mutex);
+      }
     }
 }
 

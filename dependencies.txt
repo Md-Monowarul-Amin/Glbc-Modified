@@ -60,8 +60,9 @@ cd ~/Desktop/glibc_modified
 rm -rf build32
 mkdir build32
 cd build32
-rm -rf $HOME/glibc-custom-32
 
+rm -f config.cache
+rm -rf $HOME/glibc-custom-32
 
 Set environment to use 32-bit compilation and your toolchain:
 
@@ -71,9 +72,12 @@ export CXX="g++-12 -m32"
 
 Configure for 32-bit:
 
-rm -f config.cache
 glibc_cv_ld_version_ok=yes \
-  ../configure --prefix=$PREFIX32 --disable-werror
+../configure \
+  --prefix=$PREFIX32 \
+  --host=i686-linux-gnu \
+  --build=x86_64-linux-gnu \
+  --disable-werror
 
 Build & install:
 

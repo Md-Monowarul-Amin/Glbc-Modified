@@ -1560,5 +1560,5 @@ _sys_errlist_internal:
 	.string	"/home/saraj/Desktop/glibc_modified/stdio-common"
 .LASF0:
 	.string	"errlist-data-gen.c"
-	.ident	"GCC: (Ubuntu 12.3.0-1ubuntu1~22.04.2) 12.3.0"
+	.ident	"GCC: (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0"
 	.section	.note.GNU-stack,"",@progbits

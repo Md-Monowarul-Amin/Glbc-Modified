@@ -98,7 +98,7 @@ B. Compile a 32-bit test binary that uses your custom 32-bit glibc
 
 Assuming test.c is your source:
 
-gcc-12 -m32 test.c -o test32 \
+gcc-12 -m32 -g test.c -o test32 \
   -Wl,--dynamic-linker=$HOME/glibc-custom-32/lib/ld-linux.so.2 \
   -L$HOME/glibc-custom-32/lib -Wl,-rpath=$HOME/glibc-custom-32/lib
 

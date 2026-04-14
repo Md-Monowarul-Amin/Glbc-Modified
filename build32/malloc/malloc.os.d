@@ -227,7 +227,7 @@ $(common-objpfx)malloc/malloc.os: malloc.c \
  ../sysdeps/i386/malloc-alignment.h ../sysdeps/generic/malloc-hugepages.h \
  ../sysdeps/generic/calloc-clear-memory.h \
  ../sysdeps/unix/sysv/linux/sysdep-cancel.h ../include/libc-internal.h \
- ../include/random-bits.h trie.h morecore.c ../include/malloc.h \
+ ../include/random-bits.h morecore.c ../include/malloc.h \
  ../malloc/malloc.h ../include/stap-probe.h arena.c ../elf/dl-tunables.h \
  $(common-objpfx)dl-tunable-list.h hooks.c
 ../include/stdc-predef.h:
@@ -624,7 +624,6 @@ $(common-objpfx)abi-versions.h:
 ../sysdeps/unix/sysv/linux/sysdep-cancel.h:
 ../include/libc-internal.h:
 ../include/random-bits.h:
-trie.h:
 morecore.c:
 ../include/malloc.h:
 ../malloc/malloc.h:

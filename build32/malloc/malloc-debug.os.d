@@ -235,7 +235,7 @@ $(common-objpfx)malloc/malloc-debug.os: \
  ../include/assert.h ../assert/assert.h ../include/libc-diag.h \
  ../sysdeps/generic/libc-mtag.h ../malloc/malloc-internal.h \
  ../sysdeps/unix/sysv/linux/sysdep-cancel.h ../include/random-bits.h \
- trie.h morecore.c ../include/stap-probe.h arena.c ../elf/dl-tunables.h \
+ morecore.c ../include/stap-probe.h arena.c ../elf/dl-tunables.h \
  $(common-objpfx)dl-tunable-list.h
 ../include/stdc-predef.h:
 $(common-objpfx)libc-modules.h:
@@ -651,7 +651,6 @@ $(common-objpfx)libc-abis.h:
 ../malloc/malloc-internal.h:
 ../sysdeps/unix/sysv/linux/sysdep-cancel.h:
 ../include/random-bits.h:
-trie.h:
 morecore.c:
 ../include/stap-probe.h:
 arena.c:

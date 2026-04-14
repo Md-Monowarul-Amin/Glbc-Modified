@@ -483,5 +483,5 @@ __sys_siglist:
 	.string	"siglist-gen.c"
 .LASF1:
 	.string	"/home/saraj/Desktop/glibc_modified/stdio-common"
-	.ident	"GCC: (Ubuntu 12.3.0-1ubuntu1~22.04.2) 12.3.0"
+	.ident	"GCC: (Ubuntu 12.3.0-1ubuntu1~22.04.3) 12.3.0"
 	.section	.note.GNU-stack,"",@progbits

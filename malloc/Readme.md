@@ -41,75 +41,105 @@ You can wrap that into an alias or small compile script:
 
 
 
-#################### BUILD FOR 32 BIT Binary  ###################################
+# Building & Running a Custom 32-bit glibc
 
-A. Build your modified 32-bit glibc
+This guide walks through compiling a modified 32-bit glibc and linking a test binary against it.
 
-    Ensure multilib support is installed:
+---
 
+## Part A — Build the Modified 32-bit glibc
+
+### 1. Install Multilib Support
+
+```bash
 sudo apt update
 sudo apt install gcc-12-multilib g++-12-multilib libc6-dev-i386
+```
 
-Create a separate install prefix for the 32-bit glibc, e.g.:
+### 2. Set the Install Prefix
 
+```bash
 export PREFIX32=$HOME/glibc-custom-32
+```
 
-Clean / prepare build directory:
+### 3. Clean and Prepare the Build Directory
 
+```bash
 cd ~/Desktop/glibc_modified
 rm -rf build32
 mkdir build32
 cd build32
+rm -f config.cache
 rm -rf $HOME/glibc-custom-32
+```
 
+### 4. Set the 32-bit Toolchain Environment
 
-Set environment to use 32-bit compilation and your toolchain:
-
+```bash
 export PATH=$HOME/binutils-2.41/bin:$PATH
 export CC="gcc-12 -m32"
 export CXX="g++-12 -m32"
+```
 
-Configure for 32-bit:
+### 5. Configure for 32-bit
 
-rm -f config.cache
+```bash
 glibc_cv_ld_version_ok=yes \
-  ../configure --prefix=$PREFIX32 --disable-werror
+../configure \
+  --prefix=$PREFIX32 \
+  --host=i686-linux-gnu \
+  --build=x86_64-linux-gnu \
+  --disable-werror
+```
 
-Build & install:
+### 6. Build and Install
 
+```bash
 make -j$(nproc)
 make install
+```
 
-After this you should have the 32-bit loader at:
+After a successful install, the following files will be present:
 
-    $PREFIX32/lib/ld-linux.so.2
+| File | Description |
+|------|-------------|
+| `$PREFIX32/lib/ld-linux.so.2` | 32-bit dynamic linker/loader |
+| `$PREFIX32/lib/libc.so.6` | 32-bit C library |
 
-    and the matching libc.so.6 there.
+---
 
+## Part B — Compile a 32-bit Test Binary
 
+Compile `test.c` as a 32-bit binary and link it against your custom glibc:
 
-
-################################## Compile for 32 bit binary ##############################
-B. Compile a 32-bit test binary that uses your custom 32-bit glibc
-
-Assuming test.c is your source:
-
-gcc-12 -m32 test.c -o test32 \
+```bash
+gcc-12 -m32 -g test.c -o test32 \
   -Wl,--dynamic-linker=$HOME/glibc-custom-32/lib/ld-linux.so.2 \
-  -L$HOME/glibc-custom-32/lib -Wl,-rpath=$HOME/glibc-custom-32/lib
+  -L$HOME/glibc-custom-32/lib \
+  -Wl,-rpath=$HOME/glibc-custom-32/lib
+```
 
-This embeds:
+This command does three things:
 
-    Your custom interpreter (ld-linux.so.2)
+- **`--dynamic-linker`** — embeds your custom `ld-linux.so.2` as the interpreter
+- **`-L`** — tells the linker where to find your custom `libc.so.6` at link time
+- **`-rpath`** — bakes the runtime library search path into the binary so it loads your custom glibc at execution time, not the system one
 
-    Runtime search path so it picks up your 32-bit libc.so.6
+### Run the Binary
 
-Now just run:
-
+```bash
 ./test32
+```
 
-You should see your debug printf from PROTECT_PTR and the normal output.
+You should see any debug output from your modified glibc (e.g. `fprintf(stderr, ...)` calls from `PROTECT_PTR`, trie operations, etc.) followed by the normal program output.
 
+---
+
+## Notes
+
+- Always `rm -rf build32` and reconfigure from scratch if you change compiler flags or the source significantly — incremental builds can silently pick up stale object files.
+- To verify the binary is using your custom loader, run `readelf -l test32 | grep interpreter`. It should point to `$HOME/glibc-custom-32/lib/ld-linux.so.2`.
+- To verify the runtime library path, run `readelf -d test32 | grep RPATH`.
 
 ########################  BUILD 32 #######################
 

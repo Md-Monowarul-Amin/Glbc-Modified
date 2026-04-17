@@ -40,6 +40,40 @@ will show your debug output (You are inside PROTECT_PTR) every time.
 You can wrap that into an alias or small compile script:
 
 
+# Building & Running a Custom 64-bit glibc
+
+
+## Step 1: Create a fresh 64-bit build directory
+```bash
+cd ~/Desktop/glibc_modified
+mkdir build64
+cd build64
+```
+## Step 2: Configure for 64-bit
+```bash
+export PREFIX64=$HOME/glibc-custom-64
+
+../configure \
+  --prefix=$PREFIX64 \
+  --disable-werror
+```
+
+## Step 3: Build and install
+```bash
+make -j$(nproc)
+make install
+```
+## Step 4: Test it works
+```bash
+# Compile test binary as 64-bit
+gcc -g test_malloc.c -o test_malloc_64_modified \
+  -Wl,--dynamic-linker=$HOME/glibc-custom-64/lib/ld-linux-x86-64.so.2 \
+  -L$HOME/glibc-custom-64/lib \
+  -Wl,-rpath=$HOME/glibc-custom-64/lib
+
+./test_malloc_64_modified
+```
+
 
 # Building & Running a Custom 32-bit glibc
 

@@ -3362,7 +3362,7 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
   tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
 
   if (trie_initialized){
-      fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); // Comment
+      // fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); // Comment
     trie_insert_address(trie_av, (uintptr_t) e->next);
   }
   
@@ -3381,7 +3381,7 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
       *ep = PROTECT_PTR (ep, e);
     }
   if (trie_initialized){
-      fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); //
+      // fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); //
 
     trie_insert_address(trie_av, (uintptr_t) e->next);
   }
@@ -3403,17 +3403,17 @@ tcache_get_n (size_t tc_idx, tcache_entry **ep, bool mangled)
   // Comment //
 
     /* DEBUG — remove after fixing */
-  if (is_trie_initialized()) {
-    int found = trie_lookup_address((uintptr_t)e->next);
-    fprintf(stderr, "[tcache_get] e=%p trie_initialized=%d found=%d\n",
-            (void*)e, is_trie_initialized(), found);
-  } else {
-    fprintf(stderr, "[tcache_get] e=%p trie NOT initialized\n", (void*)e);
-  }
+  // if (is_trie_initialized()) {
+  //   int found = trie_lookup_address((uintptr_t)e->next);
+  //   fprintf(stderr, "[tcache_get] e=%p trie_initialized=%d found=%d\n",
+  //           (void*)e, is_trie_initialized(), found);
+  // } else {
+  //   fprintf(stderr, "[tcache_get] e=%p trie NOT initialized\n", (void*)e);
+  // }
 
-  if (is_trie_initialized() && trie_lookup_address((uintptr_t)e->next) != 1) {
-    malloc_printerr("malloc(): Invalid trie_lookup_address");
-  } 
+  // if (is_trie_initialized() && trie_lookup_address((uintptr_t)e->next) != 1) {
+  //   malloc_printerr("malloc(): Invalid trie_lookup_address");
+  // } 
 
   ////////////////////////////
 

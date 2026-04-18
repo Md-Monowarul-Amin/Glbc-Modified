@@ -2421,6 +2421,8 @@ do_check_malloc_state (mstate av)
 #define TRIE_DEPTH       (sizeof(uintptr_t) * 2)       /* 8-byte addr × 2 nibbles/byte      */
 #define TRIE_SLAB_SIZE   16384    /* nodes per slab                    */
 
+static int trie_fully_ready = 0;
+
 struct trieNode {
     struct trieNode *children[TRIE_BRANCHING];
     int              is_end;
@@ -2437,9 +2439,24 @@ static struct trie_slab   *trie_slab_head = NULL;
 static struct trie_slab   *trie_slab_cur  = NULL;
 static int                 trie_initialized = 0;
 
-/* Two locks: one for one-time init, one guarding slab allocation */
-static pthread_mutex_t trie_init_lock  = PTHREAD_MUTEX_INITIALIZER;
-static pthread_mutex_t trie_slab_lock  = PTHREAD_MUTEX_INITIALIZER;
+static __thread int        trie_in_alloc = 0;
+
+// /* Two locks: one for one-time init, one guarding slab allocation */
+// static pthread_mutex_t trie_init_lock  = PTHREAD_MUTEX_INITIALIZER;
+// static pthread_mutex_t trie_slab_lock  = PTHREAD_MUTEX_INITIALIZER;
+
+
+// static int trie_init_lock = 0;   /* simple spinlock */
+// static int trie_slab_lock = 0;   /* simple spinlock */
+
+/* Add these two macros right after: */
+// #define SPIN_LOCK(lock) \
+//     while (__sync_lock_test_and_set(&(lock), 1)) \
+//         while (lock) __asm__ volatile("pause")
+
+// #define SPIN_UNLOCK(lock) \
+//     __sync_lock_release(&(lock))
+
 
 mstate trie_av;
 
@@ -2462,24 +2479,33 @@ static inline uint8_t get_nibble(uintptr_t addr, size_t level) {
 
 /* ── slab helpers ── */
 static struct trie_slab *alloc_slab(mstate av) {
+    trie_in_alloc = 1;                          /* entering internal alloc */
     struct trie_slab *slab =
         (struct trie_slab *) sysmalloc(sizeof(struct trie_slab), av);
+    trie_in_alloc = 0;                          /* leaving internal alloc  */
     if (!slab) return NULL;
     memset(slab, 0, sizeof(struct trie_slab));
     return slab;
 }
 
 void init_trie_pool(mstate av) {
-    pthread_mutex_lock(&trie_init_lock);
-    if (!trie_initialized) {
-        trie_slab_head = alloc_slab(av);
-        if (trie_slab_head) {
-            trie_slab_cur         = trie_slab_head;
-            trie_slab_head->used  = 1;    /* node[0] reserved as root  */
-            trie_initialized      = 1;
+    if (trie_initialized) return;        /* ADD THIS — fast path, no lock needed */
+    if (trie_in_alloc) return;           /* ADD THIS — avoid reentry */
+
+    static int initializing = 0;
+    if (__sync_bool_compare_and_swap(&initializing, 0, 1)) {
+        if (!trie_initialized) {
+            trie_in_alloc = 1;
+            trie_slab_head = alloc_slab(av);
+            trie_in_alloc = 0;
+            if (trie_slab_head) {
+                trie_slab_cur        = trie_slab_head;
+                trie_slab_head->used = 1;
+                trie_initialized     = 1;
+            }
         }
+        __sync_bool_compare_and_swap(&initializing, 1, 0);
     }
-    pthread_mutex_unlock(&trie_init_lock);
 }
 
 /* Thread-safe node allocator */
@@ -2487,26 +2513,30 @@ static struct trieNode *get_trie_node(mstate av) {
     if (__glibc_unlikely(!trie_initialized))
         init_trie_pool(av);
 
-    pthread_mutex_lock(&trie_slab_lock);
+        /* atomically grab a slot */
+    size_t idx = __sync_fetch_and_add(&trie_slab_cur->used, 1);  
 
-    if (trie_slab_cur->used >= TRIE_SLAB_SIZE) {
+    if (idx >= TRIE_SLAB_SIZE) {
+        /* this thread needs a new slab */
         struct trie_slab *s = alloc_slab(av);
         if (!s) {
-            pthread_mutex_unlock(&trie_slab_lock);
             malloc_printerr("trie: slab OOM — sysmalloc failed");
             return NULL;
         }
-        trie_slab_cur->next = s;
-        trie_slab_cur       = s;
+        s->used = 1;
+        /* CAS to install new slab */
+        __sync_bool_compare_and_swap(&trie_slab_cur->next, NULL, s);
+        trie_slab_cur = s;
+        return &s->nodes[0];
     }
-
-    struct trieNode *node = &trie_slab_cur->nodes[trie_slab_cur->used++];
-    pthread_mutex_unlock(&trie_slab_lock);
-    return node;
+    return &trie_slab_cur->nodes[idx];
 }
 
 /* ── insert ── */
 void trie_insert_address(mstate av, uintptr_t addr) {
+    if (trie_in_alloc) return;
+    if (!trie_fully_ready) return;       /* ADD THIS */
+
     if (__glibc_unlikely(!trie_initialized))
         init_trie_pool(av);
 
@@ -2536,6 +2566,9 @@ void trie_insert_address(mstate av, uintptr_t addr) {
 
 /* ── lookup ── */
 int trie_lookup_address(uintptr_t addr) {
+    if (trie_in_alloc) return 1;
+    if (!trie_fully_ready) return 1;     /* ADD THIS */
+
     if (!trie_initialized || !trie_slab_head) return 0;
 
     struct trieNode *node = &trie_slab_head->nodes[0];
@@ -2550,6 +2583,9 @@ int trie_lookup_address(uintptr_t addr) {
 
 /* ── soft delete ── */
 int trie_remove_address(uintptr_t addr) {
+    if (trie_in_alloc) return 0;
+    if (!trie_fully_ready) return 0;     /* ADD THIS */
+
     if (!trie_initialized || !trie_slab_head) return 0;
 
     struct trieNode *node = &trie_slab_head->nodes[0];
@@ -3361,7 +3397,7 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
 {
   tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
 
-  if (trie_initialized){
+  if (trie_fully_ready){
       // fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); // Comment
     trie_insert_address(trie_av, (uintptr_t) e->next);
   }
@@ -3380,7 +3416,7 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
       e->next = PROTECT_PTR (&e->next, REVEAL_PTR (*ep));
       *ep = PROTECT_PTR (ep, e);
     }
-  if (trie_initialized){
+  if (trie_fully_ready){
       // fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); //
 
     trie_insert_address(trie_av, (uintptr_t) e->next);
@@ -3418,12 +3454,12 @@ tcache_get_n (size_t tc_idx, tcache_entry **ep, bool mangled)
   ////////////////////////////
 
 
-  if (is_trie_initialized() && trie_lookup_address((uintptr_t)e->next) != 1) {
-    malloc_printerr ("malloc(): Invalid trie_lookup_address");
-  }
+if (trie_fully_ready && trie_lookup_address((uintptr_t)e->next) != 1) {
+      malloc_printerr ("malloc(): Invalid trie_lookup_address");
+}
 
   /* Only remove from trie if it's initialized */
-  if (is_trie_initialized()) {
+  if (trie_fully_ready) {
     int remove = trie_remove_address((uintptr_t)e); // Logical Delete
   }
 
@@ -3619,11 +3655,14 @@ tcache_init (void)
 	tcache->num_slots[i] = mp_.tcache_count;
 
       /* Initialize trie for this thread's tcache */
-      if (!is_trie_initialized()) {
+      if (!trie_fully_ready) {
+        trie_fully_ready = 1;          /* SET FIRST before init */
         arena_get(trie_av, bytes);
         init_trie_pool(trie_av);
-        if (trie_av != NULL)
+        if (trie_av != NULL) {
           __libc_lock_unlock(trie_av->mutex);
+        }
+        trie_fully_ready = 1;      /* CORRECT — inside outer if block */
       }
     }
 }
@@ -3696,11 +3735,14 @@ void *
 __libc_malloc (size_t bytes)
 {
   // size_t nb;
-  if (__glibc_unlikely(!trie_initialized)) {
+  if (__glibc_unlikely(!trie_fully_ready)) {
+      trie_fully_ready = 1;    /* CORRECT */
       arena_get(trie_av, NULL);
       init_trie_pool(trie_av);
-      trie_initialized = 1;
+      if (trie_av != NULL)
+        __libc_lock_unlock(trie_av->mutex);
   }
+
 #if USE_TCACHE
   size_t nb = checked_request2size (bytes);
   if (nb == 0)

@@ -2412,13 +2412,17 @@ do_check_malloc_state (mstate av)
 #endif
 
 
-
 /* -------------------- Trie Slab ------------------------- */
 
-/* ─── Nibble trie (16-way) with per-slab spinlock ─────────────────── */
-
 #define TRIE_BRANCHING   16
-#define TRIE_DEPTH       (sizeof(uintptr_t) * 2)       /* 8-byte addr × 2 nibbles/byte      */
+#if __WORDSIZE == 64
+  #define TRIE_SKIP_BYTES  2
+#else
+  #define TRIE_SKIP_BYTES  0
+#endif
+
+#define TRIE_ADDR_BYTES  (sizeof(uintptr_t) - TRIE_SKIP_BYTES)
+#define TRIE_DEPTH       (TRIE_ADDR_BYTES * 2)   /* 2 nibbles per byte */
 #define TRIE_SLAB_SIZE   16384    /* nodes per slab                    */
 
 static int trie_fully_ready = 0;
@@ -3397,10 +3401,10 @@ tcache_put_n (mchunkptr chunk, size_t tc_idx, tcache_entry **ep, bool mangled)
 {
   tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
 
-  if (trie_fully_ready){
-      // fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); // Comment
-    trie_insert_address(trie_av, (uintptr_t) e->next);
-  }
+  // if (trie_fully_ready){
+  //     // fprintf(stderr, "[tcache_put] inserting e=%p into trie\n", (void*)e); // Comment
+  //   trie_insert_address(trie_av, (uintptr_t) e->next);
+  // }
   
   /* Mark this chunk as "in the tcache" so the test in __libc_free will
      detect a double free.  */
